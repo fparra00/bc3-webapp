@@ -52,17 +52,7 @@ const SigninPage : React.FC = () => {
         const fetchDataWithDelay = async() => {
             setLoading(true)
 
-            const response = await fetch('/api/data');
 
-            if (!response.ok) {
-                throw new Error(`Error en la solicitud al servidor intermedio: ${response.statusText}`);
-            }
-
-            const textResponse = await response.text();
-            console.log(textResponse);
-
-            const data = JSON.parse(textResponse);
-            jsonData = data.attributesArray || [];
 
             /* */
 
@@ -90,8 +80,6 @@ const SigninPage : React.FC = () => {
 
             } catch (error) {
                 console.error('Error en la solicitud al servidor intermedio:', error);
-                const textResponse = await response.text();
-                console.log(textResponse);
             }
 
         };
