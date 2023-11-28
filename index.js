@@ -60,7 +60,7 @@ app.get('/SelectProject/', function (req, res) {
       client_secret: secret_id,
       grant_type: 'authorization_code',
       code: code,
-      redirect_uri: 'https://parserbc3.azurewebsites.net/SelectProject/'
+            redirect_uri: 'https://parserbc3.azurewebsites.net/SelectProject/'
       //redirect_uri: 'http://localhost:3001/SelectProject/'
   };
   let confheaders = {
@@ -103,12 +103,9 @@ app.post('/upload', upload.array('myBc3'), (req, res) => {
       });
       python1.on('close', (code) => {
           console.log(`Proceso de Python completado con código ${code}`);
-          io.emit('pythonMessage', { message: 'Mensaje cuando el script de Python ha terminado' });
+          io.emit('pythonMessage', { message: 'Mensaje cuando el script de Python ha terminado'});
       });
-      
-
 });
-
 
 //Llamada a APS para obtener el ID de template
 function findTemplateId() {
