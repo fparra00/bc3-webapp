@@ -1,6 +1,13 @@
 import re
 import io
 from collections import defaultdict
+
+import subprocess
+import sys
+
+# Instalar dependencias usando pip
+subprocess.check_call([sys.executable, "-m", "pip", "install", "requests"])
+
 import requests
 import base64
 import json
