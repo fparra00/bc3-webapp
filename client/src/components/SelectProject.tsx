@@ -51,10 +51,26 @@ const SigninPage : React.FC = () => {
     useEffect(() => {
         const fetchDataWithDelay = async() => {
             setLoading(true)
+
+            const response = await fetch('/api/data');
+
+            if (!response.ok) {
+                throw new Error(`Error en la solicitud al servidor intermedio: ${response.statusText}`);
+            }
+
+            const textResponse = await response.text();
+            console.log(textResponse);
+
+            const data = JSON.parse(textResponse);
+            jsonData = data.attributesArray || [];
+
+            /* */
+
             try {
+
                 await new Promise(resolve => setTimeout(resolve, 5000));
 
-                await fetch('http://localhost:3001/api/data').then(function (response) {
+                const response = await fetch('/api/data').then(function (response) {
                     return response.json();
                 })
                     .then(function (data) {
@@ -63,8 +79,8 @@ const SigninPage : React.FC = () => {
                 console.log(jsonData)
 
                 // let formattedOptions = jsonData.flatMap((item : any[], index : number) =>
-                // item.map((subItem : any, subIndex : number) => ({label: `Proyecto ${subItem}`,
-                // value: `${subItem}`})));
+                // item.map((subItem : any, subIndex : number) => ({label: `Proyecto
+                // ${subItem}`, value: `${subItem}`})));
                 const formattedOptions = jsonData.map((item) => ({
                     label: `Proyecto ${item.name}`, // Ajusta esto según la estructura de tus datos
                     value: `${item.id}`, // Ajusta esto según la estructura de tus datos
@@ -74,7 +90,10 @@ const SigninPage : React.FC = () => {
 
             } catch (error) {
                 console.error('Error en la solicitud al servidor intermedio:', error);
+                const textResponse = await response.text();
+                console.log(textResponse);
             }
+
         };
         fetchDataWithDelay();
     }, []);

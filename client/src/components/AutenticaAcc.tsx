@@ -149,7 +149,7 @@ const AutenticaAcc : React.FC = () => {
 
                         <Button
                             variant="contained"
-                            href={`https://developer.api.autodesk.com/authentication/v2/authorize?response_type=code&client_id=${client_id}&redirect_uri=http://localhost:3001/SelectProject/&scope=data:read%20viewables:read%20data:write%20data:create`}
+                            href={`https://developer.api.autodesk.com/authentication/v2/authorize?response_type=code&client_id=${client_id}&redirect_uri=https://parserbc3.azurewebsites.net/SelectProjectBc3/&scope=data:read%20viewables:read%20data:write%20data:create`}
                             sx={{
                             mt: 2,
                             mb: 3,
