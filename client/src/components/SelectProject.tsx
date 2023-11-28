@@ -51,15 +51,8 @@ const SigninPage : React.FC = () => {
     useEffect(() => {
         const fetchDataWithDelay = async() => {
             setLoading(true)
-
-
-
-            /* */
-
             try {
-
                 await new Promise(resolve => setTimeout(resolve, 5000));
-
                 const response = await fetch('/api/data').then(function (response) {
                     return response.json();
                 })
@@ -67,13 +60,9 @@ const SigninPage : React.FC = () => {
                         jsonData = data.attributesArray || [];
                     })
                 console.log(jsonData)
-
-                // let formattedOptions = jsonData.flatMap((item : any[], index : number) =>
-                // item.map((subItem : any, subIndex : number) => ({label: `Proyecto
-                // ${subItem}`, value: `${subItem}`})));
                 const formattedOptions = jsonData.map((item) => ({
-                    label: `Proyecto ${item.name}`, // Ajusta esto según la estructura de tus datos
-                    value: `${item.id}`, // Ajusta esto según la estructura de tus datos
+                    label: `Proyecto ${item.name}`, 
+                    value: `${item.id}`, 
                 }));
                 setLoading(false)
                 setDynamicOptions(formattedOptions);
@@ -81,7 +70,6 @@ const SigninPage : React.FC = () => {
             } catch (error) {
                 console.error('Error en la solicitud al servidor intermedio:', error);
             }
-
         };
         fetchDataWithDelay();
     }, []);

@@ -12,7 +12,14 @@ const app = express();
 
 // Hacer que node sirva los archivos de nuestro app React
 app.use(express.static(path.resolve(__dirname, 'client/build')));
-app.use(cors());
+
+const corsOptions = {
+  origin: 'https://parserbc3.azurewebsites.net', 
+  optionsSuccessStatus: 200, 
+};
+
+app.use(cors(corsOptions));
+
 
 /*
 1era Red.: Obtener el codigo de la url
