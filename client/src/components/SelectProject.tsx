@@ -40,7 +40,8 @@ const SigninPage : React.FC = () => {
     const handleButtonClick = async() => {
 
         try {
-            const response = await axios.post("http://localhost:3001/UploadNameProject/", dropdownValue);
+            const response = await axios.post("/UploadNameProject", dropdownValue);
+            console.log(dropdownValue)
             setDeberiaRedirigir(true);
 
         } catch (error) {

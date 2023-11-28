@@ -1,0 +1,1152 @@
+~V|RIB Spain|FIEBDC-3/2020\15062023|Presto 22.03||ANSI||2||||
+~L||ESP\Especificación\TEC\Características técnicas\PRE\Condiciones previas\EJE\Ejecución\MED\Medición\CON\Control\SEG\Seguridad y salud\GMA\Gestión ambiental\NOR\Normas de aplicación\MAN\Mantenimiento\VAR\Varios\TEX\Texto sin faceta\|
+~K|\2\2\3\2\2\2\2\EUR\|0\0\0\0\0|3\2\\3\3\\2\2\2\2\2\2\2\2\EUR\|
+~X||ce\Coste energético\MJ\m\Masa del elemento\kg\v\Volumen\m3\ler\Código ler de la lista europea de residuos\\eCO2\Emisión de CO2\kg\|
+~C|%01|%|Útiles y medios auxiliares|1|190121|0|
+~C|%03CI|%|Costes Indirectos (3%)|3|190121|0|
+~C|%08|%|s/ suma por inst. planta y maquinaria de reserva|5|190121|0|
+~C|%20||Utiles especiales trabajos en altura|20|190121|0|
+~C|%BT03020|%|s/ suma en empalmes, terminales, etc.|1|180510|0|
+~C|01_LAM_FIB|kg|Lamina de fibra de vidrio trenzada - 1000 gr/m2|3.2|110412|3|
+~C|01_MASILLA|l|Masilla Polisulfuro|18|110412|3|
+~C|01_M_RESI|kg|Mortero de resina epoxi|3.2|110412|3|
+~C|01_RESI|kg|Resina epoxi de dos componentes alta velocidad de poli.|17.31|110412|3|
+~C|01_RESI_FLEX|kg|Resina flexible|18.47|200312|3|
+~C|09_VAR_0102|ud|ADECUACIÓN AL SMPB EXISTENTE|20340.39|250411|0|
+~D|09_VAR_0102|MAT_038\1\1\MAT_063\1\1\MAT_064\1\1\%03CI\1\0.03\|
+~T|09_VAR_0102|UD. ADECUACIÓN DEL SISTEMA DE MANDO Y PRESENTACIÓN EXISTENTE EN EL AEROPUERTO PARA ACTUALIZAR LOS CIRCUITOS MODIFICADOS DURANTE LAS DISTINTAS FASES DE OBRA Y EN LA SITUACIÓN DEFINITIVA. INCLUYE, SUMINISTRO E INSTALACIÓN DE EQUIPAMIENTO DE COMUNICACIONES, MODIFICACIÓN/AMPLIACIÓN DE EQUIPAMIENTO EXISTENTE, INSTALACIÓN, PUESTA A PUNTO Y PRUEBAS, MODIFICACIÓN DE SOFTWARE PARA PROGRAMACIÓN DE LOS NUEVOS ELEMENTOSY PERSONALIZACIÓN DE SOFTWARE  Y GENERACIÓN Y ENTREGA DE LA DOCUMENTACIÓN ASOCIADA A LOS CAMBIOS REALIZADOS, EN ESTÁNDARES DE AENA AEROPUERTOS. INCLUSO TRABAJOS NOCTURNOS.|
+~C|09_VAR_0103|ud|LEVANTAMIENTO TOPOGRÁFICO|2872.9|211020|0|
+~D|09_VAR_0103|MO_CNTE_003_A\1\90\MO_CNTE_012_C\1\50\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_0103|UD. LEVANTAMIENTO TOPOGRÁFICO QUE COMPRENDE EL REPLANTEO DE BALIZAMIENTO, SEÑALIZACIÓN, SERVICIOS REPUESTOS, FRANJA Y PAVIMENTOS Y ENTREGA DE TODA LA DOCUMENTACIÓN A LA DIRECCIÓN DE OBRA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|09_VAR_0104|ud|ELABORACIÓN TABLA DE PENDIENTES|9271.68|190121|0|
+~D|09_VAR_0104|MO_CNTE_018\1\250\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_0104|UD. ACTUALIZACIÓN DE TABLA DE PENDIENTES EN LAS ZONAS DE ACTUACIÓN, PAVIMENTADAS O NO PAVIMENTADAS. EN PISTA, CALLES DE RODAJE, PLATAFORMA, MÁRGENES, FRANJAS, RESAS, ETC. CONFORME A LOS CRITERIOS ESTABLECIDOS EN EL MANUAL DEL AEROPUERTO, LAS IGEP Y LA DIRECCIÓN FACULTATIVA. SE CONSIDERARÁ TOTALMENTE ENTREGADA CUANDO TODAS LAS PARTES MUESTREN SU CONFORMIDAD CON EL ALCANCE Y FORMATO DE LA DOCUMENTACIÓN PRESENTADA. TOTALMENTE TERMINADO.|
+~C|09_VAR_0150|ud|INFORME DE CARACTERÍSTICAS DE LA SEÑALIZACIÓN HORIZONTAL|5100|190121|0|
+~D|09_VAR_0150|MO_CNTE_010\1\0.06\MO_CNTE_015\1\0.111\MAT_041\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_0150|UD. ELABORACIÓN DE INFORME DE CARACTERÍSTICAS DE LA SEÑALIZACIÓN HORIZONTAL DE LOS ENSAYOS DE MEDICIÓN DE LA REFLECTANCIA, RETROREFLEXIÓN, VISIBILIDAD DIURNA Y CROMATICIDAD, PARA LA PUESTA EN EXPLOTACIÓN, SIGUIENDO EL PROCEDIMIENTO ESTABLECIDO EN LAS IGEP, INCLUYENDO LA TOMA DE DATOS NECESARIO Y LOS MEDIOS MATERIALES ASOCIADOS.  TRABAJOS EN HORARIO NOCTURNO Y DÍAS FESTIVOS INCLUIDOS Y P.P. DE ÚTILES,  MEDIOS AUXILIARES, COSTES INDIRECTOS, Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS SEGÚN PPT.|
+~C|09_VAR_020101|ud|DETERMINACIÓN PCN|4239.22|190121|0|
+~D|09_VAR_020101|MAT_066\1\1300\MAT_067\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_020101|M. DETERMINACIÓN DE PCN MEDIANTE LOS ENSAYOS CORRESPONDIENTES, SEGÚN NORMATIVA VIGENTE. SE REALIZARÁN MÁS DE 10 ENSAYOS POR ZONA Y EN EL REGISTRO DE LOS MISMOS DEBERÁN APARECER LOS DATOS QUE SE ESPECIFICAN EN EL PPT DEL PRESENTE PROYECTO. LOS ENSAYOS SE REALIZARÁN SEGÚN INDICA EL PPT. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|09_VAR_020201|ud|DESPLAZAMIENTO MAQUINARIA ENSAYOS|2413.5|190121|0|
+~D|09_VAR_020201|MAT_067\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_020201|UD. DESPLAZAMIENTO DE MAQUINARIA DE ENSAYOS IDA Y VUELTA AEROPUERTO INSULAR.|
+~C|09_VAR_020202|ud|SERVICIO DE OPERACIÓN EN PAVIMENTO FLEXIBLE|853.05|221020|0|
+~D|09_VAR_020202|MAT_068\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_020202|UD. SERVICIO DE OPERACIÓN PARA REALIZACIÓN DE ENSAYOS DE CAPACIDAD PORTANTE EN PAVIMENTO FLEXIBLE|
+~C|09_VAR_020203|ud|GOLPE DE MEDIDA DE DEFLEXIÓN|6.24|221020|0|
+~D|09_VAR_020203|MAT_069\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_020203|UD. UNIDAD DE GOLPE DE MEDIDA DE DEFLEXIÓN EN PAVIMENTO RÍGIDO REALIZADO POR LA MAQUINARIA DE ENSAYOS, MEDIANTE MÉTODOS VOLUMÉTRICOS. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|09_VAR_020204|ud|SERVICIO DE OPERACIÓN EN PAVIMENTO RÍGIDO|1685.56|190121|0|
+~D|09_VAR_020204|MAT_068R\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_020204|UD. SERVICIO DE OPERACIÓN PARA REALIZACIÓN DE ENSAYOS DE CAPACIDAD PORTANTE EN PAVIMENTO RÍGIDO.|
+~C|09_VAR_020301|ud|DESPLAZAMIENTO MEDIOS HUMANOS Y MATERIALES|7091.1|190121|0|
+~D|09_VAR_020301|MAT_070B\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_020301|UD. DESPLAZAMIENTO IDA Y VUELTA AEROPUERTO INSULAR DE LOS MEDIOS HUMANOS Y MATERIALES PARA REALIZACIÓN DE ENSAYOS DE EVALUACIÓN DE LA TEXTURA SUPERFICIAL|
+~C|09_VAR_020302|km|ENSAYO PARA EVALUACIÓN DE TEXTURA SUPERFICIAL|52.02|221020|0|
+~D|09_VAR_020302|MAT_071\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|09_VAR_020302|KM. EVALUACIÓN DE TEXTURA SUPERFICIAL DE LA PISTA DE VUELOS, MEDIANTE MEDICIONES ALTERNADAS A DERECHA E IZQUIERDA DEL EJE DE LA PISTA, CUBRIENDO EN TODO CASO LA SENDA DE TRÁFICO Y RESULTANDO ENSAYOS REPRESENTATIVOS DE LA SUPERFICIE EVALUADA TANTO EN NÚMERO COMO EN DISTRIBUCIÓN. INCLUYE REGISTRO CON LA INFORMACIÓN MÁS RELEVANTE AL RESPECTO, CONTENIENDO LOS DATOS QUE SE ESPECIFICAN EN EL PPT DEL PRESENTE PROYECTO. TOTALMENTE TERMINADO.  TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|14.02.02|ud|Evaluación de pavimento mediante índice BOEING|5800|190121|3|
+~C|14.02.06|ud|ENSAYO INDICE BOEING|6033.74|190121|0|
+~D|14.02.06|14.02.02\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|14.02.06|UD. EVALUACIÓN DE IRREGULARIDADES SUPERFICIALES EN EL PAVIMENTO DE LA PISTA DE VUELOS, MEDIANTE MEDICIONES ALTERNADAS A DERECHA E IZQUIERDA DEL EJE DE LA PISTA, CUBRIENDO EN TODO CASO LA SENDA DE TRÁFICO Y RESULTANDO ENSAYOS REPRESENTATIVOS DE LA SUPERFICIE EVALUADA TANTO EN NÚMERO COMO EN DISTRIBUCIÓN. INCLUYE REGISTRO CON LA INFORMACIÓN MÁS RELEVANTE AL RESPECTO, CONTENIENDO LOS DATOS QUE SE ESPECIFICAN EN EL PPT DEL PRESENTE PROYECTO. TOTALMENTE TERMINADO.  TRABAJOS EN HORARIO NOCTURNO Y EN DÍAS FESTIVOS INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|AAVV_1160|ud|Caja de luces bidireccional empotrada LED sin filtros color|1300|141020|3|
+~C|AAVV_1161|ud|Caja de luces bidireccional empotrada LED Izda filtro amarillo|1300|141020|3|
+~C|AAVV_1610|ud|Caja de luces unidireccional empotrada LED tramos rectos|550|141020|3|
+~C|AAVV_1803|ud|Caja de luces omnidireccional empotrada LED filtro azul|750|161020|3|
+~C|AAVV_2105|ud|Luz elevada unidireccional LED para luces de barra ala umbral|400|161020|3|
+~C|AAVV_2106|ud|Luz elevada bidireccional led para luces de umbral y extremo de|400|161020|3|
+~C|AAVV_2202|ud|Luz elevada bidireccional LED para luces borde de pista|400|161020|3|
+~C|AAVV_2302|ud|Luz elevada omnidireccional LED para luces borde calle de rodaje|200|161020|3|
+~C|AAVV_4002|ud|Regulador de corriente constante de potencia 2,5 KVA|9410|191020|3|
+~C|AAVV_4021|Ud|REGULADOR DE CORRIENTE CONSTANTE DE POTENCIA 5 KVA TECN SENOIDAL|14500|191020|3|
+~C|AAVV_4022|Ud|REGULADOR DE CORRIENTE CONSTANTE DE POTENCIA 7,5 KVA TECN SENOID|15460|191020|3|
+~C|AAVV_5001|ud|Transformador de aislamiento para circuito 45 W|82|191020|3|
+~T|AAVV_5001|Ud. Transformador de aislamiento para circuitos serie 45 W|
+~C|AAVV_5009|Ud|TRANSFORMADOR DE AISLAMIENTO PARA CIRCUITO 200 W|125|191020|3|
+~T|AAVV_5009|Ud. Transformador de aislamiento para circuitos serie 200 W|
+~C|AAVV_6001|m|Cable para circuito serie de intensidad constante tipo RHV|2.7|191020|3|
+~C|AAVV_6002|m|Cable para circuito serie de intensidad constante tipo RHZ1|3|191020|3|
+~T|AAVV_6002|Mt. Cable para circuito serie de intensidad constante tipo RHZ1|
+~C|AAVV_7001|m|Cable para circuitos secundarios tipo RV unipolar|0.65|191020|3|
+~T|AAVV_7001|Mt. Cable para circuitos secundarios tipo RV unipolar|
+~C|C01#||DEMOLICIONES Y DESMONTAJES|275535.8|020312|0|
+~D|C01#|SC_01.01\1\1\SC_01.02\1\1\SC_01.03\1\1\SC_01.04\1\1\|
+~C|C02#||MOVIMIENTO DE TIERRAS|56063.98|020116|0|
+~D|C02#|VDE_MT_02\1\40\VDE_MT_07\1\109\VDE_MT_03\1\1251\VDE_MT_04\1\40\VDE_MT_05\1\42153.2\|
+~C|C03#||SERVICIOS AFECTADOS|50073.96|080101|0|
+~D|C03#|SC_03.01\1\1\SC_03.02\1\1\SC_03.03\1\1\SC_03.04\1\1\|
+~C|C04#||DRENAJE|47411.28|190121|0|
+~D|C04#|VDE_DR_01\1\184\|
+~C|C05#||PAVIMENTOS|1477137.37|201005|0|
+~D|C05#|VDE_PV_01\1\3957.83\VDE_PV_02\1\5277.11\VDE_PV_03\1\1388.96\VDE_PV_04\1\1388.96\VDE_PV_05\1\78.79\VDE_PV_06\1\70.36\VDE_PV_07\1\37.8\VDE_PV_19\1\136578\VDE_PV_09\1\359\VDE_PV_10\1\14173\VDE_PV_11\1\74138\VDE_PV_12\1\32\VDE_PV_13\1\92\VDE_PV_14\1\51\VDE_PV_15\1\112.52\VDE_PV_16\1\8222.5\VDE_PV_17\1\3\VDE_PV_18\1\645\|
+~C|C06#||ESTRUCTURAS|90981.47|010110|0|
+~D|C06#|VDE_ES_01\1\1\VDE_ES_02\1\1\|
+~C|C07#||SEÑALIZACIÓN HORIZONTAL|155108.81|030611|0|
+~D|C07#|VDE_SH_01\1\6376.65\VDE_SH_02\1\250\VDE_SH_03\1\449.81\VDE_SH_04\1\5152.3\|
+~C|C08#||BALIZAMIENTO|1322064.25|310100|0|
+~D|C08#|SC_08.01\1\1\SC_08.02\1\1\SC_08.03\1\1\SC_08.04\1\1\SC_08.05\1\1\SC_08.06\1\1\SC_08.07\1\1\|
+~C|C09#||ADECUACIÓN DE OBSTÁCULOS|19830.23|010110|0|
+~D|C09#|VDE_SA_13\1\26.44\VDE_AO_02\1\2\VDE_SA_04\1\8.48\|
+~C|C10#||SEGURIDAD OPERACIONAL|216416.4|190121|0|
+~C|C11#||GESTIÓN DE RESIDUOS|169829.89|020116|0|
+~D|C11#|VDE_GR_01\1\23.69\VDE_GR_02\1\629\VDE_GR_03\1\23.69\VDE_GR_04\1\3706\VDE_GR_05\1\6.12\VDE_GR_06\1\1\|
+~C|C12#||INTEGRACIÓN AMBIENTAL|30600.04|151198|0|
+~D|C12#|SC_12.01\1\1\SC_12.02\1\1\SC_12.03\1\1\SC_12.04\1\1\|
+~C|C13#||SEGURIDAD Y SALUD|46800.49|190121|0|
+~D|C13#|VDE_SYS_01\1\1\|
+~C|C14#||VARIOS|89022.61|250411|0|
+~D|C14#|SC_14.01\1\1\SC_14.02\1\1\|
+~C|C15#||ACTUACIONES ADECUACIÓN A NUEVAS NECESIDADES|114623.42|190121|0|
+~D|C15#|VIT_AC_01\1\1\|
+~C|CUADADB|ud|Armario de control MCU800D-SFL|7995|170521|3|
+~C|FASTFIX138|kg|Mortero de fraguado rápido SIKA FasFix 138TP o equivalente|1.15|190121|3|
+~C|M01HA010|h|Autobomba hormigón h.40 m3 pluma <=32 m|153.2|020116|2|
+~A|M01HA010|pluma\hormigón\|
+~C|M02CA010|h|Carretilla elev.diesel ST 1,3 t.|6.18|190121|2|
+~C|M03MC110|h|Planta asfáltica caliente discontínua 160 t/h|332.21|020116|2|
+~A|M03MC110|asfalto\planta\discontinuo\caliente\|
+~C|M03MC130|h.|Planta asfáltica caliente 260 t/h|428.65|190121|2|
+~A|M03MC130|discontinuo\caliente\|
+~C|M03MC131|h|Planta asfáltica caliente discontínua 260 t/h (Reserva)|428.65|190121|2|
+~C|M05EC020|h|Excavadora hidráulica cadenas 135 CV|63.18|020312|2|
+~C|M05EC030|h|Retroexcavadora hidráulica cadenas 195 cv|63.66|190121|2|
+~A|M05EC030|excavación\hidráulico\cadena\|
+~C|M05EC050|h|Retroexcavadora hidráulica cadenas 350 cv|96.41|171116|2|
+~A|M05EC050|retroexcavadora\hidráulico\cadena\|
+~G|M05EC050|6aS64NDRU4PA22$CoREeAElt.jpg\|
+~C|M05EN020b|h|Excavadora hidráulica cadenas 195 CV|93.5|200521|2|
+~C|M05EN030|h|Retroexcavadora hidráulica neumáticos 100 cv|50.31|190121|2|
+~A|M05EN030|excavación\hidráulico\cadena\|
+~C|M05EN040|h|Retroexcavadora hidráulica neumáticos 144 cv|53.93|020116|2|
+~A|M05EN040|retroexcavadora\neumático\hidráulico\|
+~C|M05EN050|h.|Retroexcavad.c/martillo rompedor|90|190121|2|
+~A|M05EN050|rompedor\|
+~C|M05FP030|h|Fresadora pavimento en frío a=2000 mm|301.99|190121|2|
+~C|M05PC020|h|Pala cargadora cadenas 130 cv/1,8 m3|50|190121|2|
+~A|M05PC020|pala\cadena\cargador\|
+~C|M05PN010|h|Pala cargadora neumáticos 85 cv 1,2 m3|31.86|190121|2|
+~A|M05PN010|pala\neumático\cargador\|
+~C|M05RN010|h.|Retrocargadora neumáticos 50 CV|20.19|190121|2|
+~C|M05RN020|h|Retrocargadora neumáticos 75 cv|25.87|190121|2|
+~A|M05RN020|neumático\|
+~C|M05RN030|h|Retrocargadora neumáticos 100 CV|47.6|310103|2|
+~C|M06CM030|h|Compresor portátil diesel media presión 5 m3/min 7 bar|5.89|020116|2|
+~A|M06CM030|medio\portátil\presión\diesel\compresor\|
+~G|M06CM030|E3z3qY26y7s37gxDHK0Vl2dV.jpg\|
+~C|M06CM050|h|Compresor portátil diesel media presión 17 m3/min 7 bar|15.53|190121|2|
+~C|M06CP010|h|Compresor portátil diesel 10 m3/min 12 bar|20.28|020116|2|
+~A|M06CP010|portátil\diesel\compresor\|
+~C|M06MI010|h|Martillo manual picador neumático 9 kg|2.68|190121|2|
+~A|M06MI010|picar\neumático\manual\martillo\|
+~C|M06MR110|h|Martillo manual rompedor neum. 22 kg|1.99|010110|2|
+~A|M06MR110|rompedor\martillo\|
+~C|M06MR230|h|Martillo rompedor hidráulico 600 kg|11.41|190121|2|
+~A|M06MR230|rompedor\hidráulico\martillo\|
+~C|M06MR240|h|Martillo rompedor hidráulico 1000 kg|15.5|190121|2|
+~A|M06MR240|rompedor\hidráulico\martillo\|
+~C|M06VR110|h|Carro perforador hidráulico sobre ruedas|53.76|010521|2|
+~C|M07AA030|h|Dumper autocargable 3.000 kg.|7.03|190121|2|
+~C|M07AF010|h|Dumper rígido descarga frontal 1500 kg - 4x2|4.62|010521|2|
+~A|M07AF010|rígido\descarga\frontal\|
+~C|M07AF030|h|Dumper rígido descarga frontal 2000 kg 4x4|5.98|020116|2|
+~A|M07AF030|rígido\descarga\frontal\|
+~G|M07AF030|Cs97D_9Hi7Y94cD79I6vS8Aa.jpg\BXy7Op1Bg0nkCM24iPFT5AAX.jpg\|
+~C|M07AF040|h|Dumper rígido descarga frontal 3000 kg - 4x2|9.29|020116|2|
+~A|M07AF040|rígido\descarga\frontal\|
+~C|M07CB005M|h|Vehículo transporte equipos y materiales|40.14|270617|2|
+~C|M07CB020|h|Camión basculante 4x4 de 14 t|34.92|020116|2|
+~A|M07CB020|basculante\camión\|
+~C|M07CB030|h|Camión basculante 6x4 20 t.|39.01|190121|2|
+~A|M07CB030|basculante\camión\|
+~C|M07CB040|h|Camión basculante 6x6 de 26 t|39.01|020116|2|
+~A|M07CB040|basculante\camión\|
+~C|M07CG010|h|Camión con grúa 6 t|42.89|190121|2|
+~C|M07CG020|h|Camión con grúa 12 t|55.14|230121|2|
+~A|M07CG020|grúa\camión\|
+~C|M07CH010|h|Camión hormigonera 6 m3|37.56|020116|2|
+~A|M07CH010|hormigón\camión\|
+~C|M07CT010|h|Camión tráiler-góndola|58.4|030521|2|
+~C|M07N032|m3|Canon suelo adecuado préstamo|1.91|171116|2|
+~A|M07N032|préstamo\suelo\|
+~C|M07N070|m3|Canon de escombros a vertedero|10.82|020116|2|
+~A|M07N070|escombro\vertedero\|
+~C|M07N090|m3|Canon de piedra a vertedero|11.86|020116|2|
+~A|M07N090|piedra\vertedero\|
+~C|M07N231|t|Cánon RCDs Pétreos|23.35|190121|3|
+~C|M07N232|t|Cánon Nivel I|12.25|190121|3|
+~C|M07N241|t|Cánon RCDs No Pétreos|25.65|160221|3|
+~C|M07W011|t|km transporte de piedra|0.16|020116|2|
+~A|M07W011|transporte\piedra\|
+~C|M07W020|km|Transporte t zahorra|0.13|190121|2|
+~A|M07W020|zahorra\transporte\|
+~C|M07W030|t|km transporte aglomerado|0.13|020116|2|
+~A|M07W030|transporte\aglomerado\|
+~C|M07W080|t|km transporte tierras en obra|0.48|190121|2|
+~A|M07W080|transporte\tierra\maquinaria\|
+~C|M07W110|m3|km transporte hormigón|0.32|020116|2|
+~A|M07W110|transporte\hormigón\|
+~C|M07Z110|u|Desplazamiento equipo 5000 tm M.B.|123.04|020116|2|
+~A|M07Z110|equipo\|
+~C|M08B020|h|Barredora remolcada c/motor auxiliar|11.3|020116|2|
+~A|M08B020|auxiliar\barredora\|
+~C|M08CA110|h|Cisterna agua s/camión 10.000 l|32|020116|2|
+~A|M08CA110|cisterna\agua\|
+~C|M08CA130|h|Camión cisterna de agua 8 m3|40|020116|2|
+~A|M08CA130|cisterna\agua\camión\|
+~C|M08CB010|h|Camión cisterna bituminadora c/lanza 10.000 l|43|020116|2|
+~A|M08CB010|betún\cisterna\camión\|
+~C|M08EA100|h|Extendedora asfáltica cadenas 2,5/6 m 110cv|94|020116|2|
+~A|M08EA100|asfalto\cadena\|
+~C|M08NM010|h|Motoniveladora de 135 cv|62|020116|2|
+~A|M08NM010|nivel\|
+~C|M08NM020|h|Motoniveladora de 200 cv|72|190121|2|
+~A|M08NM020|nivel\|
+~C|M08RB030|h|Bandeja vibrante revers. 450-500 kg  a=80 cm|5.2|020116|2|
+~A|M08RB030|bandeja\vibración\|
+~G|M08RB030|3iA5i2DKR05L4z_02I6Wt4hf.jpg\|
+~C|M08RI005|h|Pisón compactador gasolina 60-65kg a=28cm|2.61|010521|2|
+~C|M08RL010|h.|Rodillo vibrante manual tándem 800 kg.|7.48|140208|2|
+~C|M08RL020|h.|Rodillo manual lanza tándem 800 kg|6|190121|2|
+~C|M08RN040|h|Rodillo compactador mixto 14 t  a=214 cm|39.13|020116|2|
+~A|M08RN040|rodillo\mixto\compacto\|
+~G|M08RN040|16kAvg75Q7CiElEEgA9D9Ezw.jpg\|
+~C|M08RN050|h|Rodillo compactador mixto 18 t  a=222 cm|47.88|020116|2|
+~A|M08RN050|rodillo\mixto\compacto\|
+~G|M08RN050|EFh7ZTADQ7J82InBM_4vzCB8.jpg\|
+~C|M08RT050|h|Rodillo compactador tándem 10 t|50|020116|2|
+~A|M08RT050|rodillo\compacto\|
+~C|M08RV020|h|Compactador asfalto neumático automatico 12/22 t|57|020116|2|
+~A|M08RV020|neumático\asfalto\automático\compacto\|
+~C|M09F010|h|Cortadora de pavimentos|8.79|010110|2|
+~A|M09F010|pavimentación\|
+~C|M09F020|h|Equipo sellado fisuras i/lanza t.|45.59|190121|2|
+~C|M09F033|h|Fresadora pavimento en frio A=3000|309.75|010110|2|
+~A|M09F033|frío\|
+~C|M09F070|h.|Barredora autopropulsada de 20CV|50.53|190121|2|
+~A|M09F070|autopropulsado\|
+~C|M0CBAL91L|ud|Corona de diamante diámetro variable|450|010521|2|
+~C|M10HV220|h.|Vibrador hormigón gasolina 75 mm|3.19|310100|2|
+~C|M11HC130_|h|Perforadora de hormigón. Diamante|87.15|200312|2|
+~C|M11HF020|h|Fratasadora de hormigón helicóptero eléctrica|5.5|190121|2|
+~C|M11HG020|h|Gunitadora de taludes|20.86|020116|2|
+~A|M11HG020|talud\|
+~C|M11HV040|h|Aguja neumática s/compresor D=80 mm|1.61|020116|2|
+~A|M11HV040|aguja\neumático\|
+~C|M11TT031|h|Equipo de iluminación móvil|14.88|260816|2|
+~C|M13EF020|m2|Encofrado panel metálico 5/10 m2 50 posturas|2.87|020116|2|
+~A|M13EF020|metal\panel\encofrar\|
+~C|M13EF040|m|Fleje para encofrado metálico|0.32|020116|2|
+~A|M13EF040|metal\fleje\encofrar\|
+~C|M13O410|u|Cambio y entrega cont. 125 km|160.96|190121|3|
+~C|M14FG010|h|Hidrolimpiadora gasolina 170 bar - 750 l/h - 6,5CV|3.63|030521|2|
+~C|MAQ.055|h|Retroexcavadora sobre ruedas de 14 tm.|42.75|200616|2|
+~C|MAQ.082B|h|Rodillo vibrante autoprop. tándem 10 t.|48|201005|2|
+~A|MAQ.082B|rodillo\vibración\|
+~C|MAQ.100|h|Equipo de iluminación móvil|14.88|210321|2|
+~C|MAQ.102|h.|Equipo pintabanda autopro. 22 l.|48.91|030611|2|
+~A|MAQ.102|equipo\|
+~C|MAQ.105||Cesta trabajos en altura|37.15|190121|2|
+~C|MAQ.200|h|Rodillo vibratorio 95 cm.1211 kg|8.34|080101|2|
+~C|MAQ_37|h|Camión con equipo de aspiración|28|040913|2|
+~C|MAQ_47|h|Máquina granalladora|80|040913|2|
+~C|MAT_001|m2|Geomalla de refuerzo|1.85|190121|3|
+~C|MAT_0018B|ud|Arqueta pref.1000x1000x1500mm, i/ losa horm. reducc.y tapa D-400|465.2|190121|0|
+~C|MAT_002C|kg|Malla de acero 15x30 cm D=6mm|2.3|300916|3|
+~C|MAT_003|m3|Arena de río 0/6 mm|17.39|310516|3|
+~A|MAT_003|areno\río\material\|
+~C|MAT_0074|m3|Grava machaqueo 40/80 mm|0.14|190121|3|
+~C|MAT_009|t|Zahorra artificial|7.92|281015|3|
+~C|MAT_010B|m²|Geotextil de 420 g/m2|0.52|301107|3|
+~C|MAT_012|m2|Encachado piedra 40/80 e=20 cm.|8.53|300916|3|
+~C|MAT_015|ud|Sumidero sifónico PVC c/ rejilla 300x300|27.63|300916|3|
+~C|MAT_016|ud|S.grasas PE 15 h.e. <> 325 l|355.99|031016|3|
+~C|MAT_017|ud|Registro s. grasas|35.2|031016|3|
+~C|MAT_020|ud|Reposición mezclas asfálticas|38.13|190121|3|
+~C|MAT_021B|m|Canaleta prefabricada de hormigon de 30 x 35 cm|143.37|070411|3|
+~C|MAT_025D|m2|Lámina de plástico|0.25|300916|3|
+~C|MAT_030B|t|Betún asfáltico tipo pbm 45/80-65|650|190121|3|
+~C|MAT_030C|t|Fibras celulosa p/ MBC SMA-11|2301.91|110416|3|
+~C|MAT_033|ud|Medida fotométrica de ayudas visuales|4800|200616|3|
+~C|MAT_035C|m2|Lámina geotextil imp.|3.45|010315|3|
+~C|MAT_038|ud|Equipamiento de comunicaciones|2087.62|250411|3|
+~C|MAT_040J|m2|Tablero encofrar 17 mm. 4 p.|2.31|300916|3|
+~C|MAT_041|ud|Informe de características de la señalización horizontal|4900|190121|3|
+~C|MAT_041D|m3|Hormigón HA-25/P/20 desde central|99|190121|3|
+~C|MAT_050|t|Filler|82.79|190121|3|
+~C|MAT_051|ud|Punto de anclaje|65|190121|3|
+~C|MAT_062|kg|Laca acrílica en disolución|5.6|040913|3|
+~C|MAT_063|ud|Instalación, puesta a punto y pruebas|9100.33|040321|3|
+~C|MAT_064|ud|Modificación software y documentación|8560|310316|3|
+~C|MAT_066|m|Determinación PCN|1.35|190121|3|
+~C|MAT_067|ud|Desplazamiento maquinaria ensayos|2320|190121|3|
+~C|MAT_068|ud|Servicio operación capacidad portante flexible|820|221020|3|
+~C|MAT_068R|ud|Servicio operación capacidad portante rígido|1620.26|190121|3|
+~C|MAT_069|ud|Golpe de medida de deflexión|6|221020|3|
+~C|MAT_070B|ud|Desplazamiento medios humanos y materiales|6816.4|190121|3|
+~C|MAT_071|km|Evaluación de textura superficial|50|221020|3|
+~C|MAT_090|ud|Frangibilización de estación|8350|190121|3|
+~C|MAT_1105|t|Canon RPS|490|190121|3|
+~C|MAT_115C|m|Tubo PVC liso multicapa encolado 110 mm|14.43|300916|3|
+~C|MAT_120|m|Atarjea|98.03|190121|3|
+~C|MAT_152|m|Bandeja metálica perforada libre de halógenos|38.64|190121|3|
+~C|MAT_153|ud|Soporte horizontal libre de halógenos i/tornillos|15.52|190121|3|
+~C|MAT_209|ud|Útil de calibración|580|230519|3|
+~C|MAT_211|ud|Vuelo calibración PAPI|12000|190121|3|
+~C|MAT_212|ud|Tránsito|4687.58|170811|3|
+~C|MAT_213|ud|Georeferenciación de unidades|2343.79|170811|3|
+~C|MAT_305|m|Cable Cu DV 0.6/1 KV 1x2.5 mm2|1.35|161120|3|
+~C|MAT_307|ud|Conector II hembra p/cable 2x2.5 y aislamiento 0,6/1 Kv, tipo II, clase B y estilo 11 ó 12, según especificación FAA AC 150/53|23.5|161120|3|
+~C|MAT_600|ud|Cerco y tapa de fundición D400|480|190121|3|
+~C|MAT_610|m|Malla plástica stopper 1,00 m.|0.98|010111|3|
+~C|MAT_700|l|P. pl. ext/int estándar b/c Mate|3.56|010111|3|
+~C|MAT_701|ud|Informe final de corrección ambiental|338.82|281016|3|
+~C|MAT_702|ud|Informe mensual|144.75|041115|3|
+~C|MAT_703|ud|Soporte angular metalico de 25 mm de diametro y 1,5 m de long.|1.76|151198|3|
+~T|MAT_703|Soporte angular metálico de 25 mm de diámetro y 1,5 m de longitud.|
+~C|MAT_705|m|Malla de señalización de obra|0.17|111208|3|
+~T|MAT_705|Malla reticular de plástico, de señalizción de obra.|
+~C|MAT_803|u|Contenedor de reciclado|142.1|300316|3|
+~T|MAT_803|Contenedor para recogida selectiva de residuos de polietileno de alta densidad, colocado en zona de instalaciones auxiliares, incluida la retirada y tratamiento por Gestor Autorizado en la forma y periodicida dque decida en Director Ambiental de Obra, y como mínimo, cada seis meses.|
+~C|MAT_810|m|Vallado metálico de triple torsión|47.27|300316|3|
+~T|MAT_810|Vallado metálico de triple torsión en zona de instalaciones auxiliares de 1,20 metros de altura, incluso excavación cimentación postes y parte proporcional de puertas de acceso, postes, alambres y anclajes, totalmente terminada. Incluida demolición a la finalización de las obras. No se incluye la retirada a vertedro autorizado de los escombros, que se computa en el capítulo de Gestión de Residuos.|
+~C|MAT_812|m|Marquesina para punto limpio de residuos peligrosos|143.56|300316|3|
+~T|MAT_812|estructura de acero para cubierta de chapa de acero de 0,6 mm de espesor en perfil comercial galvanizado por ambas caras sobre correas metálicas, incluida cimentación en HA-30/B/ll proc/Central. Incluida demolición posterior a la finalizaicón de la actividad. No se incluye el transporte de escombros a vertedero, que se computa en el capítulo de Gestión de Residuos.|
+~C|MO_CNTE_003_A|h|Ingeniero Topógrafo|22.79|211020|1|
+~C|MO_CNTE_005|h|Encargado-Encargado General|18.51|190121|1|
+~C|MO_CNTE_007|h|Capataz|16.12|190121|1|
+~C|MO_CNTE_010|h|Oficial 1ª de Oficio|14.65|190121|1|
+~C|MO_CNTE_010_A|h|Maquinista o conductor|14.65|190121|1|
+~C|MO_CNTE_011|h|Oficial 2ª de Oficio|14.43|190121|1|
+~C|MO_CNTE_012|h|Ayudante de Oficio/Oficial|14.21|190121|1|
+~C|MO_CNTE_012_A|h|Ayudante encofrador|14.21|190121|1|
+~A|MO_CNTE_012_A|ayudante\encofrar\|
+~C|MO_CNTE_012_B|h|Ayudante electricista|14.21|190121|1|
+~C|MO_CNTE_012_C|h|Ayudante de topografía|14.21|190121|1|
+~C|MO_CNTE_012_D|h|Ayudante cerrajero|14.21|190121|1|
+~A|MO_CNTE_012_D|cerrajería\ayudante\|
+~C|MO_CNTE_013|h|Oficial 1ª encofrador|14.65|190121|1|
+~A|MO_CNTE_013|encofrar\|
+~C|MO_CNTE_013_A|h|Oficial 1ª electricista|14.65|190121|1|
+~C|MO_CNTE_013_B|h|Oficial 1ª cerrajero|14.65|190121|1|
+~A|MO_CNTE_013_B|cerrajería\|
+~C|MO_CNTE_014_A|h|Oficial 2ª electricista|14.43|190121|1|
+~C|MO_CNTE_015|h|Peón Especializado/Especialista|14|190121|1|
+~A|MO_CNTE_015|especial\|
+~C|MO_CNTE_016|h|Peón Ordinario|13.8|190121|1|
+~C|MO_CNTE_017|h|Arqueologo|35.65|190121|1|
+~C|MO_CNTE_018||Titulado superior|35.65|190121|1|
+~C|MULTIDRAIN300|m|Canal D400 hormigón polímero/tapa fundición de 300mm|309.28|080121|3|
+~C|P00250804|ud|Conector unipolar macho|21.01|050814|3|
+~C|P01AE030|t|Escollera de 1000 kg|25|190121|3|
+~A|P01AE030|escollera\|
+~C|P01AF030|t|Zahorra artificial ZA(40)/ZA(25) 75%|6.49|190121|3|
+~A|P01AF030|zahorra\artificial\|
+~C|P01AF245|t|Árido machaqueo 0/3 mm D.A.<25|8.11|190121|3|
+~C|P01AF246|t|Árido machaqueo 3/6 mm D.A.<25|8.97|190121|3|
+~C|P01AF250|t|Árido machaqueo 0/6 mm D.A.<25|8.11|190121|3|
+~C|P01AF260|t|Árido machaqueo 6/12 mm D.A.<25|7.83|190121|3|
+~A|P01AF260|machaqueo\|
+~C|P01AF270|t|Árido machaqueo 12/18 mm D.A.<25|7.34|190121|3|
+~C|P01AF280|t|Árido machaqueo 18/25 mm D.A.<25|7.22|190121|3|
+~C|P01AF290|t|Árido machaqueo 25/40 mm D.A.<25|7.14|190121|3|
+~C|P01AF300|t|Árido machaqueo 0/6 mm D.A.<20|9.73|010110|3|
+~C|P01AF310|t|Árido machaqueo 6/12 mm D.A.<20|9.16|010110|3|
+~C|P01AF320|t|Árido machaqueo 12/18 mm D.A.<20|8.78|010110|3|
+~C|P01AF800|t|Filler calizo mezcla bituminosa caliente factoría|34.27|010110|3|
+~C|P01AG130|m3|Grava 40/80 mm.|22.07|250215|3|
+~A|P01AG130|grava\|
+~C|P01CC030R|m3|Mezcla suelo cemento|14.08|190121|3|
+~C|P01DC040|l|Desencofrante p/encofrado metálico|1.53|010110|3|
+~A|P01DC040|metal\desencofrante\|
+~C|P01DC060|l|Desencofrante universal alta calidad|2.65|190121|3|
+~A|P01DC060|metal\desencofrante\|
+~C|P01DW050|m3|Agua|1.27|190121|3|
+~T|P01DW050|Agua|
+~C|P01DW090|ud|Pequeño material|1.25|210207|3|
+~A|P01DW090|material\|
+~C|P01DW280|kg|Fibra polipropileno|11.27|010110|3|
+~A|P01DW280|fibra\polipropileno\|
+~C|P01EB010|m3|Tablón pino 2,50/5,50x205x76 cm|197.47|010110|3|
+~A|P01EB010|pino\tablón\|
+~C|P01EM280|m3|Madera pino encofrar 22 mm|222.57|190121|3|
+~C|P01HA390|m3|Hormigón HA-30/P/20/IIa central|105|190121|3|
+~C|P01HA631|m3|Hormigón blanco HA-30/B/20/IIa central|105|190121|3|
+~A|P01HA631|blanco\hormigón\central\|
+~C|P01HM010SL|m3|Hormigón HM-20/P/20/IIa central|97|190121|3|
+~C|P01HMV220|m3|Hormigón HM-20/P/20/I central|97|190121|3|
+~A|P01HMV220|HORMIGON\CENTRAL\|
+~C|P01HN310|m3|Hormigón HL-150/P/20 central|63|190121|3|
+~C|P01HW070|m3|Gunita fabricada en planta|65.58|010110|3|
+~A|P01HW070|fabricación\planta\|
+~C|P01PC010|kg|Fuel-oil pesado 2,7 S tipo 1|0.49|010110|3|
+~A|P01PC010|pesado\|
+~C|P01PL010|t|Betún B 50/70 a pie de planta|520|190121|3|
+~A|P01PL010|betún\planta\pie\|
+~C|P01PL110|tn|Emulsión termoadherente|293.22|190121|2|
+~C|P01PL170|kg|Emulsión asfáltica ECI|0.31|010110|3|
+~A|P01PL170|emulsión\asfalto\|
+~C|P01PL170B|m2|Tratamiento anticarburante|9.78|190121|3|
+~C|P01RF020|kg|Mástic BM con elastómeros|1.76|190121|3|
+~C|P01UA040|kg|Resina epoxi|7.82|010110|3|
+~A|P01UA040|epoxi\resina\|
+~C|P01UC030|kg|Puntas 20x100 mm|8.04|010110|3|
+~A|P01UC030|punta\|
+~C|P0244011|ud|Rótulo de identificación|4.63|150706|3|
+~T|P0244011|Rótulo de identificación de material inoxidable, grabado.|
+~C|P0250604|ud|Conector bipolar macho|7.98|050814|3|
+~C|P0250704|ud|Conector bipolar hembra|17.88|270617|3|
+~C|P0250714|ud|Conector unipolar hembra|21.01|050814|3|
+~C|P02EPT020|u|Tapa Fundición canaleta|246.26|190121|3|
+~A|P02EPT020|insonorización\junta\|
+~C|P03AAA020|kg|Alambre atar 1,3 mm|0.88|190121|3|
+~A|P03AAA020|alambre\|
+~C|P03ACD010|kg|Acero corrugado elaborado B 500 SD|1.42|190121|3|
+~A|P03ACD010|corrugado\acero\elaboración\|
+~C|P03AM030|m2|Malla electrosoldada #150x150x6 mm - 2,870 kg/m2|1.85|020116|3|
+~A|P03AM030|malla\electrosoldadura\|
+~C|P03AM040|m2|Malla electrosoldada #150x150x8 mm - 5,012 kg/m2|3.19|020116|3|
+~A|P03AM040|malla\electrosoldadura\|
+~C|P0529C5X4|m|Cable Cu RZ1-k 0,6/1 kV 5x4mm2|5.37|180510|3|
+~C|P0CORD|m|Cordón polipropileno sellado juntas|0.5|030521|3|
+~C|P0PROBI|kg|Sellador autonivelante a base de alquitrán poliuretano|9.49|030521|3|
+~C|P15AF06030|m.|Tubo polietileno rojo doble pared D 110 mm|5.65|190121|3|
+~C|P15AH010|m.|Cinta señalizadora|0.15|220206|3|
+~C|P15AH020|m.|Placa cubrecables|1.7|220206|3|
+~C|P15AH430|ud|Pequeño material para instalación|1.4|190121|3|
+~C|P15EB010|m|Conductor cobre desnudo 16 mm2|1.69|050814|3|
+~C|P15NCC040|m|Cable Cu 0,6/1kV RZ1-K (AS) B2ca-s1a,d1,a1 - 4x6 mm2|4.23|160521|3|
+~C|P15UBC060|m|Tubo flexible PVC corrugado D50 mm|1.17|030521|3|
+~C|P17BT1202|ud|Pica acero cobrizado L=2 m, diámetro 14.6 mm|4.62|280803|3|
+~C|P22TC57020C|ud|Soporte separador D=110 mm. 4 alo|0.5|190121|3|
+~C|P22TW500|m.|Hilo acerado 2 mm. para guía|0.06|220206|3|
+~C|P27EH012|kg|Pintura acrílica base acuosa|3.7|190121|3|
+~C|P27EH040|kg|Microesferas vidrio tratadas|1.75|190121|3|
+~C|P31CB300|kg|Puntas planas acero 20x100 mm|0.93|190121|3|
+~A|P31CB300|punta\|
+~C|P35BB060|u|Sacas big-bag de 1000l.|11.58|190121|3|
+~C|P35BP145|kg|Tratamiento envases met.cont.|0.15|190121|3|
+~C|P35BT020|u|Retir. Camión 3,5 t pma 200km exclusivo|102.82|190121|3|
+~C|P35BV140|u|Palet zona residuos|8.27|190121|3|
+~C|P38AD0056|kg|Adhesivo SEIREPOX A/N y masilla autonivelante|10.2|050814|3|
+~C|P38BAL030|ud|Arqueta depósito de poliester para 1-2 transf.+tapa D400|349.35|030521|3|
+~T|P38BAL030|Arqueta depósito de poliester para alojamiento
+de dos transformadores|
+~C|P38PPBAL02|u|Puente de prueba|5.56|050814|3|
+~C|P50CU500|ud|Kit de conectores unipolares macho + hembra|37.48|011009|3|
+~T|P50CU500|kit de conectores unipolares macho+hembra para cable primario de 6mm2. capaz de soportar corrientes de hasta 25a y tensiones de hasta 5kv. fabricado en elastómero termoplástico.|
+~C|PAPI|ud|Unidad PAPI led L-880 o equivalente|8250|250521|3|
+~C|PSCBAL050|h|Carga/transp. almac. temporal|38.93|111014|3|
+~C|SC_01.01#||PAVIMENTOS|98545.23|040913|0|
+~D|SC_01.01#|VDE_DYD_01\1\25762.6\VDE_DYD_14\1\12090.49\|
+~C|SC_01.02#||PROYECCIÓN EN TALUDES|113953|190121|0|
+~D|SC_01.02#|VDE_DYD_02\1\1460\|
+~C|SC_01.03#||BALIZAMIENTO|56762.47|020312|0|
+~D|SC_01.03#|VDE_DYD_03\1\588\VDE_DYD_04\1\75\VDE_DYD_05\1\4066\VDE_DYD_06\1\171\VDE_DYD_07\1\222\VDE_DYD_08\1\13000\VDE_DYD_09\1\2900\VDE_DYD_10\1\16\VDE_DYD_11\1\41\VDE_DYD_12\1\8\VDE_DYD_28\1\89.6\|
+~C|SC_01.04#||LETREROS|6275.1|190121|0|
+~D|SC_01.04#|VDE_DYD_FGHFGH\1\26\|
+~T|SC_01.04#|M. SUMINISTRO Y MONTAJE CANALETA PASACABLES|
+~C|SC_03.01#|ud|ADECUACIÓN COTA ARQUETAS|28844.14|080101|0|
+~D|SC_03.01#|SC_03.01.01\1\1\SC_03.01.02\1\1\|
+~C|SC_03.01.01#||ADECUACION ARQUETAS 0-10 CM|24857.86|080101|0|
+~D|SC_03.01.01#|VDE_SA_10\1\262.5\VDE_SA_11\1\78.75\VDE_SA_12\1\25.73\VDE_SA_04\1\25.98\VDE_SA_03\1\35\|
+~C|SC_03.01.02#||ADECUACIÓN COTA ARQUETA MÁS DE 10 CM|3986.28|140208|0|
+~D|SC_03.01.02#|VDE_SA_23\1\3\VDE_SA_10\1\25.5\|
+~C|SC_03.02#|ud|BASES TOPOGRÁFICAS|1353.24|020116|0|
+~D|SC_03.02#|VDE_SA_05\1\7\|
+~C|SC_03.03#|ud|LETREROS|8024.9|010110|0|
+~D|SC_03.03#|VDE_SA_06\1\26\|
+~C|SC_03.04#|ud|VIAL DE SERVICIO|11851.68|010110|0|
+~D|SC_03.04#|VDE_PV_03\1\134.51\|
+~C|SC_08.01#||NUEVO BALIZAMIENTO PLATAFORMA DE VIRAJE 16|43269.07|280803|0|
+~D|SC_08.01#|VDE_BAL_01\1\25\VDE_BAL_02\1\1302\VDE_BAL_03\1\355\VDE_BAL_04\1\115\VDE_BAL_05\1\119\VDE_BAL_06\1\25\VDE_BAL_07\1\19\VDE_BAL_08\1\19\VDE_BAL_09\1\19\VDE_BAL_10\1\25\|
+~C|SC_08.02#||NUEVO BALIZAMIENTO PLATAFORMA DE VIRAJE 34|43499.12|280803|0|
+~D|SC_08.02#|VDE_BAL_01\1\25\VDE_BAL_02\1\1240\VDE_BAL_03\1\370\VDE_BAL_04\1\97\VDE_BAL_05\1\105\VDE_BAL_06\1\25\VDE_BAL_07\1\20\VDE_BAL_08\1\20\VDE_BAL_09\1\20\VDE_BAL_10\1\25\|
+~C|SC_08.03#||NUEVAS CANALIZACIONES|493083.29|310100|0|
+~D|SC_08.03#|VDE_BAL_11A\1\2735\VDE_BAL_12A\1\163\VDE_BAL_15\1\160\VDE_BAL_16\1\9400\VDE_BAL_17\1\2500\VDE_BAL_18\1\1200\VDE_BAL_19\1\97\VDE_BAL_20\1\158\VDE_BAL_70\1\356\VDE_BAL_80\1\3\|
+~C|SC_08.04#||BALIZAMIENTO DEBIDO A RECRECIDO DE PISTA|34522.68|010110|0|
+~D|SC_08.04#|VDE_BAL_21\1\392\VDE_BAL_22\1\50\VDE_BAL_03\1\1348\VDE_BAL_04\1\117\VDE_BAL_02\1\3950\|
+~C|SC_08.05#||BALIZAMIENTO PISTA Y PLATAFORMA|334261.96|280803|0|
+~D|SC_08.05#|VDE_BAL_10\1\222\VDE_BAL_23\1\28\VDE_BAL_24\1\20\VDE_BAL_25\1\13\VDE_BAL_26\1\30\VDE_BAL_27\1\3\VDE_BAL_28\1\2\VDE_BAL_29\1\13\VDE_BAL_30\1\113\VDE_BAL_31\1\1\VDE_BAL_06\1\13\VDE_BAL_32\1\5\VDE_BAL_33\1\424\VDE_BAL_34\1\2\VDE_BAL_35\1\2\VDE_BAL_07\1\168\VDE_BAL_08\1\168\VDE_BAL_09\1\12\VDE_BAL_02\1\4320\VDE_BAL_03\1\1458\VDE_BAL_04\1\136\VDE_BAL_36\1\8\VDE_BAL_37\1\41\|
+~C|SC_08.06#||MEJORA SISTEMA PAPIS|306215.77|280803|0|
+~D|SC_08.06#|VDE_BAL_16\1\8000\VDE_BAL_17\1\2500\VDE_BAL_07\1\32\VDE_BAL_38\1\4\VDE_BAL_08\1\32\VDE_BAL_09\1\32\VDE_BAL_39\1\32\VDE_BAL_02\1\320\VDE_BAL_18\1\80\VDE_BAL_40\1\4\VDE_BAL_41\1\16\VDE_BAL_42\1\2\VDE_MT_02\1\60\VDE_MT_04\1\48\VDE_ES_03\1\48.8\VDE_ES_04\1\20\VDE_ES_10\1\245.15\VDE_ES_05\1\3060\|
+~C|SC_08.07#||SUSTITUCIÓN DE SLIUS|67212.36|150706|0|
+~D|SC_08.07#|VDE_BAL_43\1\4\VDE_BAL_44\1\2\VDE_BAL_07\1\4\VDE_BAL_45\1\2200\VDE_BAL_46\1\2\VDE_BAL_32\1\4\|
+~C|SC_09_02_03#||ENSAYO TEXTURA Y ROZAMIENTO|7158.73|221020|0|
+~D|SC_09_02_03#|09_VAR_020301\1\1\09_VAR_020302\1\1.3\|
+~C|SC_12.01#||PROTECCIÓN ATMOSFÉRICA|7711.44|020116|0|
+~D|SC_12.01#|VDE_IA_01\1\132\|
+~C|SC_12.02#||PROTECCIÓN HIDROLÓGICA|11523.19|301107|0|
+~D|SC_12.02#|VDE_IA_02\1\250\VDE_IA_03\1\1\VDE_IA_04\1\1\VDE_IA_05\1\1\|
+~C|SC_12.03#||PROTECCIÓN DE LOS SUELOS|208.85|190121|0|
+~D|SC_12.03#|VDE_IA_06\1\136.5\|
+~C|SC_12.04#||MEDIDAS GENERALES|11156.56|151198|0|
+~D|SC_12.04#|VDE_IA_07\1\450\VDE_IA_08\1\1\VDE_IA_09\1\250\VDE_IA_10\1\3\VDE_IA_11\1\1\|
+~C|SC_14.01#||TRABAJOS FINAL DE OBRA|37584.97|250411|0|
+~D|SC_14.01#|09_VAR_0102\1\1\09_VAR_0103\1\1\09_VAR_0104\1\1\09_VAR_0150\1\1\|
+~C|SC_14.02#||ENSAYOS|51437.64|200616|0|
+~D|SC_14.02#|SC_14_02_01\1\1\SC_14_02_02\1\1\SC_09_02_03\1\1\SC_14_02_04\1\1\SC_14_02_05\1\1\|
+~C|SC_14_02_01#||DETERMINACIÓN PCN|4239.22|190121|0|
+~D|SC_14_02_01#|09_VAR_020101\1\1\|
+~C|SC_14_02_02#||DETERMINACIÓN CAPACIDAD PORTANTE|7448.11|221020|0|
+~D|SC_14_02_02#|09_VAR_020201\1\1\09_VAR_020202\1\1\09_VAR_020203\1\400\09_VAR_020204\1\1\|
+~C|SC_14_02_04#||BALIZAMIENTO|14490.36|200616|0|
+~D|SC_14_02_04#|VT_VAR_10\1\2\VT_VAR_11\1\2\|
+~C|SC_14_02_05#||ESTUDIO DE REGULARIDAD|18101.22|190121|0|
+~D|SC_14_02_05#|14.02.06\1\3\|
+~C|SLIUADB|ud|Baliza SLIU IL 868-SFL|7995|170521|3|
+~C|T020020|m3|CARGA Y TRANSPORTE DE MATERIAL O ESCOMBROS|16.86|020312|0|
+~D|T020020|M05EC020\1\0.03\M07CB020\1\0.1\M07N070\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|T020020|Transporte de tierras y escombros a vertedero, por medios mecánicos.|
+~C|U01EC050|m3|EXCAVACIÓN CIM. Y POZOS ROCA MED.MEC.|44.2|020312|0|
+~D|U01EC050|MO_CNTE_007\1\0.2\MO_CNTE_016\1\0.4\M05EC020\1\0.42\M06MR240\1\0.35\M07CB020\1\0.1\|
+~A|U01EC050|medio\carga\cimiento\transporte\roca\mecánico\producción\excavación\pozo\vertedero\|
+~T|U01EC050|Excavación en cimientos y pozos en roca con medios mecánicos, incluso carga.|
+~C|U01EZ010|m3|EXCAV. ZANJA TIERRA|3.2|020116|0|
+~D|U01EZ010|MO_CNTE_007\1\0.02\M05EN030\1\0.02\M07CB020\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|U01EZ010|Excavación en zanja en tierra, incluso carga y transporte de los productos de la excavación a vertedero o lugar de empleo.|
+~C|U01EZ050|m3|EXCAV. ZANJA ROCA MEDIOS MECÁN.|44.66|020312|0|
+~D|U01EZ050|MO_CNTE_007\1\0.2\MO_CNTE_016\1\0.4\M05EC020\1\0.4\M06MR240\1\0.35\M07CB020\1\0.1\%01\1\0.01\%03CI\1\0.03\|
+~A|U01EZ050|medio\carga\transporte\roca\mecánico\producción\zanja\excavación\vertedero\|
+~T|U01EZ050|Excavación en zanja en roca, con medios mecánicos, incluso carga.|
+~C|U01RF010|m3|RELLENO TRASDÓS O.F./MATERIAL EXCAVACIÓN|7.52|310103|0|
+~D|U01RF010|MO_CNTE_007\1\0.025\MO_CNTE_016\1\0.25\M08CA110\1\0.025\M05RN030\1\0.021\M08RL010\1\0.25\|
+~A|U01RF010|trasdosado\fábrica\producción\próctor\relleno\excavación\capa\modificado\compacto\humedad\graduación\|
+~T|U01RF010|Relleno localizado en trasdós de obras de fábrica con productos procedentes de la excavación, extendido, humectación y compactación en capas de 20 cm. de espesor, con un grado de compactación del 95% del proctor modificado.|
+~C|U01RZ010|m3|RELLENO ZANJAS /MATERIAL EXCAVACIÓN|4.72|310103|0|
+~D|U01RZ010|MO_CNTE_007\1\0.015\MO_CNTE_016\1\0.15\M08CA110\1\0.015\M05RN030\1\0.013\M08RL010\1\0.15\%01\1\0.01\%03CI\1\0.03\|
+~A|U01RZ010|producción\próctor\zanja\relleno\excavación\capa\modificado\compacto\humedad\graduación\|
+~T|U01RZ010|Relleno localizado en zanjas con productos procedentes de la excavación, extendido, humectación y compactación en capas de 20 cm. de espesor, con un grado de compactación del 95% del proctor modificado.|
+~C|U03VCB036|t|Mezcla bituminosa en caliente tipo AC-32 base 50*70 S desgaste Á|46.74|010521|3|
+~C|U05CE040|m3|EXCAVACIÓN CIMIENTO ROCA MEDIOS MECÁNICOS|33.28|020116|0|
+~D|U05CE040|MO_CNTE_007\1\0.05\M05EC030\1\0.2\M06MR240\1\0.2\M07CB020\1\0.1\M07N090\1\1\%01\1\0.01\%03CI\1\0.03\|
+~A|U05CE040|medio\carga\cimiento\transporte\roca\mecánico\producción\excavación\muro\vertedero\|
+~T|U05CE040|M3. EXCAVACIÓN EN CIMIENTOS DE MURO EN ROCA, CON MEDIOS MECÁNICOS, INCLUSO CARGA Y TRANSPORTE DE LOS PRODUCTOS DE LA EXCAVACIÓN A VERTEDERO O LUGAR DE EMPLEO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES.|
+~C|U05CF010|m2|ENCOFRADO EN CIMIENTOS MURO|13.02|010110|0|
+~D|U05CF010|MO_CNTE_007\1\0.05\MO_CNTE_013\1\0.25\MO_CNTE_012_A\1\0.25\M13EF020\1\1\M13EF040\1\0.5\P01EB010\1\0.005\P01DC040\1\0.2\P01UC030\1\0.02\%01\1\0.01\%03CI\1\0.03\|
+~A|U05CF010|clavazón\cimiento\desencofrante\terminación\muro\encofrar\|
+~T|U05CF010|M2. ENCOFRADO EN CIMIENTOS DE MURO, INCLUSO CLAVAZÓN Y DESENCOFRADO, TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES.|
+~C|U05CH030|m3|HORMIGÓN HM-20 CIMIENTOS MURO|102.83|020116|0|
+~D|U05CH030|MO_CNTE_007\1\0.026\MO_CNTE_010\1\0.125\MO_CNTE_016\1\0.125\M11HV040\1\0.125\M06CM030\1\0.125\M01HA010\1\0.03\M07W110\1\30.6\P01HMV220\1\0.82\%01\1\0.01\%03CI\1\0.03\|
+~A|U05CH030|asiento\cimiento\curado\hormigón\superficie\preparación\terminación\muro\vibración\|
+~T|U05CH030|M3. HORMIGÓN HM-20 EN CIMIENTOS DE MURO, INCLUSO PREPARACIÓN DE LA SUPERFICIE DE ASIENTO, VIBRADO, REGLEADO Y CURADO, TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES.|
+~C|U05OE030|m3|ESCOLLERA PROTECCIÓN 1000 kg|66.34|020116|0|
+~D|U05OE030|MO_CNTE_007\1\0.05\MO_CNTE_016\1\0.15\M05EN040\1\0.15\M07W011\1\80\P01AE030\1\1.6\%01\1\0.01\%03CI\1\0.03\|
+~A|U05OE030|escollera\suministro\apoyo\protección\colocación\superficie\manto\preparación\terminación\|
+~T|U05OE030|M3. ESCOLLERA DE 1.000 KG COLOCADA EN PROTECCIÓN DE CAUCES, MANTO DE ESPESOR 2,00 M, INCLUIDO SUMINISTRO PUESTA EN OBRA, INCLUYENDO ADECUACIÓN PREVIA DEL TALUD PARA EL CORRECTO ASIENTO DE LA ESCOLLERA Y PUESTA DE GEOTEXTIL. PERFECTAMENTE RASANTEADA Y TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES.|
+~C|UTILPAPI|ud|Herramienta instalación|700|250521|3|
+~C|VDE_126##||REGENERACIÓN DE PAVIMENTOS EN EL AEROPUERTO DE EL HIERRO. VDE-AEROPUERTO DE EL HIERRO|4161500|151198|0|
+~D|VDE_126##|C01\1\1\C02\1\1\C03\1\1\C04\1\1\C05\1\1\C06\1\1\C07\1\1\C08\1\1\C09\1\1\C10\1\1\C11\1\1\C12\1\1\C13\1\1\C14\1\1\C15\1\1\|
+~G|VDE_126##|3QE0h_A1j7Qg5Sp4dO8t26Bg.png\|
+~C|VDE_AO_02|ud|FRANGIBILIZACIÓN ESTACIONES CLIMATOLÓGICAS|9025.22|190121|0|
+~D|VDE_AO_02|MO_CNTE_007\1\5\MO_CNTE_016\1\5\M05EN030\1\2\M06MR240\1\2\M06MI010\1\2\M07CB030\1\1\MAT_090\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_AO_02|UD. FRANGIBILIZACIÓN ESTACIONES CLIMATOLOGICAS MEDIANTE INSTLACIÓN DE PERNOS Y ANCLAJES FRANGIBLES Y SUSTITUCIÓN DE ELEMENTOS NO FRANGILIZABLES POR OTROS QUE SI LO SEAN, GENERACIÓN DE CUÑA PERIMETRAL ALREDEDOR DE LA LOSA. TOTALMENTE ENRASADO CON EL TERRENO ADYACENTE TRAS LA NIVELACIÓN. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_01|ud|LUZ EMPOTRADA UNIDIRECCIONAL (AMARILLA) EJE DE CALLE, LED|701.81|150706|0|
+~D|VDE_BAL_01|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\AAVV_1610\1\1\P0244011\1\2\P0250704\1\2\P38AD0056\1\1.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_01|UD. LUZ EMPOTRADA UNIDIRECCIONAL PARA EJE DE CALLE DE RODAJE, PARA TRAMOS RECTOS Y TRAMOS CURVOS, CON UN HAZ DE LUZ VERDE O AMARILLO, SIN FILTROS, CON DOS LEDS DE 15 W, CONSTITUIDA POR CUERPO DE FUNDICIÓN DE ALUMINIO TRATADO DE 8" DE DIÁMETRO Y UNA CUBIERTA INFERIOR DE FUNDICIÓN INYECTADA DE ALUMINIO CON TRANSFORMADOR Y CIRCUITO ELECTRÓNICO, CON LENTES INTERIORES, JUNTA LATERAL DE SILICONA Y DOS LATIGUILLOS DE CABLE CON CLAVIJA FAA L823 CON SALIDA A TRAVÉS DE PASAMUROS ESTANCO. INCLUSO CAJA BASE POCO PROFUNDA DE 8" DE DIÁMETRO Y 12,5 CM DE ALTURA, RÓTULO DE IDENTIFICACIÓN, TOTALMENTE INSTALADA, PEGADA CON RESINA EPOXI DE DOS COMPONENTES SEIREPOX AN O SIMILAR, SELLADA CON MASILLA AUTONIVELANTE PROBIJUNT D-1 O SIMILAR Y CONEXIONADA. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_02|m|CABLE SECUNDARIO BALIZAMIENTO RZ1 0.6/1 KV 1X2.5 MM2 Cu (B)|0.77|191020|0|
+~D|VDE_BAL_02|MO_CNTE_012\1\0.002\MO_CNTE_010\1\0.002\MO_CNTE_015\1\0.002\AAVV_7001\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_02|M. CIRCUITO SECUNDARIO DE BALIZAMIENTO, CON CONDUCTOR DE COBRE DE 1X2.5 MM2 DE SECCIÓN, CONSTRUIDO SEGÚN NORMA UNE21123-4 Y DIN/DSEYN/PPT/008/02/12, TIPO RZ1-K 0.6/1 KV, IGNÍFUGO, ANTIHUMO, CERO HALÓGENOS, REDUCIDA EMISIÓN DE GASES TÓXICOS Y DE HALÓGENOS. CONDUCTOR DE COBRE ELECTROLÍTICO CON TEMPERATURA MÁXIMA DE 90ºC EN SERVICIO CONTINUO Y 250ºC EN CORTOCIRCUITO. FLEXIBILIDAD CLASE2. TENDIDO POR LA CANALIZACIÓN CORRESPONDIENTE,  INCLUSO P/P DE EMPALMES Y CONEXIONES, TOTALMENTE INSTALADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_03|m|ROZA 1x4 CM CANALIZACIÓN 2 CABLES EN PAVIMENTO|19.37|010110|0|
+~D|VDE_BAL_03|MO_CNTE_005\1\0.05\MO_CNTE_015\1\0.4\MO_CNTE_003_A\1\0.1\M09F010\1\0.1\M07AF010\1\0.05\M07CT010\1\0.025\M14FG010\1\0.05\M08CA110\1\0.05\M09F070\1\0.05\P0CORD\1\1\P0PROBI\1\0.25\P01DW050\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_03|M. ROZA DE 1X4 CM PARA CANALIZACIÓN DE 2 CABLES EN CAPA DE RODADURA. REALIZACIÓN DE LA ROZA, REFRIGERACIÓN Y SELLADO POSTERIOR, INCLUSO BARRIDO Y LIMPIEZA FINAL. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_04|m|ROZA 2x4 CM CANALIZACIÓN 4 CABLES EN PAVIMENTO|21.76|010110|0|
+~D|VDE_BAL_04|MO_CNTE_005\1\0.075\MO_CNTE_015\1\0.5\MO_CNTE_003_A\1\0.1\M09F010\1\0.15\M07AF010\1\0.05\M07CT010\1\0.025\M14FG010\1\0.05\M08CA110\1\0.05\M09F070\1\0.05\P0CORD\1\1\P0PROBI\1\0.25\P01DW050\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_04|M. ROZA DE 2X4 CM PARA CANALIZACIÓN DE 4-6 CABLES EN CAPA DE RODADURA. REALIZACIÓN DE LA ROZA, REFRIGERACIÓN Y SELLADO POSTERIOR, INCLUSO BARRIDO Y LIMPIEZA FINAL. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_05|m|BANCO 1 TUBO PE 50 MM. DIÁMETRO EMBEBIDO EN DADO HORMIGÓN|9.43|190121|0|
+~D|VDE_BAL_05|MO_CNTE_005\1\0.05\MO_CNTE_015\1\0.4\M07AF010\1\0.05\M05EN030\1\0.01\P15UBC060\1\1\P01HN310\1\0.01\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_05|M. CANALIZACIÓN DE TUBO DE PVC FLEXIBLE DE 50 MM. DE DIÁMETRO, CORRUGADO EXTERIOR, LISO INTERIOR, COLOCADO EN ZANJA DE 20X20 CM., INCLUSO EXCAVACIÓN, RETIRADA DE MATERIAL SOBRANTE Y RELLENO CON HORMIGÓN DE LIMPIEZA. TOTALMENTE TERMINADO. SUMINISTRADO EN BARRA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_06|ud|TALADRO PARA CAJA BASE 8"|29.8|020116|0|
+~D|VDE_BAL_06|MO_CNTE_005\1\0.2\MO_CNTE_016\1\0.2\M0CBAL91L\1\0.01\M06VR110\1\0.2\M08CA110\1\0.02\M07CB005M\1\0.1\M09F070\1\0.02\P01DW050\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_06|UD. TALADRO EN PAVIMENTO FLEXIBLE PARA COLOCACIÓN DE BALIZAS DE 8" DE DIÁMETRO Y DE PROFUNDIDAD SEGÚN UTILIZACIÓN, PARA COLOCACIÓN DE BALIZAS EMPOTRADAS EN PAVIMENTO, INCLUSO VACIADO, CON LIMPIEZA; CARGA Y TRASLADO DE MATERIALES SOBRANTES A VERTEDERO AUTORIZADO FUERA DEL RECINTO AEROPORTUARIO VALORADOS EN CAPÍTULO DE GESTIÓN DE RESIDUOS. INCLUIDOS P.P. DEL SOBRE-COSTE POR LOS EQUIPOS DE ILUMINACIÓN, MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_07|ud|ARQUETA DEPÓSITO PARA 1-2 TRANSF. TAPA D-400|378.61|150706|0|
+~D|VDE_BAL_07|MO_CNTE_005\1\0.06\MO_CNTE_015\1\0.34\U01EZ010\1\0.033\P0244011\1\1\P01HM010SL\1\0.032\P38BAL030\1\1\P01AG130\1\0.04\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_07|UD. SUMINISTRO DE ARQUETA DEPÓSITO PARA 1 O 2 TRANSFORMADORES DE PIE DE LÁMPARA Y TAPA DE FUNDICIÓN DÚCTIL PARA INSTALACIÓN EN ÁREAS DE CLASE DE CARGA HASTA D400. MARCA/MODELO: ULMA/AL12F O SIMILAR EQUIVALENTE. LA ARQUETA SERÁ DE HORMIGÓN POLÍMERO, DEL TIPO PREFABRICADO Y PROTEGIDA POR PAREDES Y SOLERA DE HORMIGÓN HM-25, DANDO LUGAR, POR CAPACIDAD, A UNO O DOS TRANSFORMADORES. LAS DIMENSIONES INTERIORES DE LA ARQUETA SERÁN LAS SIGUIENTES: 430X465X455 (MM). LA ARQUETA EN SU BORDE PERIMETRAL SUPERIOR, LLEVARÁ COMO REFUERZO UN MARCO DE ACERO GALVANIZADO S/N EN1433. DICHO MARCO DISPONDRÁ DE 4 TUERCAS EMBEBIDAS, DE MODO QUE LA TAPA DE FUNDICIÓN SE PUEDA ATORNILLAR A LAS MISMAS. LA ARQUETA (AL12F O SIMILAR O EQUIVALENTE) DISPONDRÁ DE 2 PREMARCAJES TRONCOCÓNICOS EN CADA UNA DE SUS CARAS LATERALES, LOS CUALES PERMITIRÁN EMBOCAR UN TUBO DE HASTA 90 MM DE DIÁMETRO, PARA DAR PASO A LOS CABLES SECUNDARIOS QUE VAN HASTA LA BALIZA Y OTRO DE 22 MM QUE SE UTILIZARÁ PARA SACAR EL CABLE DE COBRE HASTA LA PICA DE TIERRA. ASÍ MISMO UNO DE SECCIÓN RECTANGULAR, DISPUESTO TAMBIÉN EN UNA DE SUS CARAS, PERMITIENDO EL ENCAJE DE LA BANDEJA A TRAVÉS DE LA CUAL SE CONDUCIRÁN LOS CABLES PRIMARIOS QUE PROCEDEN DEL PEINE. LA ARQUETA SE COMPLETARÁ CON UNA TAPA DE FUNDICIÓN DÚCTIL DE DIMENSIONES 410 X 375 (MM), RESISTENTE HASTA CLASE DE CARGA D400 SEGÚN NORMATIVA EN1433 Y ATORNILLADA AL MARCO GALVANIZADO DE LA ARQUETA MEDIANTE 4 TORNILLOS PROTEGIDOS CON TAPONES DE POLIPROPILENO. LA SUPERFICIE DE LA ARQUETA DISPONDRÁ DE VARIOS PIVOTES ANTIDESLIZANTES. DOS ASAS ESCAMOTEABLES DE ACERO GALVANIZADO EN EL CENTRO. INCLUSO RÓTULO DE IDENTIFICACIÓN. LAS ARQUETAS SE ROTULARÁN CON EL MISMO CRITERIO QUE EL EXISTENTE. MEDIDA LA UNIDAD ARQUETA+TAPA D400 SUMINISTRADA E INSTALADA, INCLUSO BANDEJA PORTA-TRANSFORMADOR. INCLUYENDO EXCAVACIÓN Y FORMACIÓN DE HUECO EN TERRENO, HORMIGÓN HM25 EN BASE Y PAREDES (150 MM) RASANTEO FINAL DEL TERRENO; CARGA Y TRASLADO DE MATERIALES A VERTEDERO AUTORIZADO FUERA DEL RECINTO AEROPORTUARIO VALORADOS EN CAPÍTULO DE GESTIÓN DE RESIDUOS. MEDIDA LA UNIDAD TOTALMENTE INSTALADA Y CONEXIONADA, INCLUSO PRUEBAS, LOS EQUIPOS DE ILUMINACIÓN, MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS. TOTALMENTE TERMINADA. INCLUYENDO ETIQUETA O PLACA METÁLICAS DONDE SE GRABE LA INFORMACIÓN RELATIVA AL CIRCUITO PRIMARIO DE BALIZAMIENTO Y EL NÚMERO DE LA BALIZA QUE SE ALIMENTA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_08|ud|CUÑA PERIMETRAL HORMIGÓN HM-20 EN ARQUETA BALIZAMIENTO|66.84|190121|0|
+~D|VDE_BAL_08|MO_CNTE_015\1\1\MO_CNTE_016\1\1\M05EN030\1\0.2\M07AF010\1\0.1\M08RI005\1\0.2\P01HMV220\1\0.262\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_08|UD. EJECUCIÓN DE CUÑA PERIMETRAL PARA SUAVIZADO DE OBSTÁCULOS, DE 52 CM DE ANCHO Y 30 CM DE PROFUNDIDAD, REALIZADA EN BASE A HORMIGÓN EN MASA HM-20, ARMADO CON FIBRAS DE POLIPROPILENO, INCLUSO PREVIA EXCAVACIÓN, COMPACTACIÓN DEL TERRENO DE APOYO AL 95% PM Y RELLENO POSTERIOR CON MATERIAL DE LA PROPIA EXCAVACIÓN, TOTALMENTE TERMINADO. TOTALMENTE ENRASADO CON LA RASANTE DEFINITIVA DEL TERRENO. INCLUIDOS P.P. DE MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_09|ud|PUESTA A TIERRA LUZ-LETRERO/TRANSFORMADOR|65.49|280803|0|
+~D|VDE_BAL_09|MO_CNTE_010\1\0.5\MO_CNTE_012\1\0.5\P15EB010\1\0.5\P38PPBAL02\1\1\P50CU500\1\1\P17BT1202\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_09|UD. EJECUCIÓN DE PUESTA A TIERRA DEL CONJUNTO BALIZA-TRANSFORMADOR. CLAVADO DE LA PICA, TENDIDO DEL CABLE DE COBRE DESNUDO DE 16 MM2 Y CONEXIONADO DE LOS ELEMENTOS DE PUESTA A TIERRA COMPLETAMENTE TERMINADO. INCLUIDA PARTE PROPORCIONAL DE LOS EQUIPOS DE ILUMINACIÓN. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_10|ud|TRANSFORMADOR DE INTENSIDAD 30/45W|150.7|050814|0|
+~D|VDE_BAL_10|MO_CNTE_010\1\0.3\MO_CNTE_012\1\0.3\MO_CNTE_015\1\0.3\AAVV_5001\1\1\P0250604\1\1\P00250804\1\1\P0250714\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_10|UD. TRANSFORMADOR DE AISLAMIENTO DE INTENSIDAD CONSTANTE 6,6/6,6 A. DE 30/45 W. DE POTENCIA. EJECUCIÓN ENCAPSULADA EN TERMOPLÁSTICO ESPECIAL RESISTENTE A LA HUMEDAD Y A LOS COMBUSTIBLES. INCLUSO CONECTORES PRIMARIOS Y CLAVIJAS SECUNDARIAS, TOTALMENTE INSTALADO Y CONEXIONADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_11A|m|BANCO DE TUBOS 6T110MM BAJO TERRENO|83.88|310100|0|
+~D|VDE_BAL_11A|MO_CNTE_010\1\0.15\MO_CNTE_015\1\0.15\M10HV220\1\0.15\U01EZ050\1\0.385\U01RZ010\1\0.1\P01HM010SL\1\0.206\P15AF06030\1\6\P22TC57020C\1\1.5\P22TW500\1\7.7\P01DW090\1\1\P15AH010\1\1\P15AH020\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_11A|M. BANCO COMPUESTO POR 6 TUBOS DE POLIETILENO ROJO DE DOBLE PARED CORRUGADO EXTERIOR Y LISO INTERIOR DE DIÁMETRO 110 MM PARA CANALIZACIÓN DE ENERGÍA, EMBEBIDOS EN DADO DE HORMIGÓN HM-20/P/20/I, INCLUSO GUÍAS DE ACERO, INCLUYENDO EXCAVACIÓN EN TERRENOS EXISTENTES POR MEDIOS MECANICOS, RELLENO CON MATERIAL DE LA PROPIA EXCAVACIÓN, COMPACTACIÓN Y TRANSPORTE A VERTEDERO EXTERIOR AUTORIZADO DEL MATERIAL SOBRANTE, INCLUYENDO SUMINISTRO Y COLOCACIÓN DE PLACA DE PROTECCIÓN Y CINTA DE SEÑALIZACIÓN DE ENERGÍA ELÉCTRICA. TOTALMENTE TERMINADO Y MANDRILADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_12A|m|BANCO DE TUBOS 6T110MM BAJO CALLE DE RODAJE|141.87|310100|0|
+~D|VDE_BAL_12A|MO_CNTE_010\1\0.06\MO_CNTE_005\1\0.06\MO_CNTE_007\1\0.02\MO_CNTE_012\1\0.05\MO_CNTE_015\1\0.05\MO_CNTE_016\1\0.05\M10HV220\1\0.075\MAT_041D\1\0.204\P15AF06030\1\6\P22TC57020C\1\1.5\P22TW500\1\7.7\P01DW090\1\1\P15AH010\1\1\P15AH020\1\1\MAT_020\1\1\P01CC030R\1\1\M05EN050\1\0.012\M05EC030\1\0.045\M06MR240\1\0.07\M08CA110\1\0.015\M05RN030\1\0.013\M08RL010\1\0.08\M05PN010\1\0.015\M03MC110\1\0.015\M07CB030\1\0.015\M08EA100\1\0.015\M08RN040\1\0.015\M08RV020\1\0.009\M07W030\1\40\M07Z110\1\0.005\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_12A|M. BANCO COMPUESTO POR 6 TUBOS DE POLIETILENO ROJO DE DOBLE PARED CORRUGADO EXTERIOR Y LISO INTERIOR DE DIÁMETRO 110 MM PARA CANALIZACIÓN DE ENERGÍA, EMBEBIDOS EN DADO DE HORMIGÓN ARMADO INCLUSO GUÍAS DE ACERO, INCLUYENDO EXCAVACIÓN EN PAVIMENTO EXISTENTE POR MEDIOS MECANICOS, RELLENO CON SUELO CEMENTO, REPOSICIÓN DE LAS MEZCLAS ASFÁLTICAS AFECTADAS, COMPACTACIÓN Y TRANSPORTE A VERTEDERO EXTERIOR AUTORIZADO DEL MATERIAL SOBRANTE, INCLUYENDO SUMINISTRO Y COLOCACIÓN DE PLACA DE PROTECCIÓN Y CINTA DE SEÑALIZACIÓN DE ENERGÍA ELÉCTRICA. TOTALMENTE TERMINADO Y MANDRILADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_15|ud|ARQUETA ELCT. PREF. HORM. 1000x1000x1500mm, TAPA D400|583.12|310103|0|
+~D|VDE_BAL_15|MO_CNTE_010\1\0.8\MO_CNTE_015\1\0.8\U01EC050\1\1\U01RF010\1\0.25\MAT_0018B\1\1\MAT_0074\1\22.07\M05PC020\1\0.146\M05EN020b\1\0.135\M07CB020\1\0.044\MAQ.082B\1\0.037\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_15|UD. SUMINISTRO E INSTALACIÓN DE ARQUETA PREFABRICADA, PARA CANALIZACIONES ELÉCTRICAS, BALIZAMIENTO, Y VOZ Y DATOS, DE MEDIDAS INTERIORES 100X100X150 CM, CON TAPA ESTANCA Y MARCO DE FUNDICIÓN D400, CON HUECOS PARA CABLES SEGÚN DETALLES, COLOCADA SOBRE CAMA DE ARENA DE RÍO DE 10 CM DE ESPESOR Y P.P. DE MEDIOS AUXILIARES, INCLUIDA EXCAVACIÓN Y RELLENO PERIMETRAL EXTERIOR CON SUELO SELECCIONADO COMPACTADO AL 98% DEL PROCTOR MODIFICADO. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_16|m|CABLE PRIMARIO Cu RHV DE BALIZAMIENTO S/ NORMATIVA AENA|3.72|191020|0|
+~D|VDE_BAL_16|MO_CNTE_013_A\1\0.03\MO_CNTE_014_A\1\0.03\AAVV_6001\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_16|M. SUMINISTRO E INSTALACIÓN DE LÍNEA PARA CIRCUITO PRIMARIO EXTERIOR EN SISTEMAS DE BALIZAMIENTO, TIPO RHV, DE COBRE, SEGÚN NORMATIVA DE AENA, CON PANTALLA METÁLICA, TENDIDO POR CANALIZACIÓN EXISTENTE INDICADA EN LOS PLANOS. INCLUSO P. P. DE EMPALMES Y CONEXIONES. TOTALMENTE INSTALADO. INCLUIDA PARTE PROPORCIONAL DE LOS EQUIPOS DE ILUMINACIÓN. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_17|m|CABLE PRIMARIO Cu RHZ1 DE BALIZAMIENTO S/ NORMATIVA AENA|4.03|191020|0|
+~D|VDE_BAL_17|MO_CNTE_013_A\1\0.03\MO_CNTE_014_A\1\0.03\AAVV_6002\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_17|M. SUMINISTRO E INSTALACIÓN DE LÍNEA PARA CIRCUITO PRIMARIO PARA INTERIOR EN SISTEMAS DE BALIZAMIENTO, TIPO RHZ1 (AS), DE COBRE, SEGÚN NORMATIVA DE AENA, CON PANTALLA METÁLICA, TENDIDO POR CANALIZACIÓN EXISTENTE INDICADA EN LOS PLANOS. INCLUSO P. P. DE EMPALMES Y CONEXIONES. TOTALMENTE INSTALADO. INCLUIDA PARTE PROPORCIONAL DE LOS EQUIPOS DE ILUMINACIÓN. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_18|m|BANCO 1 TUBO PE 50MM DIÁMETRO EMBEBIDO EN DADO HORMIGÓN|9.43|190121|0|
+~D|VDE_BAL_18|MO_CNTE_005\1\0.05\MO_CNTE_015\1\0.4\M07AF010\1\0.05\M05EN030\1\0.01\P15UBC060\1\1\P01HN310\1\0.01\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_18|M. CANALIZACIÓN DE TUBO DE PVC FLEXIBLE DE 50 MM. DE DIÁMETRO, CORRUGADO EXTERIOR, LISO INTERIOR, COLOCADO EN ZANJA DE 20X20 CM., INCLUSO EXCAVACIÓN, RETIRADA DE MATERIAL SOBRANTE Y RELLENO CON HORMIGÓN DE LIMPIEZA. TOTALMENTE TERMINADO. SUMINISTRADO EN BARRA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_19|m|CANALETA PASACABLES D400 I/ OBRA CIVIL|518.57|010110|0|
+~D|VDE_BAL_19|MO_CNTE_010\1\1\MO_CNTE_012\1\1\MO_CNTE_012_D\1\0.5\MO_CNTE_013_B\1\0.5\M05RN020\1\0.5\M07AF040\1\0.5\M07CG020\1\0.25\M09F010\1\4\MULTIDRAIN300\1\1\P03ACD010\1\30\P01HA631\1\0.35\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_19|M. SUMINISTRO Y MONTAJE CANALETA DE HORMIGÓN POLIMERO D400 INCLUIDA LA OBRA CIVIL. TOTALMENTE TERMINADO.  TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_20|ud|CUÑA PERIMETRAL HORMIGÓN HM-20 EN ARQUETA DE BANCO DE TUBOS|93.29|190121|0|
+~D|VDE_BAL_20|MO_CNTE_015\1\1\MO_CNTE_016\1\1\M05EN030\1\0.2\M07AF010\1\0.1\M08RI005\1\0.2\P01HMV220\1\0.524\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_20|UD. EJECUCIÓN DE CUÑA PERIMETRAL PARA SUAVIZADO DE OBSTÁCULOS, DE 52 CM DE ANCHO Y 30 CM DE PROFUNDIDAD, REALIZADA EN BASE A HORMIGÓN EN MASA HM-20, ARMADO CON FIBRAS DE POLIPROPILENO, INCLUSO PREVIA EXCAVACIÓN, COMPACTACIÓN DEL TERRENO DE APOYO AL 95% PM Y RELLENO POSTERIOR CON MATERIAL DE LA PROPIA EXCAVACIÓN, TOTALMENTE TERMINADO. TOTALMENTE ENRASADO CON LA RASANTE DEFINITIVA DEL TERRENO. INCLUIDOS P.P. DEL SOBRECOSTE POR MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_21|ud|REPOSICIÓN DE LUZ ELEVADA|5.5|190121|0|
+~D|VDE_BAL_21|MO_CNTE_007\1\0.1\MO_CNTE_016\1\0.2\M07AF010\1\0.2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_21|UD. REPOSICIÓN DE LA LUZ ELEVADA ELÉCTRICA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_22|ud|REPOSICIÓN DE LUZ EMPOTRADA|13.37|111014|0|
+~D|VDE_BAL_22|MO_CNTE_005\1\0.1\MO_CNTE_016\1\0.25\MO_CNTE_013_A\1\0.25\PSCBAL050\1\0.1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_22|UD. REPOSICIÓN DE LUZ EMPOTRADA, CON LIMPIEZA DEL TERRENO, RETIRADA Y CARGA DEL MATERIAL SOBRANTE. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_23|ud|LUZ ELEVADA BIDIRECCIONAL LED PARA LUCES DE UMBRAL Y EXT. DE PISTA|529.84|150706|0|
+~D|VDE_BAL_23|MO_CNTE_012\1\1.5\MO_CNTE_010\1\1.5\MO_CNTE_015\1\1.5\AAVV_2106\1\1\P0244011\1\2\P0250704\1\2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_23|UD. SUMINISTRO E INSTALACIÓN DE LUZ ELEVADA BIDIRECCIONAL PARA UMBRAL/EXTREMO DE PISTA ROJA/VERDE, TIPO REALIANCE RUNWAY THRESHOLD/END, L-862 DE ADB-SAFEGATE O EQUIVALENTE, CON LAS SIGUIENTES CARACTERÍSTICAS:
+- BAJO CONSUMO DE ENERGÍA (30W).
+- MANTENIMIENTO MUY REDUCIDO, MTBF MAYOR A 56.000H A 6,6A.
+- FUNCIONAMIENTO EN EL RANGO COMPLETO DE 2,8A A 6,6A.
+- TIEMPO DE ACTIVACIÓN REDUCIDO.
+LATIGUILLO DE CABLE CON CONECTOR FAA L-823 TIPO B, INCLUSO MANGUITO FRANGIBLE, SOPORTE DE MONTAJE Y CONECTOR SECUNDARIO BIPOLAR HEMBRA. TOTALMENTE INSTALADA, PROBADA Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_24|ud|LUZ ELEVADA UNIDIRECCIONAL LED PARA LUCES DE BARRA DE ALA|529.84|150706|0|
+~D|VDE_BAL_24|MO_CNTE_012\1\1.5\MO_CNTE_010\1\1.5\MO_CNTE_015\1\1.5\AAVV_2105\1\1\P0244011\1\2\P0250704\1\2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_24|UD. SUMINISTRO E INSTALACIÓN DE LUZ ELEVADA UNIDIRECCIONAL, VERDE, TIPO REALIANCE RUNWAY THRESHOLD AND THRESHOLD WING BAR DE ADB-SAFEGATE O EQUIVALENTE, CON LAS SIGUIENTES CARACTERÍSTICAS:
+- BAJO CONSUMO DE ENERGÍA (50W).
+- MANTENIMIENTO MUY REDUCIDO, MTBF MAYOR A 56.000H A 6,6A.
+- FUNCIONAMIENTO EN EL RANGO COMPLETO DE 2,8A A 6,6A.
+- TIEMPO DE ACTIVACIÓN REDUCIDO.
+LATIGUILLO DE CABLE CON CONECTOR FAA L-823 TIPO B, INCLUSO MANGUITO FRANGIBLE, SOPORTE DE MONTAJE Y CONECTOR SECUNDARIO BIPOLAR HEMBRA. TOTALMENTE INSTALADA, PROBADA Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_25|ud|LUZ ELEVADA BIDIRECCIONAL LED BL/BL BORDE DE PISTA|529.84|150706|0|
+~D|VDE_BAL_25|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\AAVV_2202\1\1\P0244011\1\2\P0250704\1\2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_25|UD. SUMINISTRO E INSTALACIÓN DE LUZ ELEVADA BIDIRECCIONAL, BLANCO/BLANCO, TIPO REALIANCE RUNWAY EDGE DE ADB-SAFEGATE O EQUIVALENTE, CON LAS SIGUIENTES CARACTERÍSTICAS:
+- BAJO CONSUMO DE ENERGÍA (30W)
+- MANTENIMIENTO MUY REDUCIDO, MTBF MAYOR A 56.000H A 6,6A
+- FUNCIONAMIENTO EN EL RANGO COMPLETO DE 2,8A A 6,6A
+- TIEMPO DE ACTIVACIÓN REDUCIDO
+LATIGUILLO DE CABLE CON CONECTOR FAA L-823 TIPO B, INCLUSO MANGUITO FRANGIBLE, SOPORTE DE MONTAJE Y CONECTOR SECUNDARIO BIPOLAR HEMBRA. TOTALMENTE INSTALADA, PROBADA Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_26|ud|LUZ ELEVADA BIDIRECCIONAL LED AM/BL BORDE DE PISTA|529.84|150706|0|
+~D|VDE_BAL_26|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\AAVV_2202\1\1\P0244011\1\2\P0250704\1\2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_26|UD. SUMINISTRO E INSTALACIÓN DE LUZ ELEVADA BIDIRECCIONAL, BLANCO/AMARILLO, TIPO REALIANCE RUNWAY EDGE DE ADB-SAFEGATE O EQUIVALENTE, CON LAS SIGUIENTES CARACTERÍSTICAS:
+- BAJO CONSUMO DE ENERGÍA (30W)
+- MANTENIMIENTO MUY REDUCIDO, MTBF MAYOR A 56.000H A 6,6A
+- FUNCIONAMIENTO EN EL RANGO COMPLETO DE 2,8A A 6,6A
+- TIEMPO DE ACTIVACIÓN REDUCIDO
+LATIGUILLO DE CABLE CON CONECTOR FAA L-823 TIPO B, INCLUSO MANGUITO FRANGIBLE, SOPORTE DE MONTAJE Y CONECTOR SECUNDARIO BIPOLAR HEMBRA. TOTALMENTE INSTALADA, PROBADA Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_27|ud|LUZ EMPOTRADA BIDIRECCIONAL LED BL/BL BORDE DE PISTA|1482.04|150706|0|
+~D|VDE_BAL_27|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\AAVV_1160\1\1\P0244011\1\2\P0250704\1\2\P38AD0056\1\1.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_27|UD. SUMINISTRO E INSTALACIÓN DE LUZ EMPOTRADA BIDIRECCIONAL PARA BORDE DE PISTA, CON DOS HACES DE LUZ BLANCO/BLANCO, SIN FILTROS, CON DOS LEDS DE 15 W, CON UNA VIDA MEDIA DE 56.000 H A 6.6 A, CONSTITUIDA POR CUERPO DE FUNDICIÓN DE ALUMINIO TRATADO DE 12" DE DIÁMETRO Y UNA CUBIERTA INFERIOR DE FUNDICIÓN INYECTADA DE ALUMINIO CON TRANSFORMADOR Y CIRCUITO ELECTRÓNICO, CON LENTES INTERIORES, JUNTA LATERAL DE SILICONA Y DOS LATIGUILLOS DE CABLE CON CLAVIJA FAA L823 CON SALIDA A TRAVÉS DE PASAMUROS ESTANCO. INCLUSO CAJA BASE POCO PROFUNDA DE 12" DE DIÁMETRO Y 12,5 CM DE ALTURA, RÓTULO DE IDENTIFICACIÓN, TOTALMENTE INSTALADA, PEGADA CON RESINA EPOXI DE DOS COMPONENTES SEIREPOX AN O SIMILAR, SELLADA CON MASILLA AUTONIVELANTE PROBIJUNT D-1 O SIMILAR Y CONEXIONADA. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_28|ud|LUZ EMPOTRADA BIDIRECCIONAL LED BL/AM BORDE DE PISTA|1482.04|150706|0|
+~D|VDE_BAL_28|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\AAVV_1161\1\1\P0244011\1\2\P0250704\1\2\P38AD0056\1\1.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_28|UD. SUMINISTRO E INSTALACIÓN DE LUZ EMPOTRADA BIDIRECCIONAL PARA BORDE DE PISTA, CON DOS HACES DE LUZ BLANCO/AMARILLO, CON DOS LEDS DE 15 W, CON UNA VIDA MEDIA DE 56.000 H A 6.6 A, CONSTITUIDA POR CUERPO DE FUNDICIÓN DE ALUMINIO TRATADO DE 12" DE DIÁMETRO Y UNA CUBIERTA INFERIOR DE FUNDICIÓN INYECTADA DE ALUMINIO CON TRANSFORMADOR Y CIRCUITO ELECTRÓNICO, CON LENTES INTERIORES, JUNTA LATERAL DE SILICONA Y DOS LATIGUILLOS DE CABLE CON CLAVIJA FAA L823 CON SALIDA A TRAVÉS DE PASAMUROS ESTANCO. INCLUSO CAJA BASE POCO PROFUNDA DE 12" DE DIÁMETRO Y 12,5 CM DE ALTURA, RÓTULO DE IDENTIFICACIÓN, TOTALMENTE INSTALADA, PEGADA CON RESINA EPOXI DE DOS COMPONENTES SEIREPOX AN O SIMILAR, SELLADA CON MASILLA AUTONIVELANTE PROBIJUNT D-1 O SIMILAR Y CONEXIONADA. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_29|ud|LUZ EMPOTRADA OMNIDIRECCIONAL (AZUL) BORDE DE CALLE DE RODAJE/PLATAFORMA|909.87|150706|0|
+~D|VDE_BAL_29|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\AAVV_1803\1\1\P0244011\1\2\P0250704\1\2\P38AD0056\1\1.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_29|UD. SUMINISTRO E INSTALACIÓN DE CAJA DE LUCES OMNIDIRECCIONAL EMPOTRADA CUMPLIENDO ESPECIFICACIONES PARA LUCES DE BORDE DE CALLE DE RODAJE, CON FILTRO DE COLOR AZUL. EQUIPADA CON TECNOLOGÍA LED. LA CAJA NO DEBE ELEVARSE MÁS DE 6,35 MM SOBRE EL PAVIMENTO. INCLUSO CAJA BASE DE 8", RÓTULO DE IDENTIFICACIÓN, TOTALMENTE INSTALADA, PEGADA CON RESINA EPOXI DE DOS COMPONENTES SEIREPOX AN O SIMILAR, SELLADA CON MASILLA AUTONIVELANTE PROBIJUNT D-1 O SIMILAR Y CONEXIONADA. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_30|ud|LUZ ELEVADA OMNIDIRECCIONAL (AZUL) BORDE DE CALLE DE RODAJE/PLATAFORMA|321.78|150706|0|
+~D|VDE_BAL_30|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\AAVV_2302\1\1\P0244011\1\2\P0250704\1\2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_30|UD. SUMINISTRO E INSTALACIÓN DE LUZ ELEVADA OMNIDIRECCIONAL CUMPLIENDO ESPECIFICACIONES PARA LUCES DE BORDE DE CALLE DE RODAJE. EQUIPADA CON FUENTE DE LUZ DE TECNOLOGÍA LED, DISPOSITIVO DE MONITORIZACIÓN “FAIL-OPEN” Y MANGUITO DE ROTURA. LATIGUILLO DE CABLE CON CONECTOR FAA L-823 TIPO B, INCLUSO MANGUITO FRANGIBLE, SOPORTE DE MONTAJE Y CONECTOR SECUNDARIO BIPOLAR HEMBRA. TOTALMENTE INSTALADA, PROBADA Y FUNCIONANDO. INCLUSO TRABAJOS EN HORARIO NOCTURNO.|
+~C|VDE_BAL_31|ud|REPUESTOS|18694.78|270617|0|
+~D|VDE_BAL_31|M07CB005M\1\4\AAVV_4002\1\1\AAVV_2106\1\2\AAVV_2105\1\1\AAVV_2202\1\3\AAVV_1160\1\1\AAVV_1161\1\1\AAVV_1803\1\1\AAVV_2302\1\5\AAVV_1610\1\3\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_31|UD. REPUESTO DE REGULADORES Y LUCES CONSISTENTE EN UN MÍNIMO DEL 5% DEL EQUIPAMIENTO INSTALADO, DE LA MISMA MARCA Y MODELO:
+- 1 REGULADOR DE CORRIENTE CONSTANTE SENOIDAL DE POTENCIA 2,5KVA.
+- 1 LUZ EMPOTRADA BIDIRECCIONALES TIPO LED PARA BORDE DE PISTA BLANCA – AMARILLA.
+- 1 LUZ EMPOTRADA BIDIRECCIONALES TIPO LED PARA BORDE DE PISTA BLANCA – BLANCA.
+- 1 LUZ ELEVADA BIDIRECCIONAL TIPO LED PARA BORDE DE PISTA BLANCA – BLANCA.
+- 2 LUCES ELEVADAS BIDIRECCIONALES TIPO LED PARA BORDE DE PISTA BLANCA – AMARILLA.
+- 2 LUCES ELEVADAS BIDIRECCIONALES TIPO LED PARA UMBRAL/EXTREMO DE PISTA VERDE/ROJA.
+- 1 LUZ ELEVADA UNIDIRECCIONAL TIPO LED PARA BARRA DE ALA VERDE.
+- 3 LUCES EMPOTRADAS UNIDIRECCIONALES TIPO LED PARA EJE DE CALLE DE RODAJE VERDE.
+- 5 LUCES ELEVADAS OMNIDIRECCIONALES TIPO LED PARA BORDE DE CALLE DE RODAJE AZUL.
+- 1 LUZ EMPOTRADA OMNIDERCCIONAL TIPO LED PARA BORDE DE CALLE DE RODAJE AZUL.
+ENTREGADO EN LA CENTRAL ELÉCTRICA DEL AEROPUERTO DE EL HIERRO.|
+~C|VDE_BAL_32|ud|TALADRO PARA BALIZAS DE 12"|35.61|020116|0|
+~D|VDE_BAL_32|MO_CNTE_005\1\0.22\MO_CNTE_016\1\0.22\M0CBAL91L\1\0.015\M06VR110\1\0.25\M08CA110\1\0.02\M07CB005M\1\0.1\M09F070\1\0.02\P01DW050\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_32|UD. TALADRO EN PAVIMENTO FLEXIBLE PARA COLOCACIÓN DE BALIZAS DE 12" DE DIÁMETRO Y DE PROFUNDIDAD SEGÚN UTILIZACIÓN, PARA COLOCACIÓN DE BALIZAS EMPOTRADAS EN PAVIMENTO, INCLUSO VACIADO, CON LIMPIEZA; CARGA Y TRASLADO DE MATERIALES SOBRANTES A VERTEDERO AUTORIZADO FUERA DEL RECINTO AEROPORTUARIO VALORADOS EN CAPÍTULO DE GESTIÓN DE RESIDUOS. INCLUIDOS P.P. DEL SOBRECOSTE POR LOS EQUIPOS DE ILUMINACIÓN, MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_33|m|CABLE Cu RZ1-k 0.6/1 kV 4x6 MM2|5.75|190121|0|
+~D|VDE_BAL_33|MO_CNTE_007\1\0.005\MO_CNTE_013_A\1\0.01\MO_CNTE_014_A\1\0.01\M07AF010\1\0.2\P15NCC040\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_33|M. CABLE DE COBRE FLEXIBLE TIPO RZ1-K 0.6/1KV DE 4X6MM2 DE SECCIÓN, AISLADO Y CUBIERTO POR UNA MEZCLA ESPECIAL A BASE DE POLIOLEFINAS, CUBIERTA EXTERIOR TERMOESTABLE, CERO HALÓGENOS, NO PROPAGADOR DE LLAMA, NO PROPAGADOR DE INCENDIOS, SIN EMISIÓN DE GASES CORROSIVOS, REDUCIDA EMISIÓN DE GASES TÓXICOS Y BAJA EMISIÓN DE HUMOS OPACOS, MARCADO CPR, TENDIDO POR CABALIZACIÓN/ROZA INDICADA EN PLANOS, ASÍ COMO SOBRE BANDEJA EN GALERÍA, EMPALMES, TERMINALES, CONEXIONES Y PEQUEÑO MATERIAL DE INSTALACIÓN Y ETIQUETADO, COMPLETAMENTE INSTALADO Y CONEXIONADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_34|ud|REGULADOR CORRIENTE CONSTANTE POTENCIA 5,0 KVA TECNOLOG. SENOIDAL|15611.67|270617|0|
+~D|VDE_BAL_34|MO_CNTE_005\1\3\MO_CNTE_013_A\1\10\MO_CNTE_014_A\1\10\M07CB005M\1\4\AAVV_4021\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_34|UD. SUMINISTRO E INSTALACIÓN DE REGULADOR DE CORRIENTE CONSTANTE DE POTENCIA 5,0 KVA CON TECNOLOGÍA SENOIDAL (TRANSISTORES O IGBT) Y “DISPOSITIVO SUPERVISOR DE DEFECTO A TIERRA” E “INDICADOR DE FALLO DE LÁMPARAS” (5.7.1 Y .5.7.3 S/ UNE EN 61822) INCLUIDOS. TOTALMENTE TERMINADA, PROBADO Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_35|ud|REGULADOR CORRIENTE CONSTANTE POTENCIA 7,5 KVA TECNOLOG. SENOIDAL|16610.36|270617|0|
+~D|VDE_BAL_35|MO_CNTE_005\1\3\MO_CNTE_013_A\1\10\MO_CNTE_014_A\1\10\M07CB005M\1\4\AAVV_4022\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_35|UD. SUMINISTRO E INSTALACIÓN DE REGULADOR DE CORRIENTE CONSTANTE DE POTENCIA 7,5 KVA CON TECNOLOGÍA SENOIDAL (TRANSISTORES O IGBT) Y “DISPOSITIVO SUPERVISOR DE DEFECTO A TIERRA” E “INDICADOR DE FALLO DE LÁMPARAS” (5.7.1 Y .5.7.3 S/ UNE EN 61822) INCLUIDOS. TOTALMENTE TERMINADA, PROBADO Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_36|ud|MONTAJE LUZ DE PROTECCIÓN DE PISTA|39.59|190121|0|
+~D|VDE_BAL_36|MO_CNTE_007\1\0.5\MO_CNTE_013_A\1\1\MO_CNTE_014_A\1\1\M07AF010\1\0.2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_36|UD. INSTALACIÓN DE LUZ DE PROTECCIÓN DE PISTA PREVIAMENTE RETIRADA, INCLUSO CONEXIÓN DE CABLEADO Y CONECTOR BIPOLAR HEMPRA PARA CABLE, INCLUSO PARTE PROPORCIONAL DE MEDIOS AUXILIARES. TOTALMENTE TERMINADO, PROBADA Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_37|ud|RELLENO LOCALIZADO HUECOS CAJAS BASE|9.36|190121|0|
+~D|VDE_BAL_37|MO_CNTE_007\1\0.2\MO_CNTE_016\1\0.2\M07AF010\1\0.4\M08RI005\1\0.2\U03VCB036\1\0.014\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_37|UD. RELLENO LOCALIZADO CON MBC DE HUECOS EN UBICACIÓN DE ANTIGUAS CAJAS BASE EXTRAIDAS. INCLUSO CARGA Y TRANSPORTE DE MATERIAL MBC, EXTENDIDO Y COMPACTADO, UTILIZANDO COMPACTADOR MANUAL, TOTALMENTE TERMINADO. CARGA Y TRANSPORTE DE EQUIPOS Y MATERIALES NECESARIOS A LA ZONA DE OBRA. CON TRABAJOS NOCTURNOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES.|
+~C|VDE_BAL_38|ud|REGULADOR CORRIENTE CONSTANTE POTENCIA 2,5 KVA TECNOLOG. SENOIDAL|10316.54|270617|0|
+~D|VDE_BAL_38|MO_CNTE_005\1\3\MO_CNTE_013_A\1\10\MO_CNTE_014_A\1\10\M07CB005M\1\4\AAVV_4002\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_38|UD. SUMINISTRO E INSTALACIÓN DE REGULADOR DE CORRIENTE CONSTANTE DE POTENCIA 2,5 KVA CON TECNOLOGÍA SENOIDAL (TRANSISTORES O IGBT) Y “DISPOSITIVO SUPERVISOR DE DEFECTO A TIERRA” E “INDICADOR DE FALLO DE LÁMPARAS” (5.7.1 Y .5.7.3 S/ UNE EN 61822) INCLUIDOS. TOTALMENTE TERMINADA, PROBADO Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_39|ud|TRANSFORMADOR DE INTENSIDAD 200 W|195.43|050814|0|
+~D|VDE_BAL_39|MO_CNTE_010\1\0.3\MO_CNTE_012\1\0.3\MO_CNTE_015\1\0.3\AAVV_5009\1\1\P0250604\1\1\P00250804\1\1\P0250714\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_39|UD. TRANSFORMADOR DE AISLAMIENTO DE INTENSIDAD CONSTANTE 6,6/6,6 A. DE 200W. DE POTENCIA. EJECUCIÓN ENCAPSULADA EN TERMOPLÁSTICO ESPECIAL RESISTENTE A LA HUMEDAD Y A LOS COMBUSTIBLES. INCLUSO CONECTORES PRIMARIOS Y CLAVIJAS SECUNDARIAS, TOTALMENTE INSTALADO Y CONEXIONADO. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_40|ud|NUEVO SISTEMA COMPLETO PAPI LED|35461.64|150706|0|
+~D|VDE_BAL_40|MO_CNTE_010\1\8\MO_CNTE_012\1\8\MO_CNTE_015\1\8\PAPI\1\4\UTILPAPI\1\1\P0244011\1\2\P0250704\1\2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_40|UD. SUMINISTRO E INSTALACIÓN DE SISTEMA COMPLETO PAPI LED L-880 DE ADB SAFEGATE O EQUIVALENTE, 4 UNIDADES:
+- NORMATIVA OACI / TP312.
+- CORRIENTE DE ENTRADA 2,8 A 6,7 50/60HZ DESDE RCC DE 5 ESCALONES DE BRILLO.
+CADA UNIDAD INCLUYE:
+- CÁMARA ÓPTICA, ÚNICA Y SELLADA DISEÑADA PARA EVITAR QUE SE GENERE ROCÍO EN LOS ELEMENTOS ÓPTICOS LED.
+- VIDRIO EXTERNO CALENTADO Y CONTROLADO DIGITALMENTE, DISEÑADO PARA ASEGURAR QUE EL VIDRIO EXTERNO ESTÉ LIBRE DE ROCÍO.
+- UNA PANTALLA DIGITAL ÚNICA QUE INDICA EL ÁNGULO VERTICAL, LEGIBLE DESDE EL EXTERIOR DE LA UNIDAD DE ILUMINACIÓN.
+INCLUSO ELEMENTOS DE FIJACIÓN, REGULACIÓN POR MEDIO DE HERRAMIENTAS ESPECÍFICAS DEL EQUIPO, INCLUIDAS, INCLUSO PEQUEÑO MATERIAL, TOTALMENTE INSTALADO Y CORRECTAMENTE AJUSTADO PARA VUELO DE CALIBRACIÓN. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_41|ud|CALIBRACIÓN UNIDAD PAPI|39.35|230519|0|
+~D|VDE_BAL_41|MO_CNTE_007\1\0.1\MO_CNTE_013_A\1\0.25\MO_CNTE_012_B\1\0.25\MAT_209\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_41|UD. CALIBRADO EN TIERRA DE UNIDAD LUMINOSA PAPI CONFORME A LAS RECOMENDACIONES DE AENA AEROPUERTOS Y DEL FABRICANTE DEL EQUIPO. APORTE DE LOS ÚTILES DE CALIBRACION NECESARIOS PARA LA REALIZACIÓN DEL TRABAJO.TOTALMENTE EJECUTADA LA UNIDAD. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_42|ud|VUELOS DE CALIBRACIÓN|19798.33|170811|0|
+~D|VDE_BAL_42|MAT_211\1\1\MAT_212\1\1\MAT_213\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_42|UD. PRUEBA DE CALIBRACIÓN EN VUELO HOMOLOGADO POR AENA DE LAS UNIDADES LUMINOSAS CORRESPONDIENTES A UNA CABECERA, REALIZADO MEDIANTE AVIÓN LABORATORIO PARA LA CALIBRACIÓN ÓPTICA DE LAS UNIDADES LUMINOSAS INSTALADAS, INCLUYENDO TRÁNSITO DE LA AERONAVE HASTA EL AEROPUERTO DE EL HIERRO, PERSONAL EN TIERRA PARA EL AJUSTE DE LAS UNIDADES SEGÚN INDICACIONES DEL PILOTO, ASÍ COMO GEORREFERENCIACIÓN DE LAS UNIDADES PAPI, CON EMISIÓN DEL CORRESPONDIENTE INFORME DE VERIFICACIÓN EN VUELO. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_43|ud|LUZ EMPOTRADA DE DESTELLOS LED UNIDIRECCIONAL|8409.64|150706|0|
+~D|VDE_BAL_43|MO_CNTE_010\1\1.5\MO_CNTE_012\1\1.5\MO_CNTE_015\1\1.5\SLIUADB\1\1\P0244011\1\2\P38AD0056\1\1.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_43|UD. SUMINISTRO E INSTALACIÓN DE LUZ EMPOTRADA DE DESTELLOS DE LED UNIDIRECCIONAL TIPO IL 868D-SFL DE ADB/SAFEGATE O EQUIVALENTE, CON:
+- CARCASA DE ALUMINIO FORJADO
+- HAZ EMITIDO EN BLANCO
+- BAJA PROTUSIÓN: 12,7
+- CABLE DE CONEXIÓN CON ENCHUFE 4 POLOS
+- CONJUNTO DE CONEXIÓN QUE INCLUYE:
+	* CABLE 2M CON 5 POLOS RECEPTÁCULO.
+	* BASE TIPO EUROBASE DE 12”.
+	* ENTRADA LATERAL PG16.
+	* JUEGO DE 6 TORNILLOS DE FIJACIÓN M10.
+	* CONEXIÓN A TIERRA.
+INCLUSO RÓTULO DE IDENTIFICACIÓN, TOTALMENTE INSTALADA, PEGADA CON RESINA EPOXI DE DOS COMPONENTES SEIREPOX AN O SIMILAR, SELLADA CON MASILLA AUTONIVELANTE PROBIJUNT D-1 O SIMILAR Y CONEXIONADA. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_44|ud|ARMARIO DE CONTROL DE SISTEMA DE DESTELLOS|8801.23|190121|0|
+~D|VDE_BAL_44|MO_CNTE_013_A\1\16\MO_CNTE_014_A\1\16\CUADADB\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_44|UD. SUMINISTRO E INSTALACIÓN EN CENTRAL ELÉCTRICA DE ARMARIO DE CONTROL DEL SISTEMA DE DESTELLO, TIPO MCU800D-SFL DE ADB/SAFEGATE O EQUIVALENTE, INCLUSO PROTECCIONES PARA TODO EL SISTEMA. COLOCADO, CABLEADO DESDE CUADRO DE BALIZAMIENTO, PROTECCIONES Y CABLEADO INCLUÍDO, INCLUSO TENDIDO DE BANDEJA. TOTALMENTE INSTALADO, PROBADO Y FUNCIONADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_45|m|MULTICONDUCTOR AISLANTE RV-K 0,6/1 kV 4x4 MM2 Cu|6.24|180510|0|
+~D|VDE_BAL_45|MO_CNTE_013_A\1\0.02\MO_CNTE_012_B\1\0.02\P0529C5X4\1\1\%BT03020\1\0.01\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_45|M. CABLE DE COBRE FLEXIBLE TIPO RZ1-K 0.6/1KV DE 5X4 MM² DE SECCIÓN, MARCA PRYSMIAN O EQUIVALENTE, AISLADO Y CUBIERTO POR UNA MEZCLA ESPECIAL A BASE DE POLIOLEFINAS, CUBIERTA EXTERIOR  TERMOESTABLE, CERO HALÓGENOS, NO PROPAGADOR DE LA LLAMA, NO PROPAGADOR DEL INCENDIO, SIN EMISIÓN DE GASES CORROSIVOS, LIBRE DE HALÓGENOS, REDUCIDA EMISIÓN DE GASES TÓXICOS Y BAJA EMISIÓN DE HUMOS OPACOS, TENDIDO POR LA CANALIZACIÓN CORRESPONDIENTE SEGÚN PLANOS, INCLUSO PARTE PROPORCIONAL DE ESPUMA IGNÍFUGA PARA PASO A TRAVÉS DE PARAMENTOS, EMPALMES, TERMINALES, CONEXIONES Y PEQUEÑO MATERIAL DE INSTALACIÓN Y ETIQUETADO, COMPLETAMENTE INSTALADO Y CONEXIONADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_46|ud|BASAMENTO PARA LUZ EMPOTRADA SLIU|293.23|190121|0|
+~D|VDE_BAL_46|MO_CNTE_015\1\4\MO_CNTE_016\1\4\M05EN030\1\2\M07AF010\1\2\M08RI005\1\1\P01HMV220\1\0.6\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_46|UD. EJECUCIÓN DE BASAMENTO PARA LUZ SLIU EMPOTRADA, SEGÚN DIMENSIONES EN PLANO, REALIZADO EN HORMIGÓN EN MASA HM-20, PROFUNDIDAD 50CM. INCLUSO CUÑAS PERIMETRALES. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_70|m|BANDEJA ELÉCTRICA|71.52|190121|0|
+~D|VDE_BAL_70|MO_CNTE_013_A\1\0.7\MO_CNTE_014_A\1\0.3\MAT_152\1\1\MAT_153\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_70|M. SUMINISTRO E INSTALACIÓN DE BANDEJA ELÉCTRICA METÁLICA PERFORADA LIBRE DE HALÓGENOS, DE 60x300 MM, AISLANTE NO PROPAGADOR DE LA LLAMA, ESTABLE FRENTE A RAYOS UV Y CON BUEN COMPORTAMEINTO A LA INTEMPERIE Y FRENTE A L AACCIÓN DE LOS AGENTES QUÍMICOS.  TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_BAL_80|m|ATARJEA SALA REGULADORES|128.75|190121|0|
+~D|VDE_BAL_80|MO_CNTE_013_A\1\0.598\MO_CNTE_012_B\1\0.8\MAT_120\1\1\P15AH430\1\4\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_BAL_80|M. SUMINISTRO Y COLOCACIÓN DE CANALETA EN SUELO INCLUYENDO TAPA, ACCESORIOS, ELEMENTOS DE FIJACIÓN Y TRABAJOS NECESARIOS PARA SU EJECUCIÓN. TOTALMENTE TERMINADO.  TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DR_01|m|SUSTITUCIÓN TAPAS DE CANALETA|257.67|190121|0|
+~D|VDE_DR_01|MO_CNTE_010\1\0.05\MO_CNTE_016\1\0.05\P02EPT020\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DR_01|M. SUMINISTRO Y COLOCACIÓN DE REJA DE FUNDICIÓN DUCTIL, SEGÚN DIMENSIONES DE CANALETA, TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_01|m2xcm|FRESADO DE FIRME i/CORTE DE PAVIMENTO|0.54|190121|0|
+~D|VDE_DYD_01|MO_CNTE_010\1\0.007\MO_CNTE_016\1\0.005\M07CG010\1\0.001\M05FP030\1\0.001\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_01|M2xCM. FRESADO DE FIRME DE MEZCLA BITUMINOSA INCLUSO CORTE PREVIO SI FUERA NECESARIO, POR MEDIOS MECÁNICOS, POR CM DE ESPESOR, INCLUSO PREPARACIÓN Y LIMPIEZA DE SUPERFICIE. TOTALMENTE TERMINADO. INCLUYE LA CARGA, TRANSPORTE, DESCARGA Y CANON EN GESTOR AUTORIZADO DE RESIDUOS. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_02|m2|LEVANTADO DE GUNITADO EXISTENTE|78.05|190121|0|
+~D|VDE_DYD_02|MO_CNTE_010\1\1\MO_CNTE_015\1\1\MAQ.105\1\0.45\M07CG010\1\0.4\%20\1\0.2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_02|M2. LEVANTADO MANUAL DE SUPERFICIE EXISTENTE DE HORMIGÓN ARMADO APROXIMADAMENTE EN CAPA DE 10CM DE ESPESOR, MEDIANTE TRABAJADORES ESPECIALIZADOS EN TRABAJOS VERTICALES. LA UNIDAD INCLUYE LA REALIZACIÓN DE LÍNEA DE VIDA, PICADO Y RETIRADA DEL HORMIGÓN ARMADO MEDIANTE GRÚA Y VERTIDO A CAJA DE CAMIÓN GRÚA O CUBETA. NO INCLUYE EL TRANSPORTE A VERTEDERO AUTORIZADO Y CANON DE VERTIDO. INCLUYE PEQUEÑO MATERIAL Y MEDIOS AUXILIARES NECESARIOS PARA LA REALIZACIÓN DE LOS TRABAJOS. TOTALMENTE TERMINADA.|
+~C|VDE_DYD_03|ud|DESCONEXIÓN Y DESMONTAJE DE LUZ ELEVADA|5.5|190121|0|
+~D|VDE_DYD_03|MO_CNTE_007\1\0.1\MO_CNTE_016\1\0.2\M07AF010\1\0.2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_03|UD. DESCONEXIÓN, DESMONTAJE, LIMPIEZA DE LA LUZ ELEVADA ELÉCTRICA Y ALMACENAJE EN UN LUGAR INDICADO POR LA DIRECCIÓN DE OBRA, CON LIMPIEZA DEL TERRENO, RETIRADA Y CARGA DEL MATERIAL SOBRANTE. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_04|ud|DESCONEXIÓN Y DESMONTAJE DE LUZ EMPOTRADA|13.37|111014|0|
+~D|VDE_DYD_04|MO_CNTE_005\1\0.1\MO_CNTE_016\1\0.25\MO_CNTE_013_A\1\0.25\PSCBAL050\1\0.1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_04|UD. DESCONEXIÓN, DESMONTAJE, LIMPIEZA DE LA LUZ Y ALMACENAJE EN UN LUGAR INDICADO POR LA DIRECCIÓN DE OBRA, CON LIMPIEZA DEL TERRENO, RETIRADA Y CARGA DEL MATERIAL SOBRANTE. INCLUSO TAPADO DE HUECO DE LUZ. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_05|m|EXTRACCIÓN DE CABLEADO SECUNDARIO EN ROZA SUPERFICIAL|0.91|190121|0|
+~D|VDE_DYD_05|MO_CNTE_013_A\1\0.03\MO_CNTE_014_A\1\0.03\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_05|M. EXTRACCIÓN DE LOS CABLES DE CONEXIÓN ENTRE TRANSFORMADOR Y LUZ, INCLUSO CORTE Y AISLAMIENTO DE CABLE EN PAVIMENTO, INCLUSO RESELLADO DE ROZA CON POLISULFURO SI FUERA NECESARIO.  CON RETIRADA DE LOS PRODUCTOS SOBRANTES A ALMACÉN PARA REUTILIZACIÓN O A VERTEDERO AUTORIZADO A DESIGNAR POR LA DIRECCIÓN DE OBRA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_06|ud|DEMOLICIÓN DE ARQUETAS|23.32|190121|0|
+~D|VDE_DYD_06|MO_CNTE_007\1\0.1\MO_CNTE_011\1\0.3\MO_CNTE_016\1\0.3\M05EN030\1\0.2\M06MR230\1\0.2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_06|UD. DEMOLICIÓN DE ARQUETA DE BALIZAMIENTO Y CUÑA DE TRANSICIÓN DE SER NECESARIO, INCLUSO DEMOLICIONES DE ELEMENTOS DE CONEXIÓN ARQUETA-PEINE / ARQUETA-ROZA, EXCAVACIÓN, RELLENO LOCALIZADO CON MATERIAL SIMILAR AL EXISTENTE Y RASANTEO FINAL DE LA ZONA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_07|ud|DESMONTAJE DE TRANSFORMADOR DE AISLAMIENTO, SIN DESTRUCCIÓN|16.73|190121|0|
+~D|VDE_DYD_07|MO_CNTE_013_A\1\0.5\MO_CNTE_016\1\0.5\M07AF010\1\0.4\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_07|UD. DESMONTAJE DE TRANSFORMADOR DE AISLAMIENTO, TRASLADO Y ALMACENAJE EN LUGAR DESIGNADO POR LA DIRECCIÓN DE OBRA, LIMPIEZA Y EXTRACCIÓN DE LOS CABLES. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_08|m|RETIRADA CABLEADO PRIMARIO EN DESUSO EN TODO TIPO DE CANALIZACIÓN|0.91|190121|0|
+~D|VDE_DYD_08|MO_CNTE_013_A\1\0.03\MO_CNTE_014_A\1\0.03\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_08|M. RETIRADA TODOS LOS CABLES QUE DISCURRAN POR CUALQUIER TIPO DE CANALIZACIÓN, INCLUSO RETIRADA DE MORTERO DE COBERTURA Y TRASLADO DE CABLEADO RETIRADO A PUNTO DE ACOPIO EN CAMPAMENTO DE OBRA PARA POSTERIOR TRASLADO A VERTEDERO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_09|m|DEMOLICIÓN CANALIZACIÓN SURCOS TIPO PEINE|7.9|020312|0|
+~D|VDE_DYD_09|MO_CNTE_005\1\0.01\MO_CNTE_016\1\0.1\M05EN050\1\0.02\T020020\1\0.25\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_09|M. DEMOLICIÓN DE CANALIZACIÓN DE SURCOS PARA CABLEADO DE BALIZAMIENTO, INCLUSO RETIRADA, CARGA Y TRANSPORTE DE ESCOMBROS A VERTEDERO CONTROLADO, Y CANON DE VERTIDO, INCLUSO P.P. DE INCREMENTO DE PRECIOS POR TRABAJOS NOCTURNOS.|
+~C|VDE_DYD_10|ud|DESMONTAJE UNIDADES LUMINOSAS PAPI|69.31|020116|0|
+~D|VDE_DYD_10|MO_CNTE_007\1\0.5\MO_CNTE_010\1\1\MO_CNTE_016\1\1\M07CG010\1\0.5\M06CM030\1\0.5\M06MR230\1\0.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_10|UD. DESMONTAJE DE LAS UNIDADES LUMINOSAS DEL SISTEMA PAPI ACTUAL. CONTEMPLA EL DESCONEXIONADO ELÉCTRICO DE LOS EQUIPOS,  RETIRADA DE UNIDADES LUMINOSAS, CABLES Y CONECTORES, PICAS DE TIERRA, ETC., TRASLADO Y ALMACENAJE EN LUGAR DESIGANDO POR LA DIRECCIÓN DE OBRA O RETIRADA A VERTEDERO.  TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_11|ud|EXTRACCIÓN DE CAJA BASE CON TALADRO|29.8|020116|0|
+~D|VDE_DYD_11|MO_CNTE_005\1\0.2\MO_CNTE_016\1\0.2\M0CBAL91L\1\0.01\M06VR110\1\0.2\M08CA110\1\0.02\M07CB005M\1\0.1\M09F070\1\0.02\P01DW050\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_11|UD. EXTRACCIÓN DE CAJA BASE DE LUZ EMPOTRADA, PREVIA DESCONEXIÓN Y DESMONTAJE DE LA ÓPTICA, MEDIANTE TALADRO PERIMETRAL DE PRECISIÓN, CON CORONA DE DIAMANTE DE DIÁMETRO ADECUADO PARA LA RETIRADA DE LUZ EMPOTRADA, CON HOLGURA ADECUADA PARA POSTERIOR RETIRADA COMPLETA DE LA CAJA SIN DAÑO EN EL PAVIMENTO. CON VACIADO Y RETIRADA DE MATERIAL, LIMPIEZA COMPLETA DEL HUECO Y PAVIMENTO ADYACENTE. RETIRADA DE MATERIAL SOBRANTE, CARGA Y TRANSPORTE A CAMPAMENTO DE OBRA PARA POSTERIOR TRANSPORTE A VERTEDERO. INCLUIDO TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_12|ud|DESMONTAJE LUZ DE PROTECCIÓN DE PISTA|69.84|190121|0|
+~D|VDE_DYD_12|MO_CNTE_007\1\0.5\MO_CNTE_013_A\1\2\MO_CNTE_014_A\1\2\M07AF010\1\0.2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_12|UD. DESMONTAJE DE LUZ DE PROTECCIÓN DE PISTA EN PUERTAS A, B, C Y D, INCLUIDA LA DESINSTALACIÓN Y LIMPIEZA DE LA LUZ. INCLUSO RETIRADA DE CABLEADO HASTA ENTRADA A GALERÍA. TRANSPORTE A VERTEDERO. INCLUIDO TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_14|m2|GRANALLADO SEÑALIZACIÓN HORIZONTAL / NOCT|7|040913|0|
+~D|VDE_DYD_14|MO_CNTE_010\1\0.02\MO_CNTE_015\1\0.02\MO_CNTE_016\1\0.03\M08B020\1\0.1\M11TT031\1\0.02\MAQ_47\1\0.04\MAQ_37\1\0.04\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_14|M2. GRANALLADO DE SEÑALIZACIÓN HORIZONTAL EN PAVIMENTO DE AGLOMERADO ASFÁLTICO DE AEROPUERTOS, INCLUSO BARRIDO, LIMPIEZA DE LA SUPERFICIE AFECTADA Y RETIRADA DE RESIDUOS.TOTALMENTE TERMINADO. INCLUIDOS P.P. DE MATERIALES AUXILIARES Y DEL SOBRE-COSTE POR TRABAJOS NOCTURNOS, LOS EQUIPOS DE ILUMINACIÓN, MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS Y COSTES INDIRECTOS.|
+~C|VDE_DYD_28|m3|DEMOLICIÓN CIMENTACIONES DE HORMIGÓN|39|020116|0|
+~D|VDE_DYD_28|MO_CNTE_007\1\0.2\MO_CNTE_010\1\0.45\MO_CNTE_016\1\0.4\M06CM030\1\0.4\M06MR230\1\0.4\M05PN010\1\0.025\M07CB030\1\0.37\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_28|M3. DEMOLICIÓN Y LEVANTADO DE CIMENTACIONES, BASAMENTOS, CANALIZACIONES Y OTRAS CONSTRUCCIONES DE HORMIGÓN ARMADO DE ESPESOR VARIABLE SOBRE LOS CUALES ESTÁN INSTALADOS LOS DISTINTOS ELEMENTOS DEL SISTEMA PAPI. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_DYD_FGHFGH|ud|DESMONTAJE Y DESCONEXIÓN LETRERO (I/CIMENT)|241.35|190121|0|
+~D|VDE_DYD_FGHFGH|MO_CNTE_007\1\1.41\MO_CNTE_010\1\1.5\MO_CNTE_015\1\1.5\MO_CNTE_016\1\1.5\M05EN030\1\1.15\M06MR230\1\1.15\M05RN020\1\1.15\M07CB030\1\1.15\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_DYD_FGHFGH|UD. DESMONTAJE DE LETRERO EXISTENTE, CON DESCONEXIÓN DEL MISMO EN ARQUETA Y BASE, RETIRADA DE CABLES Y ELEMENTOS AUXILIARES, MANTENIENDO LA CONTINUIDAD DE LOS CIRCUITOS PRIMARIOS. CON CARGA Y TRANSPORTE DE MATERIALES A PUNTO DE ALMACENAMIENTO Y PUESTA DE LOS ELEMENTOS RECUPERADOS A DISPOSICIÓN DE LA DIRECCIÓN DE OBRA. INCLUSO DEMOLICIÓN DE CIMENTACIONES DE HORMIGÓN Y CUÑA DE TRANSICIÓN SI FUESE NECESARIO, RELLENO CON MATERIAL SIMILAR AL EXISTENTE. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_ES_01#||MURO DE ESCOLLERA|37487.07|010110|0|
+~D|VDE_ES_01#|U05CE040\1\241.8\U05CF010\1\112\U05CH030\1\16.64\U05OE030\1\396\|
+~C|VDE_ES_02#||ESTABILIZACIÓN DE TALUDES|53494.4|010110|0|
+~D|VDE_ES_02#|VDE_ES_02.1\1\1460\|
+~C|VDE_ES_02.1|m2|ESTABILIZACIÓN DE TALUDES CON GUNITADO e=10 + MALLAZO 15x15x8 cm|36.64|010110|0|
+~D|VDE_ES_02.1|MO_CNTE_007\1\0.121\MO_CNTE_010\1\0.216\MO_CNTE_015\1\0.1\M07CH010\1\0.2\M06CP010\1\0.1\M11HG020\1\0.1\M08B020\1\0.005\M07CB020\1\0.005\M07N070\1\0.05\P01HW070\1\0.2\P03AM040\1\1\%01\1\0.01\%03CI\1\0.03\|
+~A|VDE_ES_02.1|gunitado\limpieza\medio\estable\talud\auxiliar\producción\protección\colectivo\medición\superficie\ejecución\proyección\mallazo\capa\terminación\vertedero\|
+~T|VDE_ES_02.1|M2. GUNITADO DE 10 CM DE ESPESOR, PROYECTADO EN DOS CAPAS DE 5 CM DE ESPESOR CADA UNA DE ELLAS I/ MALLAZO 15X15X8 CM, EMPLEADO EN ESTABILIZACIÓN DE TALUDES, INCLUSO LIMPIEZA DEL TALUD A GUNITAR, ASÍ COMO LA LIMPIEZA Y RETIRADA A VERTEDERO DE LOS PRODUCTOS DE REBOTE. INCLUIDA PARTE PROPORCIONAL DE MEDIOS AUXILIARES, SIN MEDIDAS DE PROTECCIÓN COLECTIVAS. TOTALMENTE TERMINADO. MEDICIÓN DE SUPERFICIE REALMENTE EJECUTADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES.|
+~C|VDE_ES_03|m3|HORMIGÓN HM-20/P/20/IIA  V.MANUAL|133.55|190121|0|
+~D|VDE_ES_03|MO_CNTE_007\1\0.25\MO_CNTE_010\1\0.45\MO_CNTE_016\1\0.45\P01HMV220\1\1.15\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_ES_03|M3. SUMINISTRO Y COLOCACIÓN DE HORMIGÓN HM-20, INCLUSO PREPARACIÓN DE LA SUPERFICIE DE ASIENTO, VERTIDO, VIBRADO, REGLEADO Y CURADO. SEGÚN NTE-RSS Y EHE-08. TOTALMENTE TERMINADO.  TRABAJOS EN HORARIO NOCTURNO Y EN DÍAS FESTIVOS INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_ES_04|m3|HORMIGÓN HA-30/P/20/IIA  V. MANUAL|143.13|190121|0|
+~D|VDE_ES_04|MO_CNTE_007\1\0.25\MO_CNTE_010\1\0.45\MO_CNTE_016\1\0.45\P01HA390\1\1.15\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_ES_04|M3. HORMIGÓN EN MASA HA-30/P/20/IIa, ELABORADO EN CENTRAL EN RELLENO DE ZAPATAS, ZANJAS DE CIMENTACIÓN, LOSAS; INCLUSO ENCAMILLADO DE PILARES Y MUROS, VERTIDO POR MEDIOS MANUALES, VIBRADO Y COLOCACIÓN. SEGÚN NORMAS NTE-CSZ , EHE Y CTE-SE-C. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO Y EN DÍAS FESTIVOS INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_ES_05|kg|ACERO CORRUGADO ELAB.B 500 S|2.31|190121|0|
+~D|VDE_ES_05|MO_CNTE_010\1\0.025\MO_CNTE_015\1\0.025\P03ACD010\1\1.05\P03AAA020\1\0.01\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_ES_05|Kg. ACERO CORRUGADO B 500 S, CORTADO Y DOBLADO EN TALLER Y ARMADO Y COLOCADO EN OBRA, INCLUSO P.P. DE DESPUNTES.  SEGÚN EHE Y CTE-SE-A.   TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_ES_10|m2|HORMIGÓN HL-150 e=10cm|10.53|190121|0|
+~D|VDE_ES_10|MO_CNTE_007\1\0.06\MO_CNTE_010\1\0.1\MO_CNTE_016\1\0.1\P01HN310\1\0.1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_ES_10|M2 HORMIGÓN DE LIMPIEZA HL-150 DE ESPESOR 10 CM INCLUSO PREPARACIÓN DE LA SUPERFICIE DE ASIENTO, REGLEADO Y NIVELADO, TERMINADO. INCLUSO PARTE PROPORCIONAL DE MEDIOS AXUILIARES. CONFORME AL PLIEGO DE PRESCRIPCIONES TÉCNICAS GENERALES PARA OBRAS DE CARRETERAS Y PUENTES (PG-3). TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO Y EN DÍAS FESTIVOS INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_GR_01|t|CLASIF. Y RECOGIDA SELECT. RESIDUOS|27.52|190121|0|
+~D|VDE_GR_01|MO_CNTE_015\1\0.5\M07AA030\1\0.5\M05PN010\1\0.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_GR_01|T. CLASIFICACIÓN Y RECOGIDA SELECTIVA DE RESIDUOS DE MADERA, PLÁSTICO, PAPEL Y CARTÓN, METAL (INCLUYENDO ENVASES Y EMBALAJES DE ESTOS MATERIALES) Y ENVASES CONTAMINADOS MEDIANTE MEDIOS MANUALES Y MECÁNICOS DE LOS RESIDUOS Y SU DEPÓSITO EN LA ZONA PRINCIPAL DE ALMACENAMIENTO DE RESIDUOS DE LA OBRA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_GR_02|t|RETIRADA Y TTE. A PLANTA VAL. RNPS TIERRAS|21.61|020116|0|
+~D|VDE_GR_02|M05EN030\1\0.1\M07CB020\1\0.1\M07N232\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_GR_02|T. CARGA Y TRANSPORTE DE TIERRAS A VERTEDERO O PLANTA DE VALORIZACIÓN DE RESIDUOS DE CONSTRUCCIÓN Y DEMOLICIÓN (RCD´S) (TIERRAS) POR TRANSPORTISTA AUTORIZADO (POR LA CONSEJERÍA DE MEDIO AMBIENTE), A UNA DISTANCIA MENOR DE 200 KM., CONSIDERANDO IDA Y VUELTA, CON CAMIÓN BAÑERA BASCULANTE CARGADO A MÁQUINA, CANON DE VERTEDERO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_GR_03|t|RETIRADA Y TRANSPORTE A PLANT. VAL. RNPS NO PÉTREOS|43.44|190121|0|
+~D|VDE_GR_03|M13O410\1\0.1\M07N241\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_GR_03|T. SERVICIO DE ENTREGA Y RECOGIDA DE CONTENEDOR DE RESIDUO NO PELIGROSO (MADERA, VIDRIO, PLÁSTICO Y METAL) POR TRANSPORTISTA AUTORIZADO (POR LA CONSEJERÍA DE MEDIO AMBIENTE), A UNA DISTANCIA MENOR DE 200 KM., INCLUYE EL ALQUILER DE CONTENEDORES DE 30M3, CANON DE VERTEDERO. SE CONSIDERA INCLUIDA LA CARGA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_GR_04|t|RETIRADA Y TRANSPORTE A PLANT. VAL. RNPS PÉTREOS NO TIERRAS|39.04|190121|0|
+~D|VDE_GR_04|M05PN010\1\0.2\M07CB030\1\0.2\M07N231\1\1\%01\1\0.01\%03CI\1\0.03\|
+~A|VDE_GR_04|pala\medio\autónomo\basculante\escombro\carga\plástico\planta\residuo\protección\entrada\colectivo\madero\nacional\camión\cargador\construcción\peso\ambiente\|
+~T|VDE_GR_04|T. CARGA Y TRANSPORTE DE RESIDUOS DE CONSTRUCCIÓN Y DEMOLICIÓN DE CARÁCTER PÉTREO (EXCEPTO TIERRAS Y PIEDRAS) CONSTITUIDOS POR HORMIGÓN, LADRILLOS, TEJAS Y MATERIALES CERÁMICOS (O MEZCLA DE ÉSTOS), MEZCLAS BITUMINOSAS Y YESO A PLANTA DE VALORIZACIÓN POR TRANSPORTISTA AUTORIZADO (POR LA CONSEJERÍA DE MEDIO AMBIENTE), A UNA DISTANCIA MENOR DE 200 KM., CONSIDERANDO IDA Y VUELTA, EN CAMIONES BASCULANTES DE HASTA 20 T. DE PESO, CARGADOS CON PALA CARGADORA GRANDE, INCLUSO CANON PLANTA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_GR_05|t|RETIRADA Y TRANSPORTE A PLANTA RPS|792.44|190121|0|
+~D|VDE_GR_05|MO_CNTE_015\1\0.05\MO_CNTE_010_A\1\0.12\M02CA010\1\0.12\P35BT020\1\1\P35BB060\1\1\P35BV140\1\0.5\MAT_1105\1\1\P35BP145\1\1000\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_GR_05|T. RETIRADA Y TRANSPORTE POR TRANSPORTISTA AUTORIZADO (POR LA CONSEJERÍA DE MEDIO AMBIENTE) DE SUSTANCIAS PELIGROSAS (CUALQUIER CODIFICACIÓN LER) HASTA DESTINO FINAL (PLANTA DE VALORIZACIÓN/ELIMINACIÓN) UTILIZANDO CAMIÓN DE 18 TONELADAS DE PESO MÁXIMO AUTORIZADO. EL PRECIO INCLUYE LA CARGA CON MÁQUINA ELEVADORA DE LOS BIDONES O BIG-BAGS COLOCADOS PREVIAMENTE SOBRE PALETS. INCLUYE EL CANON DE PLANTA. LA CAPACIDAD TOTAL DEL CAMIÓN SERÁ DE QUINCE PALETS (CADA PALET PODRÁ CONTENER DE 2 A 4 BIDONES DE 200L), O DE 30 BIG-BAGS, SIEMPRE Y CUANDO NO SE SUPERE EL PESO MÁXIMO AUTORIZADO DEL VEHÍCULO. EL PRECIO DADO ES TENIENDO EN CUENTA QUE DICHA CAPACIDAD TOTAL DEL CAMIÓN SERÁ EXCLUSIVA PARA UN CENTRO PRODUCTOR (OBRA), ESTANDO DISPONIBLE EL VEHÍCULO PARA DICHA OBRA PARA UN VIAJE DURANTE TODO EL DÍA, I/ LOS TRÁMITES DOCUMENTALES QUE ESTABLECE LA NORMATIVA. EL TRANSPORTE SERÁ A UNA DISTANCIA INFERIOR A 200KM. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS. INCLUIDA LA CARGA.|
+~C|VDE_GR_06|u|PUNTO LIMPIO|5024.19|300316|0|
+~D|VDE_GR_06|P01HA390\1\3\P01HM010SL\1\1.5\P03ACD010\1\26.996\MAT_812\1\15\MAT_810\1\16\MAT_803\1\10\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_GR_06|UD. PUNTO LIMPIO PARA ALMACENAMIENTO DE LOS RESIDUOS PELIGROSOS, COMPUESTO POR SOLERA DE HORMIGÓN ARMADO DE DIMENSIONES 5X3 M, CUBIERTA POR MARQUESINA DE CHAPA DE ACERO Y DOTADO DE UN SISTEMA DE CONTENCIÓN DE DERRAMES. INCLUIDO 10 DEPÓSITOS CONTENEDORES DE 200 L PARA EL ALMACENAMIENTO DE LOS RESIDUOS. TOTALMENTE TEMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES.|
+~C|VDE_IA_01|ud|RIEGOS|58.42|020116|0|
+~D|VDE_IA_01|MO_CNTE_015\1\1\M08CA110\1\1\P01DW050\1\8\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_01|UD. CONTROL DIARIO DE EMISIÓN DE POLVO MEDIANTE RIEGO DE CAMINOS DE OBRA, ZONA DE INSTALACIONES AUXILIARES Y ZONAS DE ACOPIO DE MATERIALES PULVERULENTOS, CON UNA MEDIA DE DOS RIEGOS AL DÍA REALIZADOS MEDIANTE CAMIÓN CISTERNA.  TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_IA_02|m2|IMPERMEAB. ZONA DE INSTALACIONES AUXILIARES|36.81|301107|0|
+~D|VDE_IA_02|MO_CNTE_010\1\0.3\MO_CNTE_015\1\0.6\MAT_010B\1\1.5\MAT_021B\1\0.13\MAT_009\1\0.4\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_02|M2. IMPERMEABILIZACIÓN DE TODA LA ZONA DE INSTALACIONES AUXILIARES, INCLUIDA LA ZONA DE ESTACIONAMIENTO Y MANTENIMIENTO DE MAQUINARIA, MEDIANTE LA COLOCACIÓN SOBRE EL TERRENO DE UN GEOTEXTIL DE PROTECCIÓN FRENTE A  INFILTRACIONES, DE 420G/M2 Y 0,85MM DE GROSOR, COMPUESTO POR POLIETILENO DE ALTA Y BAJA DENSIDAD, LAMINADO, NO TEJIDO, POR LAS DOS CARAS, PRESENTADO EN ROLLOS DE 2 M DE ANCHO Y 100 DE LARGO, SUJETÁNDOSE AL TERRENO MEDIANTE APERTURA DE ZANJA DE 15X15 CM Y CUBRIENDO LOS BORDES CON TIERRA. SOBRE EL GEOTEXTIL SE DISPONE UNA CAPA DE ZAHORRA, CON UN ESPESOR DE 20 CM. INCLUYE LA PUESTA EN OBRA DE UNA CANALETA PREFABRICADA DE HORMIGÓN QUE DIRIGE LAS AGUAS DE LLUVIA RECOGIDAS POR LA ZONA DE INSTALACIONES AUXILIARES HASTA LA BALSA DE DECANTACIÓN. TOTALMENTE TERMINADA Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_IA_03|ud|BALSA PROVISIONAL DE DECANTACIÓN/SEDIMENTACIÓN|61.78|010315|0|
+~D|VDE_IA_03|MO_CNTE_007\1\0.05\MO_CNTE_016\1\0.05\M05PN010\1\0.8\M07CB030\1\0.3\MAT_035C\1\6\%01\1\0.01\%03CI\1\0.03\|
+~A|VDE_IA_03|impermeable\recubrimiento\agua\material\retención\construcción\|
+~T|VDE_IA_03|UD. CONSTRUCCIÓN DE BALSA DE DECANTACIÓN/SEDIMENTACIÓN PROVISIONAL CON RECUBRIMIENTO IMPERMEABLE (GEOCOMPUESTO DE BENTONITA DE SODIO NATURAL TIPO BENTOMAT AS5000 FORMADO POR GEOTEXTIL TEJIDO (100 GR/M2), GEOTEXTIL NO TEJIDO (200 GR/M2), BENTONITA (MÍNIMO 5 KG/M2) UNIDOS MEDIANTE PROCESO DE AGUJADO PARA IMPERMEABILIZACIÓN DEL TERRENO) EN INSTALACIONES DE OBRA PARA LA RETENCIÓN DE SEDIMENTOS Y MATERIALES CONTAMINANTES EN ESCORRENTÍA.  INCLUYE TANTAS OPERACIONES DE LIMPIEZA Y VACIADO QUE SE PRECISEN A LO LARGO DEL DESARROLLO DE LAS OBRAS PARA EVITAR LA CONTAMINACIÓN HIDROLÓGICA. TRASLADO DE PRODUCTOS SOBRANTES Y PROCEDENTES DE LA LIMPIEZA A VERTEDERO I/CANON. TOTALMENTE TERMINADA Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_IA_04|ud|SOLERA PARA LAVADO MAQUINARIA 12X4 M.|1813.84|020312|0|
+~D|VDE_IA_04|MO_CNTE_007\1\0.15\MO_CNTE_010\1\0.603\MO_CNTE_015\1\0.501\MO_CNTE_016\1\0.5\M05EC020\1\0.1\M07CB030\1\0.1\MAT_041D\1\10.035\MAT_002C\1\50\MAT_040J\1\10\MAT_025D\1\50.2\MAT_012\1\50.2\MAT_015\1\1\MAT_115C\1\7.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_04|UD. SOLERA DE HORMIGÓN  DE 20 CM. DE ESPESOR, PARA REALIZAR EL LAVADO DE LA MAQUINARIA (EXCAVADORA, DUMPERS..) CON OBJETO DE QUE EL AGUA DE LAVADO CON LAS GRASAS Y LODOS SE DEPOSITEN EN UIN SEPARADOR DE GRASAS COLOCADO AL EFECTO, PARA DESPUÉS TRATAR DICHOS LODOS COMO RESIDUO PELIGROSO. INCLUSO EXCAVACIÓN A MÁQUINA PREVIA DE 20 CM. PARA ENCACHADO DE PIEDRA Y LÁMINA DE PLÁSTICO. LA SOLERA LLEVARÁ UN MALLAZO DE ACERO. DEBERÁ TENER UNA MÍNIMA INCLINACIÓN PARA DESEMBOCAR A UN SUMIDERO SIFÓNICO DE PVC, QUE CONECTARÁ MEDIANTE TUBO DE PVC A UN SEPARADOR DE GRASAS DE POLIETILENO, INCLUIDA DICHA INSTALACIÓN. TOTALMENTE INSTALADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_IA_05|ud|SEPARADOR DE GRASAS|445.07|310516|0|
+~D|VDE_IA_05|MO_CNTE_010\1\1\MO_CNTE_015\1\1\M05PN010\1\0.18\MAT_003\1\0.13\MAT_016\1\1\MAT_017\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_05|UD SEPARADOR DE GRASAS PREFABRICADO DE POLIETILENO DE 60X68 CM. DE DIÁMETRO Y 100 CM. DE ALTURA CON UNA CAPACIDAD DE 325 L. Y DISEÑADO PARA 15 HABITANTES EQUIVALENTE, COLOCADO SOBRE LECHO DE ARENA DE 10 CM. DE ESPESOR, INSTALADO Y LISTO PARA FUNCIONAR, INCLUSO EXCAVACIÓN, RELLENO PERIMETRAL POSTERIOR, CONEXIONES Y MATERIAL AUXILIAR NECESARIO. TOTALMENTE TERMINADO Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_IA_06|m3|RETIRADA Y APILADO TIERRA VEGETAL|1.53|190121|0|
+~D|VDE_IA_06|MO_CNTE_016\1\0.03\M05PN010\1\0.033\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_06|M3. RETIRADA Y APILADO DE LA CAPA DE TIERRA VEGETAL, POR MEDIOS MECÁNICOS, SIENDO ALMACENADA EN MONTONES DE ALTURA MENOR A TRES METROS, PARA SU POSTERIOR REUTILIZACIÓN.|
+~C|VDE_IA_07|m|JALONAMIENTO TEMPORAL DE PROTECCIÓN AMBIENTAL|1.05|151198|0|
+~D|VDE_IA_07|MO_CNTE_016\1\0.04\MAT_703\1\0.125\MAT_700\1\0.02\MAT_705\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_07|M. JALONAMIENTO TEMPORAL DE PROTECCIÓN AMBIENTAL, FORMADO POR SOPORTES METÁLICOS DE 25 MM DE DIÁMETRO Y 1,5 M DE LONGITUD, ESTANDO LOS 20 CM SUPERIORES CUBIERTOS POR UNA PINTURA ROJA, UNIDOS ENTRE SI MEDIANTE UNA MALLA RETICULAR DE SEÑALIZACIÓN DE OBRA Y COLOCADOS CADA 3 M. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_IA_08|ud|SEGUIMIENTO AMBIENTAL|1690.82|041115|0|
+~D|VDE_IA_08|MAT_702\1\9\MAT_701\1\1\%03CI\1\0.03\|
+~T|VDE_IA_08|UD. ELABORACIÓN Y SEGUIMIENTO DE TODAS LAS MEDIDAS CONTEMPLADAS EN EL ANEJO DE INTEGRACIÓN AMBIENTAL DE LA MEMORIA DEL PROYECTO), REALIZACIÓN DE TODAS LAS MEDIDAS AMBIENTALES, DIARIO AMBIENTAL DE LA OBRA, INSPECCIÓN PREVIA, ELABORACIÓN DE INFORMES MENSUALES DE SEGUIMIENTO, ELABORACIÓN DE INFORME FINAL DE OBRA, ELABORACIÓN DE TODA LA DOCUMENTACIÓN ESTABLECIDA EN DICHO INFORME Y LEGISLACIÓN VIGENTE, POR EXIGENCIA DE LA DO, DURANTE LA FASE DE CONSTRUCCIÓN Y PERIODO DE GARANTÍA. INCLUIDA LA TRAMITACIÓN DE LAS AUTORIZACIONES AMBIENTALES Y LAS INSCRIPCIONES EN REGISTROS, ESTUDIOS, ANALÍTICAS NECESARIOS ANTES DE LA EMISIÓN DEL ACTA DE RECEPCIÓN DE LAS OBRAS Y ANTES DE LA EJECUCIÓN DE LOS TRABAJOS SOMETIDOS A AUTORIZACIÓN. 
+AL INICIO DE LAS OBRAS SE REALIZARÁ UN INFORME DE LA INSPECCIÓN VISUAL REALIZADA POR UN TÉCNICO COMPETENTE PARA DETECTAR LA PRESENCIA DE ESPECIES VEGETALES PROTEGIDAS BAJO ALGUNA FIGURA DE PROTECCIÓN LEGAL.|
+~C|VDE_IA_09|m|MALLA POLIETILENO SEGURIDAD|1.79|010111|0|
+~D|VDE_IA_09|MO_CNTE_016\1\0.1\MAT_610\1\0.35\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_09|M. MALLA DE POLIETILENO ALTA DENSIDAD CON TRATAMIENTO ANTIULTRAVIOLETA, COLOR NARANJA DE 1 M. DE ALTURA, TIPO STOPPER, I/COLOCACIÓN Y DESMONTAJE (AMORTIZABLE EN 3 USOS). S/R.D. 486/97.|
+~C|VDE_IA_10|ud|CONTROL ARQUEOPALENTOLOGICO|1854.19|190121|0|
+~D|VDE_IA_10|MO_CNTE_017\1\49.996\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_10|UD. CONTROL ARQUEOPALEONTOLÓGICO MENSUAL DE LOS MOVIMIENTOS DE TIERRA DE CONFORMIDAD CON EL CONTENIDO DE LA AUTORIZACIÓN EMITIDA POR EL MINISTERIO DE CULTURA Y DEPORTE CUYA SOLICITUD, OBTENCIÓN Y SEGUIMIENTO GESTIONARÁ LA DIVISIÓN DE GESTIÓN AMBIENTAL. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_IA_11|ud|ADECUACIÓN ZONAS DE TRÁNSITO|2983.17|020116|0|
+~D|VDE_IA_11|MO_CNTE_007\1\20\MO_CNTE_016\1\20\M05EC030\1\20\M07CB020\1\20\M11TT031\1\20\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_IA_11|UD ADECUACIÓN DE LAS ZONAS DE TRÁNSITO POR TERRENO NATURAL PARA ELIMINACIÓN DE LAS CONSECUENCIAS DEL MOVIMIENTO DE MAQUINARÍA Y TRÁNSITO DE VEHÍCULOS DE OBRA MEDIANTE ESCARIFICADO CON PROFUNDIDAD DE ENTRE 20 Y 60 CM EN FUNCIÓN DE LA COMPACIDAD ADQUIRIDA SEGÚN CRITERIO DE LA D.O. TOTALMENTE TERMINADO INCLUSO TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_MT_02|m3|RELLENO CON MATERIAL PROCEDENTE DE LA EXCAVACIÓN|2.42|020116|0|
+~D|VDE_MT_02|MO_CNTE_007\1\0.007\MO_CNTE_016\1\0.018\M08NM010\1\0.018\M08CA110\1\0.012\M08RN040\1\0.012\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_MT_02|M3. RELLENO CON PRODUCTOS PROCEDENTES DE LA EXCAVACIÓN, EXTENDIDO, HUMECTACIÓN Y COMPACTACIÓN, INCLUSO PERFILADO DE TALUDES Y RASANTEO DE LA SUPERFICIE DE CORONACIÓN, TERMINADO. INCLUIDA PARTE PROPORCIONAL DE MEDIOS AUXILIARES, SIN MEDIDAS DE PROTECCIÓN COLECTIVAS. MEDICIÓN DE VOLUMEN REALMENTE EJECUTADO. CONFORME A ORDEN FOM/1382/2002-PG3-ART.330. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_MT_03|m3|TERRAPLÉN/RELLENOS SUELO ADECUADO PRÉST.|10.34|020116|0|
+~D|VDE_MT_03|MO_CNTE_007\1\0.011\MO_CNTE_015\1\0.025\M08NM010\1\0.018\M08RN050\1\0.019\M08CA130\1\0.009\M07CB040\1\0.02\M05EC050\1\0.02\M07N032\1\1\M07W080\1\5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_MT_03|M3. TERRAPLÉN CON SUELO ADECUADO PROCEDENTE DE PRÉSTAMOS (SEGÚN PLIEGO PG-3), INCLUYENDO EXTENDIDO, HUMECTACIÓN Y COMPACTACIÓN. TOTALMENTE TERMINADO. INCLUIDA PARTE PROPORCIONAL DE MEDIOS AUXILIARES, SIN MEDIDAS DE PROTECCIÓN COLECTIVAS. MEDICIÓN DE VOLUMEN REALMENTE EJECUTADO. CONFORME A ORDEN FOM/1382/2002-PG3-ART.330. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_MT_04|m3|EXCAVACIÓN CUALQUIER TIPO DE TERRENO|5.46|020116|0|
+~D|VDE_MT_04|MO_CNTE_007\1\0.029\MO_CNTE_016\1\0.146\M05EC030\1\0.008\M06MR240\1\0.011\M07CB020\1\0.044\M05PN010\1\0.015\M11TT031\1\0.005\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_MT_04|M3. EXCAVACIÓN EN CUALQUIER TIPO DE TERRENO. INCLUSO EXCAVACIÓN POR MEDIOS MANUALES EN CASO DE SER NECESARIO. INCLUYENDO DESBROCE PREVIO, RETIRADA DE TIERRA VEGETAL, PERFILADO Y REGULARIZACIÓN DEL FONDO Y LATERALES DE EXCAVACIÓN, AGOTAMIENTO, DESAGÜES PROVISIONALES, MANTENIMIENTO DE ACCESOS, APEO TEMPORAL DE SERVICIOS Y MEDIOS AUXILIARES PARA LA ENTIBACIÓN Y ACHIQUE. INCLUIDO CARGA Y TRANSPORTE DE LOS PRODUCTOS DE LA EXCAVACIÓN A LUGAR DE EMPLEO O LUGAR DE ACOPIO, PARA POSTERIOR CLASIFICACIÓN. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_MT_05|m2|REPERFILADO|1.01|020116|0|
+~D|VDE_MT_05|MO_CNTE_007\1\0.011\MO_CNTE_015\1\0.002\M08NM010\1\0.002\M08RN050\1\0.002\M08CA130\1\0.009\M07CB040\1\0.002\M05EC050\1\0.001\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_MT_05|M2. REPERFILADO EN CUALQUIER TIPO DE TERRENO PARA ADECUACIÓN DE PENDIENTES. INCLUSO EXCAVACIÓN POR MEDIOS MANUALES EN CASO DE SER NECESARIO. INCLUIDO CARGA Y TRANSPORTE DE LOS EXCEDENTES DEL REPERFILADO A LUGAR DE EMPLEO O LUGAR DE ACOPIO, PARA POSTERIOR CLASIFICACIÓN. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_MT_07|m3|RELLENO CON MATERIAL PROCEDENTE DE FRESADO|2.19|020116|0|
+~D|VDE_MT_07|MO_CNTE_007\1\0.007\MO_CNTE_016\1\0.018\M08NM010\1\0.018\M08CA110\1\0.01\M08RN040\1\0.008\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_MT_07|M3. RELLENO CON PRODUCTOS PROCEDENTES DEL FRESADO DEL PAVIMENTO INCLUSO COMPACTACIÓN, PERFILADO Y RASANTEO DE LA SUPERFICIE DE CORONACIÓN. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_01|t|CAPA ASFÁLTICA SMA 11 SURF PMB|99.8|201005|0|
+~D|VDE_PV_01|MO_CNTE_005\1\0.05\MO_CNTE_010\1\0.06\MO_CNTE_016\1\0.064\M05PN010\1\0.05\M07CB020\1\0.05\M03MC130\1\0.046\M03MC131\1\0.001\M08EA100\1\0.02\MAQ.082B\1\0.02\M08CA110\1\0.005\M07W030\1\22\M07Z110\1\0.007\MAQ.100\1\0.07\P01PC010\1\4\MAT_030B\1\0.06\MAT_030C\1\0.003\MAT_050\1\0.006\P01AF300\1\0.6\P01AF310\1\0.35\%08\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_01|T. MEZCLA DISCONTINUA TIPO SMA 11 SURF CON BETÚN MODIFICADO CON POLÍMEROS PMB 45/80-65, TAMAÑO MÁXIMO DEL ÁRIDO 12,5MM. EXTENDIDA EN CAPA DE RODADURA, INCLUSO BETÚN, FILLER Y FIBRAS DE CELULOSA (DOTACIÓN 3KG/TN MBC. INCLUIDA LA FABRICACIÓN, TRANSPORTE A PIE DE OBRA, BARRIDO Y PREPARACIÓN DE LA SUPERFICIE, EXTENDIDO Y COMPACTACIÓN, SEGÚN PPT. CON REPERCUSIÓN POR TONELADA FABRICADA EN CONCEPTO DE TRANSPORTE, MONTAJE, DESMONTAJE DE PLANTA Y P.P. DE LAS OBRAS NECESARIAS PARA SU INSTALACIÓN Y FUNCIONAMIENTO, Y MAQUINARIA DE RESERVA. MEDIDA SEGÚN PERFIL TEÓRICO Y SUPONIENDO DENSIDAD AGLOMERADO: 2,45 T/M3. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_02|t|CAPA ASFÁLTICA SMA16 55/70 EN CAPA INTERMEDIA|96.9|010110|0|
+~D|VDE_PV_02|MO_CNTE_005\1\0.07\MO_CNTE_010\1\0.243\MO_CNTE_016\1\0.23\M05PN010\1\0.08\M03MC130\1\0.05\M07CB020\1\0.05\M08EA100\1\0.03\M08RT050\1\0.06\M08RV020\1\0.05\M08CA110\1\0.005\M07Z110\1\0.006\P01AF250\1\0.592\P01AF260\1\0.357\P01AF270\1\0.12\P01PL010\1\0.06\P01PC010\1\6.73\P01AF800\1\0.07\%08\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_02|T. MEZCLA BITUMINOSA EN CALIENTE TIPO SMA 16 55/70 EN CAPA INTERMEDIA, CON ÁRIDOS CON DESGASTE DE LOS ÁNGELES <25, FABRICADA Y PUESTA EN OBRA, EN MEZCLA SEMIDENSA, EXTENDIDO Y COMPACTACIÓN, INCLUSO FILLER DE APORTACIÓN Y BETÚN. ÁRIDO CON MARCADO CE Y DDP (DECLARACIÓN DE PRESTACIONES) SEGÚN REGLAMENTO (UE) 305/2011. INCLUSO P.P. DE INSTALACIONES DE LA PLANTA ASFÁLTICA. INCLUIDOS P.P. DEL SOBRE-COSTE POR TRABAJOS NOCTURNOS, EQUIPOS DE ILUMINACIÓN, LIMPIEZA Y BARRIDO DE LAS CAPAS ASFÁLTICAS ANTES, DURANTE Y DESPUÉS DE LA EJECUCIÓN DE LOS TRABAJOS, MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_03|t|CAPA ASFÁLTICA AC-16 SURF 50/70|88.11|010110|0|
+~D|VDE_PV_03|MO_CNTE_005\1\0.05\MO_CNTE_010\1\0.069\MO_CNTE_016\1\0.069\M05PN010\1\0.05\M03MC130\1\0.05\M07CB020\1\0.03\M08EA100\1\0.02\M08RT050\1\0.02\M08RV020\1\0.02\M08CA110\1\0.005\M07W030\1\35\M07Z110\1\0.007\P01PL010\1\0.06\P01PC010\1\8\P01AF300\1\0.55\P01AF310\1\0.3\P01AF320\1\0.1\%08\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_03|T. MEZCLA BITUMINOSA EN CALIENTE TIPO AC-16 SURF 50/70 (ANTIGUA T-6) EXTENDIDA EN CAPA DE RODADURA, CON ÁRIDOS DE DESGASTE DE LOS ÁNGELES <20, TAMAÑO MÁXIMO DEL ÁRIDO 16 MM.,  FABRICADA Y PUESTA EN OBRA, EXTENDIDA Y COMPACTADA SEGÚN PPT. INCLUIDO BETÚN, FILLER DE APORTACIÓN (CEMENTO) Y REPERCUSIÓN POR TONELADA FABRICADA EN CONCEPTO DE TRANSPORTE, MONTAJE, DESMONTAJE DE PLANTA Y P.P. DE LAS OBRAS NECESARIAS PARA SU INSTALACIÓN Y FUNCIONAMIENTO, Y MAQUINARIA DE RESERVA. MEDIDA SOBRE PERFIL TEÓRICO Y SUPONIENDO UNA DENSIDAD DE 2,5 T/M3. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_04|t|CAPA ASFÁLTICA AC-16 BIN 50/70|88.11|010110|0|
+~D|VDE_PV_04|MO_CNTE_005\1\0.05\MO_CNTE_010\1\0.073\MO_CNTE_016\1\0.072\M05PN010\1\0.07\M03MC130\1\0.05\M07CB020\1\0.05\M08EA100\1\0.02\M08RT050\1\0.02\M08RV020\1\0.02\M08CA110\1\0.005\M07W030\1\35\M07Z110\1\0.007\P01PL010\1\0.06\P01PC010\1\8\P01AF250\1\0.55\P01AF260\1\0.3\P01AF270\1\0.1\%08\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_04|T. MEZCLA BITUMINOSA EN CALIENTE TIPO AC-16 BIN 50/70 (ANTIGUA T-6) EXTENDIDA EN CAPA INTERMEDIA, CON ÁRIDOS DE DESGASTE DE LOS ÁNGELES <25, TAMAÑO MÁXIMO DEL ÁRIDO 16 MM.,  FABRICADA Y PUESTA EN OBRA, EXTENDIDA Y COMPACTADA SEGÚN PPT. INCLUIDO BETÚN, FILLER DE APORTACIÓN (CEMENTO) Y REPERCUSIÓN POR TONELADA FABRICADA EN CONCEPTO DE TRANSPORTE, MONTAJE, DESMONTAJE DE PLANTA Y P.P. DE LAS OBRAS NECESARIAS PARA SU INSTALACIÓN Y FUNCIONAMIENTO, Y MAQUINARIA DE RESERVA. MEDIDA SOBRE PERFIL TEÓRICO Y SUPONIENDO UNA DENSIDAD DE 2,5 T/M3. TOTALMENTE TERMINADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_05|t|CAPA ASFÁLTICA AC-22 BIN 50/70|87.6|010110|0|
+~D|VDE_PV_05|MO_CNTE_005\1\0.08\MO_CNTE_010\1\0.09\MO_CNTE_016\1\0.091\M05PN010\1\0.07\M03MC130\1\0.05\M07CB020\1\0.05\M08EA100\1\0.05\M08RT050\1\0.05\M08RV020\1\0.05\M08CA110\1\0.006\M07W030\1\40\M07Z110\1\0.005\P01PC010\1\8\P01PL010\1\0.045\P01AF250\1\0.35\P01AF260\1\0.25\P01AF270\1\0.2\P01AF280\1\0.15\%08\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~A|VDE_PV_05|betún\marco\fabricación\filler\ángel\mezcla\capa\caliente\desgaste\aportación\círculo\compacto\|
+~T|VDE_PV_05|T. MEZCLA BITUMINOSA EN CALIENTE TIPO AC-22 BIN 50/70 G EN CAPA INTERMEDIA, CON ÁRIDOS CON DESGASTE DE LOS ÁNGELES <25, FABRICADA Y PUESTA EN OBRA, EXTENDIDO Y COMPACTACIÓN, EXCEPTO FILLER DE APORTACIÓN. ÁRIDO CON MARCADO CE Y DDP (DECLARACIÓN DE PRESTACIONES) SEGÚN REGLAMENTO (UE) 305/2011. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_06|t|CAPA BASE ASFÁLTICA TIPO AC-32 BASE 50/70|87.6|010110|0|
+~D|VDE_PV_06|MO_CNTE_005\1\0.08\MO_CNTE_010\1\0.092\MO_CNTE_016\1\0.092\M05PN010\1\0.07\M03MC130\1\0.05\M07CB020\1\0.05\M08EA100\1\0.05\M08RT050\1\0.05\M08RV020\1\0.05\M08CA110\1\0.006\M07W030\1\40\M07Z110\1\0.005\P01PC010\1\8\P01PL010\1\0.045\P01AF250\1\0.35\P01AF260\1\0.2\P01AF270\1\0.2\P01AF280\1\0.1\P01AF290\1\0.1\%08\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_06|T. MEZCLA BITUMINOSA EN CALIENTE TIPO AC-32 BASE 50/70 EN CAPA DE BASE (ANTIGUA T-1),  FORMADA POR AGLOMERADO ASFÁLTICO, TAMAÑO MÁXIMO DE ÁRIDO 32 MM. FABRICADA Y PUESTA EN OBRA, EXTENDIDA Y COMPACTADA SEGÚN PPT. INCLUIDO BETÚN, FILLER DE APORTACIÓN (CEMENTO) Y REPERCUSIÓN POR TONELADA FABRICADA EN CONCEPTO DE TRANSPORTE, MONTAJE, DESMONTAJE DE PLANTA Y P.P. DE LAS OBRAS NECESARIAS PARA SU INSTALACIÓN Y FUNCIONAMIENTO, Y MAQUINARIA DE RESERVA.  MEDIDA SOBRE PERFIL TEÓRICO Y SUPONIENDO UNA DENSIDAD DE 2,40 T/M3. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_07|m3|SUBBASE GRANULAR DE ZAHORRA ARTIFICIAL|35|020116|0|
+~D|VDE_PV_07|MO_CNTE_007\1\0.05\MO_CNTE_016\1\0.3\M08NM020\1\0.04\M08RN040\1\0.04\M08CA110\1\0.04\M07CB020\1\0.04\M07W020\1\56\P01AF030\1\2.2\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_07|M3. ZAHORRA ARTIFICIAL, HUSOS ZA 0/32 EN CAPAS DE BASE, CON 75 % DE CARAS DE FRACTURA, COLOCADA EN CAPA DE SUBBASE GRANULAR BAJO FIRME ASFÁLTICO, INCLUIDO CANON, CARGA Y TRANSPORTE DESDE EL LUGAR DE PROCEDENCIA O CANTERA, A PIE DE OBRA, PUESTA EN OBRA, EXTENDIDA Y COMPACTADA, INCLUSO PREPARACIÓN DE LA SUPERFICIE DE ASIENTO, EN CAPAS DE 20/30 CM DE ESPESOR, MEDIDO SOBRE PERFIL. DESGASTE DE LOS ÁNGELES DE LOS ÁRIDOS < 30. SEGÚN PPT. COMPACTADO AL 100% DEL PROCTOR MODIFICADO, INCLUSO REFINO DE LA ÚLTIMA CAPA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_09|m2|RIEGO DE IMPRIMACIÓN ECI|0.55|010110|0|
+~D|VDE_PV_09|MO_CNTE_016\1\0.004\M08CA110\1\0.001\M07AF030\1\0.002\M08B020\1\0.002\M08CB010\1\0.002\P01PL170\1\1\%01\1\0.01\%03CI\1\0.03\|
+~A|VDE_PV_09|imprimación\riego\rotura\emulsión\asfalto\granular\catiónico\superficie\capa\preparación\construcción\|
+~T|VDE_PV_09|M2. RIEGO DE IMPRIMACIÓN, CON EMULSIÓN ASFÁLTICA CATIÓNICA DE IMPRIMACIÓN ECI, DE CAPAS GRANULARES, CON UNA DOTACIÓN DE 1 KG/M2, INCLUSO BARRIDO Y PREPARACIÓN DE LA SUPERFICIE. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES y Y COSTES INDIRECTOS.|
+~C|VDE_PV_10|m2|RIEGO ANTICARBURANTES|10.39|020116|0|
+~D|VDE_PV_10|MO_CNTE_016\1\0.004\M08CA110\1\0.001\M07AF030\1\0.002\M08B020\1\0.002\M08CB010\1\0.002\P01PL170B\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_10|M2. SISTEMA ANTICARBURANTE RESISTENTE A LA ABRASIÓN Y A LA ACCIÓN AGRESIVA DE LOS CARBURANTES, COMPUESTO POR RESINAS SINTÉTICAS, CARGAS MINERALES, PIGMENTOS Y OTROS ADITIVOS ESPECIALES, APLICADO EN DOS CAPAS CON UNA DOTACIÓN APROXIMADA DE 1,5-2,5 KG/M2 SOBRE CAPA DE RODADURA, INCLUSO PREPARACIÓN PREVIA DE LA SUPERFICIE, SEGÚN PPT Y LIMPIEZA POSTERIOR DE TODA LA ZONA TRATADA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_11|m2|BARRIDO DEL PAVIMENTO|0.16|190121|0|
+~D|VDE_PV_11|MO_CNTE_007\1\0.001\MO_CNTE_016\1\0.002\M09F070\1\0.002\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_11|M2. BARRIDO Y LIMPIEZA EN SECO DE LA SUPERFICIE PAVIMENTADA CON BARREDORAS DE ALTO RENDIMIENTO (TIPO AEROPUERTO). TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_12|m|SELLADO FISURA PASANTE|184.4|010110|0|
+~D|VDE_PV_12|MO_CNTE_010\1\1\MO_CNTE_015\1\1.5\M11HC130_\1\0.4\M09F010\1\3.6\01_RESI\1\0.5\01_RESI_FLEX\1\3.5\01_MASILLA\1\0.1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_12|M. REPARACIÓN DE FISURA PASANTE EN PAVIMENTOS DE HORMIGÓN HIDRÁULICO, DESDE UN ESPESOR DE 0.5MM, MEDIANTE CAJEADO DE FISURA HASTA UNA PROFUNDIDAD DE 1 A 2 CM, EJECUCIÓN DE TALADROS CON BROCA DE DIAMENTE DE 16 MM DE DIÁMETRO, Y RELLENO MEDIANTE RESINA EPOXI EN LA TOTALIDAD DEL ESPESOR DE LA LOSA. SE EMPLEARÁ UN TIPO DE RESINA DE EPOXY DE ALTA VELOCIDAD DE POLIMERIZACIÓN PARA LA CAPA INFERIOR, Y UNA RESINA DE BAJA GENERACIÓN DE CALOR Y ALTA FLUIDEZ, Y TEMPERATURA DE TRANSICIÓN VÍTREA >65ºC PARA LA CAPA SUPERIOR. EL ACABADO SUPERFICIAL DE LA FISURA SE REALIZARÁ MEDIANTE RESINA EPOXY FLEXIBLE DE COLOR DEL HORMIGÓN ADYACENTE, O POLISULFURO, TOTALMENTE ACABADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_13|m2|REPARACION DE ESQUINA DE LOSA. PROFUNDIDAD 5 A 6 CM|475.76|010110|0|
+~D|VDE_PV_13|MO_CNTE_010\1\2\MO_CNTE_015\1\2\M11HF020\1\0.2\M06CM050\1\1\M06MR110\1\1\M09F010\1\1.8\01_M_RESI\1\110\01_RESI\1\0.6\01_LAM_FIB\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_13|M2. REPARACIÓN DE ESQUINA DE LOSA DE HORMIGÓN MEDIANTE PICADO MANUAL DEL HORMIGÓN HASTA DEJAR LA REPARACIÓN DE FORMA RECTANGULAR O CUADRADA (MÍNIMO 1 M DE ANCHO) CON UN ESPESOR DE 5 A 6 CM, RETIRADA DE MATERIAL SOBRANTE Y LIMPIEZA, INYECCIÓN DE LA BASE DE LA LOSA EN LA ZONA FISURADA CON UN MICROHORMIGÓN LIGERAMENTE EXPANSIVO, INYECCIÓN DE LAS GRIETAS Y PEGADO DE UNA MALLA DE FIBRA DE VIDRIO O FIBRA DE CARBONO SOBRE LAS GRIETAS, IMPRIMACIÓN DE LA SUPERFICIE Y VERTIDO DEL MORTERO EPOXY FORMADO POR ÁRIDOS DE NATURALEZA ÁCIDA (PÓRFIDA, SILÍCEA,...) CON UNA GRANULOMETRÍA DE ARENAS SILÍCEAS Y RESINA EPOXY DE DOS COMPONENTES DE MUY ALTA FLUIDEZ Y TEMPEERATURA DE TRANSICIÓN VÍTREA >65ºC, TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_14|m2|REPARACIÓN SUPERFICIAL DE LOSA|116.72|010110|0|
+~D|VDE_PV_14|MO_CNTE_010\1\0.4\MO_CNTE_015\1\0.4\M11HF020\1\0.2\M06CM050\1\0.3\M09F033\1\0.1\01_M_RESI\1\20\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_14|M2. REGENERACIÓN SUPERFICIAL DE LOSA DE HORMIGÓN DE HIDRÁULICO, MEDIANTE FRESADO DE LA SUPERFICIE A TRATAR CON ESPESOR DE FRESADO MEDIO 2 CM, LIMPIEZA Y POSTERIOR VERTIDO DE UN MORTERO FORMADO POR ÁRIDOS DE NATURALEZA ÁCIDA (PÓRFIDA, SILÍCEA, ...) CON UNA GRANULOMETRÍA DE ARENAS SILÍCEAS Y RESINA EPOXY DE DOS COMPONENTES DE MUY ALTA FLUIDEZ Y TEMPEERATURA DE TRANSICIÓN VÍTREA >65ºC, TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_15|m3|CUÑA DE TRANSICIÓN|75.12|201005|0|
+~D|VDE_PV_15|MO_CNTE_005\1\0.05\MO_CNTE_010\1\0.03\MO_CNTE_016\1\0.01\M05PN010\1\0.01\M07CB020\1\0.01\M03MC130\1\0.015\M03MC131\1\0.001\M08EA100\1\0.01\MAQ.082B\1\0.01\M08CA110\1\0.003\M07W030\1\5\M07Z110\1\0.005\MAQ.100\1\0.05\P01PC010\1\4\MAT_030B\1\0.06\MAT_030C\1\0.003\MAT_050\1\0.006\P01AF245\1\0.24\P01AF246\1\0.35\P01AF260\1\0.35\%08\1\0.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_15|M3. CUÑA DE TRANSICIÓN SEGÚN INSTRUCCIÓN TÉCNICA ESPECIFICA PARA LA REALIZACIÓN DE OBRAS DE RECRECIDO DE PISTA, CON MEZCLA BITUMINOSA SEGÚN CAPA DE EJECUCIÓN, INCLUSO CORTE, EXTENDIDO COMPACTACIÓN Y PERFILADO, TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_16|m|SELLADO DE FISURAS|3.65|190121|0|
+~D|VDE_PV_16|MO_CNTE_007\1\0.005\MO_CNTE_016\1\0.1\M09F020\1\0.025\P01RF020\1\0.51\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_16|M. SELLADO DE FISURAS EN PAVIMENTO DE AGLOMERADO ASFÁLTICO A BASE DE COMPOFIX, MÁSTIC DE BETUNES MODIFICADOS CON ELASTÓMEROS, DE APLICACIÓN EN CALIENTE. I/ LIMPIEZA PREVIA CON LANZA TÉRMICA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_PV_17|ud|PUNTOS DE ANCLAJE PARA AERONAVES|164.3|310516|0|
+~D|VDE_PV_17|MO_CNTE_007\1\3\MO_CNTE_016\1\3\MAT_003\1\0.004\P01HM010SL\1\0.032\MAT_051\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_17|UD. PUNTO DE ANCLAJE PARA AERONAVES INCLUSO DEMOLICIÓN DE PAVIMENTO, RESINA CIMENTACIÓN INSTALACIÓN DE ANCLAJE Y ACABADOS. COMPLETAMENTE INSTALADAO SEGÚN RECOMENDACIONES DEL FABRICANTE. INCLUSO MEDIOS AUXILIARES Y TRABAJOS NOCTURNOS.|
+~C|VDE_PV_18|m2|GEOMALLA ANTIREMONTE DE FISURAS|2.71|190121|0|
+~D|VDE_PV_18|MO_CNTE_007\1\0.025\MO_CNTE_016\1\0.025\MAT_001\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_18|M2. SUMINISTRO E INSTALACIÓN DE GEOCOMPUESTO DE REFUERZO DE ASFALTO ANTIREMONTE DE FISURAS, FORMADO POR LA UNIÓN EN UN UNICO PRODUCTO DE UNA GEOMALLA Y UN GEOTEXTIL NO TEJIDO. LA GEOMALLA DE REFUERZO SE FABRICARÁ A PARTIR DE FILAMENTOS DE POLIÉSTER DE ALTO MÓDULO ELÁSTICO CON BAJAS PROPIEDADES DE FLUENCIA Y UNA MÍNIMA RELAJACIÓN. LA GEOMALLA IRÁ UNIDA MEDIANTE COSIDO A UN GEOTEXTIL NO TEJIDO ULTRALIGERO, DE NO MÁS DE 20 GR/M2, DE POLIPROPILENO. AL CONJUNTO SE LE DARÁ UN RECUBRIMIENTO BITUMINOSO CON UN CONTENIDO DE BETÚN D 60%, QUE FAVORECERÁ LA ADHERENCIA CON EL ASFALTO Y PROTEGERÁ DE DAÑOS MECÁNICOS DURANTE LA INSTALACIÓN. COMPLETAMENTE INSTALADAO SEGÚN RECOMENDACIONES DEL FABRICANTE. INCLUSO MEDIOS AUXILIARES Y TRABAJOS NOCTURNOS.|
+~C|VDE_PV_19|m2|RIEGO DE ADHERENCIA C60B3 TER|0.41|020116|0|
+~D|VDE_PV_19|MO_CNTE_016\1\0.002\MO_CNTE_005\1\0.001\M07AF030\1\0.001\M08B020\1\0.001\M08CB010\1\0.001\P01PL110\1\0.001\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_PV_19|M2. RIEGO DE ADHERENCIA TERMOADHERENTE, CON EMULSIÓN ASFÁLTICA CATIÓNICA DE ROTURA RÁPIDA C60B3 CON UNA DOTACIÓN DE 0,50 KG/M2, INCLUSO BARRRIDO Y PREPARACIÓN  DE LA SUPERFCIE. . INCLUIDA MAQUINARIA DE RESERVA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_03|ud|SUMINISTRO Y COLOCACIÓN TAPA D400|528.95|190121|0|
+~D|VDE_SA_03|MO_CNTE_010\1\1\MO_CNTE_016\1\1\MAT_600\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_03|UD. SUMINISTRO Y COLOCACIÓN DE TAPA DE FUNDICIÓN DÚCTIL (CIRCULAR O RECTANGULAR SEGUN EL CASO), CLASE D-400 MODELO NORINCO O SIMILAR DE MEDIDAS DE PASO INTERIOR SEGÚN DIMENSIONES DE ARQUETA, JUNTA DE ELÁSTOMERO-PASTILLA DESFONDABLE, CAJERA DE MANIOBRA ESTANCA, INCLUSO P.P. DE ACOPIOS, MANO DE OBRA DE REPLANTEO, NIVELACIÓN, CERCO, COLOCACIÓN Y LIMPIEZA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_04|m3|CUÑA DE SUAVIZADO|161.49|010110|0|
+~D|VDE_SA_04|MO_CNTE_007\1\0.15\MO_CNTE_010\1\0.2\MO_CNTE_016\1\0.3\M05EN030\1\0.2\P01DW050\1\0.005\M07W110\1\3\P01HMV220\1\1\P01DW280\1\3\P01UA040\1\0.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_04|M3. CUÑA PERIMETRAL PARA SUAVIZADO DE OBSTÁCULOS, DE 30 CM DE PROFUNDIDAD Y PENDIENTE DE 1/10, REALIZADA EN BASE A HORMIGÓN EN MASA HM-20, ARMADO CON FIBRAS DE POLIPROPILENO, SIN INCLUIR PREVIA EXCAVACIÓN NI RELLENO POSTERIOR CON MATERIAL DE LA PROPIA EXCAVACIÓN, INCLUSO IMPERMEABILIZACIÓN DE LA JUNTA Y TRANSPORTE DE TIERRAS SOBRANTES A PUNTO DE ACOPIO EN OBRA, TOTALMENTE TERMINADO, SEGÚN PLANO DE DETALLES. TOTALMENTE ENRASADO CON EL TERRENO ADYACENTE TRAS LA NIVELACIÓN. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_05|ud|REPOSICIÓN BASE RCTA|193.32|020116|0|
+~D|VDE_SA_05|MO_CNTE_007\1\2\MO_CNTE_016\1\2.006\M05EN030\1\0.3\M06MR230\1\0.3\M05RN020\1\0.1\M07CB030\1\0.3\M07W110\1\3\P01HMV220\1\0.95\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_05|UD. DESMONTAJE CON DEMOLICIÓN Y POSTERIOR REPOSICIÓN DE BASE RCTA DE LA RED TOPOGRÁFICA DEL AEROPUERTO, SIGUIENDO PROCEDIMIENTOS DE AENA. CON P.P. DE MEDIOS AUXILIARES. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_06|ud|MONTAJE Y CONEXIÓN DE LETRERO (I/CIMENTACIÓN)|308.65|010110|0|
+~D|VDE_SA_06|MO_CNTE_005\1\1\MO_CNTE_007\1\1.5\MO_CNTE_010\1\0.8\MO_CNTE_011\1\0.8\MO_CNTE_016\1\3\M08CA110\1\0.01\M05RN010\1\0.01\M08RL020\1\0.06\MAQ.055\1\0.1\M07CB020\1\0.06\MAT_305\1\10\MAT_307\1\1\P01HM010SL\1\1.43\P01UC030\1\0.34\P03AAA020\1\0.34\P01EM280\1\0.015\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_06|UD. MONTAJE DE LETRERO EXISTENTE, SOBRE BASAMENTO DE HORMIGÓN, INCLUYENDO LA EJECUCIÓN DE ESTE. INCLUIDA CARGA, TRANSPORTE Y DESCARGA DESDE ZONA DE ACOPIO HASTA LUGAR DE IMPLEO. INCLUIDOS PERNOS DE ANCLAJE, TUBOS DE ACOMETIDA, LATIGUILLOS DE CONEXIÓN, CABLEADO SECUNDARIO Y CONECTORES NORMALIZADOS. EL BASAMENTO SE REALIZARÁ EN HORMIGÓN HM-20, DIMENSIONES SIMILARES A EXISTENTE, CON CUÑA DE TRANSICIÓN EN HM-20, INCLUSO EXCAVACIÓN, COMPACTACIÓN DEL FONDO DE EXCAVACIÓN, ENCOFRADO, DESENCOFRADO Y RELLENOS POSTERIORES CON MATERIAL SIMILAR AL EXISTENTE. COLOCACIÓN DE TUBO PE CORRUGADO 63 MM PARA ACOMETIDA DE CABLEADO. TOTALMENTE INSTALADO, CONEXIONADO Y FUNCIONANDO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_10|m2|REGULARIZACIÓN DEL TERRENO, MEDIOS MANUALES|1.58|020116|0|
+~D|VDE_SA_10|MO_CNTE_007\1\0.006\MO_CNTE_016\1\0.017\M08RL020\1\0.006\M08CA110\1\0.012\M05PC020\1\0.011\M07CB020\1\0.006\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_10|M2. REGULARIZACIÓN DE LA SUPERFICIE DE FRANJAS, EN TODO TIPO DE TERRENOS, CON RETIRADA PREVIA DE TIERRA VEGETAL, APORTE DEL MATERIAL SELECCIONADO NECESARIO , RETIRADA DEL MATERIAL SOBRANTE A ZONA DE ACOPIO DE RESIDUOS, EXTENDIDO, HUMECTACIÓN Y COMPACTACIÓN AL 95% P.M. CUMPLIENDO PENDIENTES SEGÚN REGLAMENTO EUROPEO EU 139/2014, INCLUSO EXTENDIDO DE TIERRA VEGETAL, SI PROCEDE. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_11|m3|EXCAVACACIÓN EN ZANJAS Y POZOS|17.74|020116|0|
+~D|VDE_SA_11|MO_CNTE_007\1\0.009\MO_CNTE_016\1\0.16\M05PN010\1\0.085\M05EN020b\1\0.085\M06MR240\1\0.08\M07CB020\1\0.08\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_11|M3. EXCAVACIÓN MECÁNICA O MANUAL EN CUALQUIER TIPO DE TERRENO (INCLUSO ROCA), INCLUYENDO REFINO Y COMPACTACIÓN DE FONDO DE CAJA, AGOTAMIENTOS, DESAGÜES PROVISIONALES, MANTENIMIENTO DE ACCESOS, APEO TEMPORAL DE SERVICIOS, MEDIOS AUXILIARES PARA LA ENTIBACIÓN, CARGA Y TRANSPORTE DE LOS PRODUCTOS DE LA EXCAVACIÓN A LUGAR DE EMPLEO O LUGAR DE ACOPIO, PARA POSTERIOR CLASIFICACIÓN. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_12|m3|RELLENO LOCALIZADO CON MATERIAL DE LA EXCAVACIÓN|13.11|080101|0|
+~D|VDE_SA_12|MO_CNTE_007\1\0.023\MO_CNTE_016\1\0.251\M05EN030\1\0.15\M08RB030\1\0.09\MAQ.200\1\0.09\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_12|M3. RELLENO LOCALIZADO EN TRASDÓS DE OBRAS DE FÁBRICA Y/O OTROS ELEMENTOS CON PRODUCTOS PROCEDENTES DE LA EXCAVACIÓN, EXTENDIDO, HUMECTACIÓN Y COMPACTACIÓN EN CAPAS DE 20 CM. DE ESPESOR, CON UN GRADO DE COMPACTACIÓN DEL 95% DEL PROCTOR MODIFICADO. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_13|m2|DEMOLICION DE CIMENTACIONES Y LOSAS|15.52|190121|0|
+~D|VDE_SA_13|MO_CNTE_007\1\0.03\MO_CNTE_016\1\0.3\M05EN030\1\0.08\M06MR240\1\0.08\M06MI010\1\0.08\M07CB030\1\0.12\P01DW050\1\0.12\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_13|M2. DEMOLICIÓN DE LOSA/CIMENTACIÓN/PAVIMENTO/CUÑA DE HORMIGÓN/MBC DE CUALQUIER ESPESOR, LIMPIEZA Y RETIRADA DE ESCOMBROS A ZONA DE ACOPIO INTERMEDIO. SE INCLUYEN LOS TRABAJOS DE LIMPIEZA Y RELLENO POSTERIOR DE LA ZONA CON MATERIAL PROCEDENTE DE LA EXCAVACIÓN O CANTERA, EXTENDIDO, HUMECTACIÓN Y COMPACTACIÓN EN CAPAS CON UN GRADO DE COMPACTACIÓN DEL 95% DEL PROCTOR MODIFICADO. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SA_23|u|ADECUACIÓN COTA ARQUETA >0,10 M|1315.33|140208|0|
+~D|VDE_SA_23|MO_CNTE_013_B\1\1\MO_CNTE_012_D\1\1.2\MO_CNTE_005\1\1.2\MO_CNTE_007\1\1.2\MO_CNTE_010\1\4\MO_CNTE_012\1\4\M05RN020\1\2\M05EN030\1\0.4\M07AF040\1\1\M06MR240\1\0.08\M06MR110\1\1\M07CB030\1\0.15\M08RL010\1\2\P03ACD010\1\104\P01HA390\1\0.3\P01DW050\1\0.1\P01HMV220\1\1.05\P01HN310\1\1\M07W110\1\5\MAT_600\1\1\FASTFIX138\1\75\P01EB010\1\0.03\P01DC060\1\1\P31CB300\1\0.06\M11HV040\1\0.35\P03AM030\1\2\M13EF020\1\1.8\M06CM030\1\0.2\M01HA010\1\0.01\P01DW280\1\3\P01UA040\1\0.5\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SA_23|UD. ADECUACIÓN DE SERVICIO AFECTADO ARQUETA A NUEVA COTA MEDIANTE SOLUCIÓN B RECOGIDA EN PLANOS, INCLUYENDO EL DESMONTAJE DE LA TAPA ACTUAL Y ADAPTANDO LA CABEZA DE LA ARQUETA A LA NUEVA ALTURA DEL TERRENO, QUEDANDO TOTALMENTE ENRASADA, RECRECIDO INTERIOR DE LA ARQUETA. COLOCACIÓN DE NUEVA TAPA D400, INCLUSO EJECUCIÓN DE ZUNCHO Y LOSA DE REFUERZO, SEGÚN PLANOS. INCLUSO REALIZACIÓN DE CUÑA PERIMETRAL. ELEMENTOS DE PROTECCIÓN INTERIOR PARA EVITAR DAÑADO DE SERVICIOS. INCLUSO EMISIÓN DE CERTIFICADO DE RESISTENCIA DEL ELEMENTO COMO D400, EN EL CUAL SE INDICARÁ LAS COORDENADAS DEL ELEMENTO EN SISTEMA UTM. TOTALMENTE FINALIZADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SH_01|m2|PINTURA AMARILLA/ROJA O BLANCA REFLEXIVA / NOCT|15.2|030611|0|
+~D|VDE_SH_01|MO_CNTE_010\1\0.25\MO_CNTE_016\1\0.25\MAQ.102\1\0.05\M08B020\1\0.015\M07AF030\1\0.015\MAQ.100\1\0.004\P27EH012\1\1.05\P27EH040\1\0.48\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SH_01|M2. APLICACIÓN DE PINTURA ACRÍLICA EN EMULSIÓN ACUOSA PARA SEÑALIZACIÓN DEL ÁREA DE MOVIMIENTO (NORMA INTA 164415B), APLICADA CON MÁQUINA PINTABANDAS, CON DOSIFICACIÓN 1100 GR/M2, COLOR ROJO, BLANCO O AMARILLO, EXTENDIDO DE MICROESFERAS DE VIDRIO REFLECTANTES CON DOSIFICACIÓN 480 GR/M2, INCLUSO PREMARCAJE Y LIMPIEZA PREVIA DE LA SUPERFICIE. EJECUTADA EN DOS MANOS DE 450g/m2 SIN ESFERAS EN LA PRIMERA MANO Y DE 650g/m2 CONJUNTAMENTE CON LAS MICROESFERAS DE VIDRIO, SEGÚN NORMATIVA INTERNA DE AENA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES, MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SH_02|m2|PINTURA NEGRA NO REFLEXIVA|9.65|030611|0|
+~D|VDE_SH_02|MO_CNTE_010\1\0.09\MO_CNTE_016\1\0.09\MAQ.102\1\0.05\M08B020\1\0.02\MAQ.100\1\0.004\M07AF030\1\0.015\P27EH012\1\1.05\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SH_02|M2. APLICACIÓN DE PINTURA ACRÍLICA EN EMULSIÓN ACUOSA PARA SEÑALIZACIÓN DEL ÁREA DE MOVIMIENTO (NORMA INTA 164415B), APLICADA CON MÁQUINA PINTABANDAS, CON DOSIFICACIÓN 1050 GR/M2, COLOR NEGRO, INCLUSO PREMARCAJE Y LIMPIEZA PREVIA DE LA SUPERFICIE, SEGÚN NORMATIVA INTERNA DE AENA. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SH_03|m2|IMPRIMACIÓN CON LACA ACRÍLICA|5.55|030611|0|
+~D|VDE_SH_03|MO_CNTE_010\1\0.01\MO_CNTE_015\1\0.066\MO_CNTE_016\1\0.066\MAQ.102\1\0.04\MAT_062\1\0.25\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SH_03|M2. IMPRIMACIÓN CON LACA ACRÍLICA EN DISOLUCIÓN, PREVIA A LA SEÑALIZACIÓN HORIZONTAL EN PAVIMENTO RÍGIDO O PAVIMENTO ASFÁLTICO CON TRATAMIENTO ANTICARBURANTE (PERCOLADO). INCLUSO PREPARACIÓN PREVIA DE SUPERFICIE. PERFECTAMENTE APLICADO Y PREPARADO PARA UTILIZACIÓN.  TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~C|VDE_SH_04|m2|SEÑALIZACIÓN HORIZONTAL PROVISIONAL|10.34|190121|0|
+~D|VDE_SH_04|MO_CNTE_010\1\0.15\MO_CNTE_015\1\0.215\P27EH012\1\1.05\P27EH040\1\0.48\%01\1\0.01\%03CI\1\0.03\|
+~T|VDE_SH_04|M2. PINTURA AMARILLA, ROJA, BLANCA O VERDE, ACRÍLICA EN EMULSIÓN PARA SEÑALIZACIÓN, (NORMA INTA 164415B) APLICADA CON MAQUINA PINTABANDAS, CON DOSIFICACIÓN 450 GR/M2, SIN EXTENDIDO DE MICROESFERAS DE VIDRIO REFLECTANTES. INCLUSO PREMARCAJE Y LIMPIEZA PREVIA DE LA SUPERFICIE. EJECUTADA EN UNA ÚNICA MANO DE PINTURA. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO Y DÍAS FESTIVOS INCLUIDOS Y P.P. DE ÚTILES,  MEDIOS AUXILIARES MAQUINARIA DE REPUESTO Y LOS PERMISOS Y SEGUROS NECESARIOS PARA ENTRAR EN EL CAMPO DE VUELOS Y COSTES INDIRECTOS.|
+~C|VDE_SYS_01|ud|SEGURIDAD Y SALUD|46800.49|190121|0|
+~C|VIT_AC_01|ud|ACTUACIONES COMPLEMENTARIAS|114623.42|190121|0|
+~C|VT_VAR_10|ud|ENSAYOS FOTOMETRÍA LUCES INSTALADAS|4993.44|200616|0|
+~D|VT_VAR_10|MAT_033\1\1\%01\1\0.01\%03CI\1\0.03\|
+~T|VT_VAR_10|UD. UNIDAD DE OBRA DESTINADA A LA EVALUACIÓN FOTOMÉTRICA DE LAS AYUDAS VISUALES DE LA PISTA, CON OBJETO DE COMPROBAR EL CUMPLIMIENTO DE LA NORMATIVA DEL ANEXO 14 DE OACI (VOLUMEN 1, CAPÍTULO 10 DE LA 6ª EDICIÓN DE JULIO 2013) Y SU EQUIVALENCIA CON LA NORMA EU 139/2014, Y FAA (AC N° 150/5345-46A), RELATIVA A LA CORRECTA ILUMINACIÓN DE LAS LUCES DE CALLES DE RODAJE EN LOS AERÓDROMOS, DE ACUERDO CON SU CATEGORÍA (I, II O III). LAS LUCES AERONÁUTICAS DE SUPERFICIE A EVALUAR SERÁN DEL TIPO NO INTERMITENTE INSTALADAS HASTA UN METRO DE ALTURA. EL SISTEMA DE EVALUACIÓN FOTOMÉTRICA PROPORCIONARÁ UN CONOCIMIENTO EXACTO DEL ESTADO DE CADA LUZ (POSICIÓN, ORIENTACIÓN Y LA INTENSIDAD LUMINOSA QUE PROPORCIONA) PARA PODER DETERMINAR SI CADA UNO DE LOS SISTEMAS VISUALES DE LA PISTA Y CALLE DE RODAJE CUMPLE LOS ESTÁNDARES DE LA OACI Y FAA. EL SISTEMA FOTOMÉTRICO DISPONDRÁ DE CERTIFICADOS TIPO EMITIDOS POR UNA ENTIDAD DE RECONOCIDO PRESTIGIO Y DISPONDRÁ DE CERTIFICADOS DE CALIBRACIÓN DE LOS SENSORES EN VIGOR EN EL MOMENTO DE LA MEDIDA. LA EVALUACIÓN SE REALIZARÁ EN PRESENCIA DE UNA ENTIDAD SUPERVISORA INDEPENDIENTE. EL SERVICIO PROPORCIONARÁ EN TIEMPO REAL EL RESULTADO DE LA EVALUACIÓN DE CADA LUZ DE FORMA INDIVIDUAL Y DE GRUPO COMPARADO CON LA NORMATIVA QUE PERMITA REALIZAR ACCIONES CORRECTIVAS AL PERSONAL DE MANTENIMIENTO DEL AEROPUERTO. INCLUSO REALIZACIÓN POR FASES O TRAMOS SI FUERA NECESARIO.
+EL INFORME FINAL CONSISTIRÁ EN CUATRO ENTREGABLES: 
+- INFORME FOTOMÉTRICO DONDE SE RECOJAN EL RESUMEN DE RESULTADOS DE LA EVALUACIÓN INCLUYENDO ANOMALÍAS DETECTADAS. 
+- PLANO GEOREFERENCIADO DONDE SE REPRESENTE EL LUGAR DE LA TOMA DE CADA LUZ, Y EL ESTADO DE CUMPLIMIENTO DE LA MISMA.
+- LISTADOS DE RESULTADOS POR SISTEMA INCLUYENDO DATOS FOTOMÉTRICOS DE POSICIÓN Y ORIENTACIÓN DE LA LUZ.
+- ACTA DE EVALUACIÓN E INFORME Y CERTIFICADO EMITIDO POR ENTIDAD INDEPENDIENTE. 
+RESTO DE CARACTERÍSTICAS EN PPT. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES ,  MEDIOS AUXILIARES Y COSTES INDIRECTOS|
+~C|VT_VAR_11|ud|MEGADO DE CIRCUITOS|2251.74|190121|0|
+~D|VT_VAR_11|MO_CNTE_013_A\1\75\MO_CNTE_012_B\1\75\%01\1\0.01\%03CI\1\0.03\|
+~T|VT_VAR_11|UD. DETERMINACIÓN DEL AISLAMIENTO ELÉCTRICO DE CABLES ELÉCTRICOS Y DE BALIZAMIENTO, MEDIANTE UN COMPROBADOR DE AISLAMIENTO (MEGAÓHMETRO), Y LA APLICACIÓN DE UNA TENSIÓN CONTINUA DE MAGNITUD INFERIOR A LA DE LA PRUEBA DIELÉCTRICA. SE CONSIDERA UNA PARTIDA ÚNICA PARA TODOS LOS CIRCUITOS SOBRE LOS QUE SE ACTUA. LA PRUEBA DEBERÁ PROPORCIONAR UN RESULTADO EXPRESADO EN MEGAS QUE CUMPLAN, SEGÚN SU TENSIÓN DE UTILIZACIÓN, LAS NORMAS UNE RHV, RHZ1 Y LOS DOCUMENTOS DIN/DSEYN/PPT/005-03/12 Y DIN/DSEYN/PPT/008-02/12 DE AENA S.A. CON P.P. DE MEDIOS AUXILIARES. TOTALMENTE TERMINADO. TRABAJOS EN HORARIO NOCTURNO INCLUIDOS Y P.P. DE ÚTILES Y MEDIOS AUXILIARES Y COSTES INDIRECTOS.|
+~M|SC_01.01\VDE_DYD_01|1\1\1\|25762.6|\S4\\8202\1\\\S5\\5782\1\\\CUÑAS DE TRANSICIÓN\\\\\\Fase 2 (pista)\5798.4\\\\\A (Fase 2)\584\\\\\B (Fase 2)\425.6\\\\\C (Fase 2)\438.4\\\\\D (Fase 2)\476.8\\\\\Fase 3 (pista)\2446.2\\\\\A (Fase 3)\328.5\\\\\B (Fase 3)\239.4\\\\\C (Fase 3)\246.6\\\\\D (Fase 3)\268.2\\\\\PROTUBERANCIAS EN PISTA\\\\\\Protuberancias\526.5\\\\1\\\\\\|
+~M|SC_01.01\VDE_DYD_14|1\1\2\|12090.49|\Pista provisional\\\\\\Señal de eje de TWY\2\871.62\0.15\\\Señal de borde de TWY\2\1151.74\0.15\\\Señal de eje de plataforma de viraje THR16\2\60\0.2\\\Señal de eje de plataforma de viraje THR34\2\242\0.2\\\Señal de borde de plataforma de viraje\4\89\0.15\\\Señal de eje de RWY\44\30\0.45\\\Señal de zona de toma de contacto con clave de distancia\16\22.5\3\\\Señal de punto de visada\8\45\6\\\Faja lateral de RWY\4\1158\0.9\\\Señal de umbral THR16 y THR34\32\30\1.8\\\Señal designadora de RWY THR34\2\\\91.24\\Calle de rodaje cortada\16\24.75\\\\Goma\1\1000\\\1\\\\\\|
+~M|SC_01.02\VDE_DYD_02|1\2\1\|1460|\Cabecera 16\1\14\50\\\Cabecera 34\1\15.2\50\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_03|1\3\1\|588|\Desmontaje\\\\\\Fase 2\1\196\\\\Fase 3\1\196\\\\Fase 9\1\196\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_04|1\3\2\|75|\Desmontaje\\\\\\Fase 2\1\25\\\\Fase 3\1\25\\\\Fase 9\1\25\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_05|1\3\3\|4066|\Cableado secundario existente\1\4066\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_06|1\3\4\|171|\Arquetas existentes\171\\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_07|1\3\5\|222|\Balizas existentes\222\\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_08|1\3\6\|13000|\Borde 1\1\4000\\\\Borde 2\1\4000\\\\Rodadura 1\1\2500\\\\Rodadura 2\1\2500\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_09|1\3\7\|2900|\Peine existente\1\2900\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_10|1\3\8\|16|\Unidades PAPI a desmontar\4\4\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_11|1\3\9\|41|\Luces empotradas pista i/fuera de servicio\11\\\\\Luces empotradas plataforma\30\\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_12|1\3\10\|8|\Puerta A\2\\\\\Puerta B\2\\\\\Puerta C\2\\\\\Puerta D\2\\\\1\\\\\\|
+~M|SC_01.03\VDE_DYD_28|1\3\11\|89.6|\PAPI 16\16\1.6\2.5\0.7\\PAPI 34\16\1.6\2.5\0.7\1\\\\\\|
+~M|SC_01.04\VDE_DYD_FGHFGH|1\4\1\|26|\número de letreros con cimentación a desmontar\1\26\\\1\\\\\\|
+~M|C02\VDE_MT_02|2\1\|40|\Excavación\1\40\\\1\\\\\\|
+~M|C02\VDE_MT_07|2\2\|109|\Relleno de fresado\1\109\\\1\\\\\\|
+~M|C02\VDE_MT_03|2\3\|1251|\S/Anejo\1\1400\\\\Procedente de excavación\-1\40\\\\Prcodente de fresado\-1\109\\\1\\\\\\|
+~M|C02\VDE_MT_04|2\4\|40|\Excavación\1\40\\\1\\\\\\|
+~M|C02\VDE_MT_05|2\5\|42153.2|\Reperfilado\2\1300\17\\\Calle D\-1\30\17\\\Calle C\-1\27.5\17\\\Calle B\-1\26.7\17\\\Calle A\-1\36.2\17\\1\\\\\\|
+~M|SC_03.01.01\VDE_SA_10|3\1\1\1\|262.5|\Arquetas\35\7.5\\\1\\\\\\|
+~M|SC_03.01.01\VDE_SA_11|3\1\1\2\|78.75|\Arquetas\35\7.5\0.3\\1\\\\\\|
+~M|SC_03.01.01\VDE_SA_12|3\1\1\3\|25.73|\Arquetas\35\4.9\0.15\\1\\\\\\|
+~M|SC_03.01.01\VDE_SA_04|3\1\1\4\|25.98|\Arqueta\35\0.08\9.28\\1\\\\\\|
+~M|SC_03.01.01\VDE_SA_03|3\1\1\5\|35|\Sustitución de tapa\1\35\\\1\\\\\\|
+~M|SC_03.01.02\VDE_SA_23|3\1\2\1\|3|\Arqueta\3\\\\1\\\\\\|
+~M|SC_03.01.02\VDE_SA_10|3\1\2\2\|25.5|\Arquetas\3\8.5\\\1\\\\\\|
+~M|SC_03.02\VDE_SA_05|3\2\1\|7|\Bases topográficas\1\7\\\1\\\\\\|
+~M|SC_03.03\VDE_SA_06|3\3\1\|26|\Reposición letrerocon cimentación\1\26\\\1\\\\\\|
+~M|SC_03.04\VDE_PV_03|3\4\1\|134.51|\Adecuación cota vial de servicio\2.45\0.2\53.1\\\\2.45\0.27\164\\1\\\\\\|
+~M|C04\VDE_DR_01|4\1\|184|\Longitud de canaleta\1\184\\\1\\\\\\|
+~M|C05\VDE_PV_01|5\1\|3957.83|\S1-Cabecera 34\2.45\7451\0.03\\\S2-Pista\2.45\46397\0.03\\1\\\\\\|
+~M|C05\VDE_PV_02|5\2\|5277.11|\S1-Cabecera 34\2.45\7451\0.04\\\S2-Pista\2.45\46397\0.04\\1\\\\\\|
+~M|C05\VDE_PV_03|5\3\|1388.96|\S4-Calles de rodaje y plataforma\2.45\8202\0.04\\\S5-Calles de rodaje y plataforma\2.45\5782\0.04\\\S6-Ampliación de plataforma\2.45\189\0.04\\1\\\\\\|
+~M|C05\VDE_PV_04|5\4\|1388.96|\S4-Calles de rodaje y plataforma\2.45\8202\0.04\\\S5-Calles de rodaje y plataforma\2.45\5782\0.04\\\S6-Ampliación de plataforma\2.45\189\0.04\\1\\\\\\|
+~M|C05\VDE_PV_05|5\5\|78.79|\S6-Ampliación de plataforma\2.45\189\0.06\\\Transición ampliación plataforma (ZT1 +ZT2)\2.45\347\0.06\\1\\\\\\|
+~M|C05\VDE_PV_06|5\6\|70.36|\S6-Ampliación de plataforma\2.45\189\0.08\\\Transición ampliación plataforma (ZT2)\2.45\170\0.08\\1\\\\\\|
+~M|C05\VDE_PV_07|5\7\|37.8|\S6-Ampliación de plataforma\1\189\\0.2\1\\\\\\|
+~M|C05\VDE_PV_19|5\8\|136578|\S1-Cabecera 34\2\7451\\\\S2-Pista\2\46397\\\\S4 y S5-Calle de rodaje y plataforma\2\13984\\\\S6-Ampliación de plataforma\3\189\\\\Transición ampliación plataforma (ZT1+ZT2)\1\347\\\1\\\\\\|
+~M|C05\VDE_PV_09|5\9\|359|\S6-Ampliación plataforma\1\189\\\\Transición ampliación plataforma (ZT2)\1\170\\\1\\\\\\|
+~M|C05\VDE_PV_10|5\10\|14173|\S4-Plataforma\1\8202\\\\S5-Plataforma\1\5782\\\\S6-Ampliación de plataforma\1\189\\\1\\\\\\|
+~M|C05\VDE_PV_11|5\11\|74138|\S1-Cabecera 34\1\7451\\\\S2-Pista\1\46397\\\\S3-Cabecera 16\1\3678\\\\S4 y S5-Calle de rodaje y plataforma\1\13982\\\\S6-Ampliación de plataforma\1\334\\\\Extremos en cabecera\1\2296\\\1\\\\\\|
+~M|C05\VDE_PV_12|5\12\|32|\Longitudd total de fisuras\1\32\\\1\\\\\\|
+~M|C05\VDE_PV_13|5\13\|92|\Superficie total de reparación de esquinas\1\92\\\1\\\\\\|
+~M|C05\VDE_PV_14|5\14\|51|\Área total de reparación superficial de losa\1\51\\\1\\\\\\|
+~M|C05\VDE_PV_15|5\15\|112.52|\CUÑAS DE TRANSICIÓN\\\\\\Fase 2 (pista)\\8\45.3\0.16\\A (Fase 2)\\1\36.5\0.16\\B (Fase 2)\\1\26.6\0.16\\C (Fase 2)\\1\27.4\0.16\\D (Fase 2)\\1\29.8\0.16\\Fase 3 (pista)\\6\45.3\0.09\\A (Fase 3)\\1\36.5\0.09\\B (Fase 3)\\1\26.6\0.09\\C (Fase 3)\\1\27.4\0.09\\D (Fase 3)\\1\29.8\0.09\1\\\\\\|
+~M|C05\VDE_PV_16|5\16\|8222.5|\Fisuras longitudinales flexible\1.15\7125\\\\fisuras longitudinales rígido\1.15\25\\\1\\\\\\|
+~M|C05\VDE_PV_17|5\17\|3|\Puesto estacionamiento\3\\\\1\\\\\\|
+~M|C05\VDE_PV_18|5\18\|645|\Encuentro ampliación plataforma\3\43\5\\1\\\\\\|
+~M|C06\VDE_ES_01|6\1\|1|\Muro\1\50\1.3\4.7\1\\\\\\|
+~M|VDE_ES_01\U05CE040|6\1\1\|241.8|\Excavación\1\32\1.5\\\\1\193.8\\\1\\\\\\|
+~M|VDE_ES_01\U05CF010|6\1\2\|112|\\1\32\3.5\\1\\\\\\|
+~M|VDE_ES_01\U05CH030|6\1\3\|16.64|\Excavación\1\32\1.5\\\\-1\32\0.98\\1\\\\\\|
+~M|VDE_ES_01\U05OE030|6\1\4\|396|\Muro de escollera\1\33\12\\1\\\\\\|
+~M|VDE_ES_02\VDE_ES_02.1|6\2\1\|1460|\Cabecera 16\1\14\50\\\Cabecera 34\1\15.2\50\\1\\\\\\|
+~M|C07\VDE_SH_01|7\1\|6376.65|\Definitiva\\\\\\Señal de eje de plataforma de viraje CAB.16\1\241.87\0.2\\\Señal de borde de plataforma de viraje CAB.16\1\198.67\0.15\\\Señal de eje de plataforma de viraje CAB.34\1\241.87\0.2\\\Señal de borde de plataforma de viraje CAB.34\1\184.1\0.15\\\Señal de eje de RWY\22\30\0.45\\\Señal de zona de toma de contacto con clave de distancia\8\22.5\3\\\Señal de punto de visada\4\45\6\\\Faja lateral de RWY\2\1250\0.9\\\Señal de umbral CAB.16 y CAB.34\16\30\1.8\\\Señal designadora de RWY CAB.34\1\\\91.24\\Señal designadora de RWY CAB.16\1\\\65.1\\Señal de eje de TWY\1\607\0.15\\\Señal de eje calle de rodaje en plataforma\1\384.15\0.15\\\Señal de borde de TWY\1\1151.74\0.15\\\Señal de punto de espera TWY A\12\5.4\0.3\\\Señal de punto de espera TWY B\9\5.4\0.3\\\Señal de punto de espera TWY C\7\5.4\0.3\\\Señal de punto de espera TWY D\9\5.4\0.3\\\Señal designadora de TWY A\1\2.6\6.2\\\Señal designadora de TWY B\1\2.6\6.2\\\Señal designadora de TWY C\1\2.6\6.2\\\Señal designadora de TWY D\1\2.6\6.2\\\Señal direccional a puesto de estacionamiento (3A)\1\\\9.43\\Señal direccional a puesto de estacionamiento (3)\1\\\6.4\\Señal direccional a puesto de estacionamiento (2A)\1\\\9.43\\Señal direccional a puesto de estacionamiento (2)\1\\\6.4\\Señal direccional a puesto de estacionamiento (1A)\1\\\9.43\\Señal direccional a puesto de estacionamiento (1)\1\\\6.4\\Señal direccional a puesto de estacionamiento (H3)\1\\\9.43\\Señal direccional a puesto de estacionamiento (H1 y 4)\1\\\14.2\\Barra de rueda de morro\12\1.8\0.3\\\Línea de parada\4\6\0.3\\\Línea de parada\2\7.7\0.3\\\Indicación del tipo de aeronave\24\1.88\0.6\\\Ident. de puesto de estac. en la señal de entrada (3A)\1\3.2\2.5\\\Ident. de puesto de estac. en la señal de entrada (3)\1\3.2\1.6\\\Ident. de puesto de estac. en la señal de entrada (2A)\1\3.2\2.5\\\Ident. de puesto de estac. en la señal de entrada (2)\1\3.2\1.6\\\Ident. de puesto de estac. en la señal de entrada (1A)\1\3.2\2.1\\\Ident. de puesto de estac. en la señal de entrada (1)\1\3.2\1.2\\\Ident. de puesto de estac. en la señal de entrada (H1 y H3)\2\3.2\2.4\\\Ident. de puesto de estac. en la señal de entrada (4)\1\3.2\1.6\\\Señal de designación de puesto de estacionamiento (3A)\1\\\0.28\\Señal de designación de puesto de estacionamiento (3)\1\\\0.09\\Señal de designación de puesto de estacionamiento (2A)\1\\\0.33\\Señal de designación de puesto de estacionamiento (2)\1\\\0.14\\Señal de designación de puesto de estacionamiento (1)\1\\\0.07\\Señal de designación de puesto de estacionamiento (1A)\1\\\0.26\\Señal de designación de puesto de estacionamiento (4)\1\\\2.2\\Señal de área de espera de equipos (plataforma)\6\18.22\0.1\\\Señal de área de restricción de equipos ERL (1/1A)\1\150\0.15\\\Señal de área de restricción de equipos ERL (2/2A)\1\146\0.15\\\Señal de área de restricción de equipos ERL (3/3A)\1\143\0.15\\\Señal de área de restricción de equipos ERL (avioneta)\1\68\0.15\\\Señal área prohibición aparcamiento NPL\1\37.8\0.15\\\\1\115.46\0.1\\\Señal línea de seguridad en platafoma ABL\1\85.19\0.3\\\Señal de posicionamiento\1\31.41\0.5\\\Señal de borde de plataforma\1\138.82\0.15\\\Señal de perímetro\1\73.83\0.15\\\TCL (helicóptero)\1\75.65\0.2\\\ERL (helicóptero)\1\150\0.15\\\Señal de estacionamiento aeronaves aviación general\1\14\0.1\\\Vial de servicio- margen y eje\2\165\0.1\\\Vial de servicio-margen y eje\1\99\0.1\0.5\\Vail de servicio- cruce calle en plataforma\1\288\0.1\\\Vial de servicio- Peatones\6\0.5\5\2\\Vial de servicio- Zona de parada\3\15\\\\Vial de servicio- Dirección\6\4\\\\Vial de servicio-Velocidad\2\5\\\\Señal de STOP paso de aviones (línea detención)\7\5\0.5\\\Señal de STOP paso de aviones\7\0.36\\\1\\\\\\|
+~M|C07\VDE_SH_02|7\2\|250|\Señal de pendiente situada inmediatamente por delante del umbral\1\250\\\1\\\\\\|
+~M|C07\VDE_SH_03|7\3\|449.81|\Definitiva\\\\\\Barra de rueda de morro\12\1.8\0.3\\\Línea de parada\6\6\0.3\\\Indicación del tipo de aeronave\24\1.88\0.6\\\Ident. de puesto de estac. en la señal de entrada (3A)\1\3.2\2.5\\\Ident. de puesto de estac. en la señal de entrada (3)\1\3.2\1.6\\\Ident. de puesto de estac. en la señal de entrada (2A)\1\3.2\2.5\\\Ident. de puesto de estac. en la señal de entrada (2)\1\3.2\1.6\\\Ident. de puesto de estac. en la señal de entrada (1A)\1\3.2\2.1\\\Ident. de puesto de estac. en la señal de entrada (1)\1\3.2\1.2\\\Señal direccional a puesto de estacionamiento (3A)\1\\\9.43\\Señal direccional a puesto de estacionamiento (3)\1\\\6.4\\Señal direccional a puesto de estacionamiento (2A)\1\\\9.43\\Señal direccional a puesto de estacionamiento (2)\1\\\6.4\\Señal direccional a puesto de estacionamiento (1A)\1\\\9.43\\Señal direccional a puesto de estacionamiento (1)\1\\\6.4\\Señal de designación de puesto de estacionamiento (3A)\1\\\0.28\\Señal de designación de puesto de estacionamiento (3)\1\\\0.09\\Señal de designación de puesto de estacionamiento (2A)\1\\\0.33\\Señal de designación de puesto de estacionamiento (2)\1\\\0.14\\Señal de designación de puesto de estacionamiento (1)\1\\\0.07\\Señal de designación de puesto de estacionamiento (1A)\1\\\0.26\\Señal de área de espera de equipos (plataforma)\6\18.22\0.1\\\Señal de área de restricción de equipos ERL (1/1A)\1\150\0.15\\\Señal de área de restricción de equipos ERL (2/2A)\1\146\0.15\\\Señal de área de restricción de equipos ERL (3/3A)\1\143\0.15\\\Señal de área de restricción de equipos ERL (avioneta)\1\68\0.15\\\Señal de eje de calle de rodaje en plataforma TCL\1\384.15\0.2\\\Señal de borde de plataforma\1\138.82\0.15\\\Señal de área de prohibición de aparcamiento NPL\1\37.8\0.15\\\\1\115.46\0.1\\\Señal de línea de seguridad en plataforma ABL\1\85.19\0.3\\\Señal de perímetro\2\73.83\0.15\\\Señal de toma de contacto/posicionamiento\2\31.41\0.5\\\Señal de eje de calle de rodaje TCL (helicóptero)\1\75.65\0.2\\\Señal de restricción  de equipos ERL (helicóptero)\1\150\0.15\\\Señal de estacionamiento para aeronaves de aviación general\1\14\0.1\\1\\\\\\|
+~M|C07\VDE_SH_04|7\4\|5152.3|\Pista provisional\\\\\\Señal de eje de TWY\1\992\0.15\\\Señal de borde de TWY\1\1151.74\0.15\\\Señal de eje de plataforma de viraje THR34\1\242\0.2\\\Señal de borde de plataforma de viraje\2\199\0.15\\\Señal de eje de RWY\22\30\0.45\\\Señal de zona de toma de contacto con clave de distancia\8\22.5\3\\\Señal de punto de visada\4\45\6\\\Faja lateral de RWY\2\1158\0.9\\\Señal de umbral THR34\8\30\1.8\\\Señal designadora de RWY THR34\1\\\91.24\\Calle de rodaje cortada\8\24.75\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_01|8\1\1\|25|\Baliza empotrada unidireccional (amarilla) eje de calle, LED\25\\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_02|8\1\2\|1302|\Cableado secundario\2\651\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_03|8\1\3\|355|\Rozas 1 cable\1\355\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_04|8\1\4\|115|\Rozar 4 cables\1\115\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_05|8\1\5\|119|\Tubo corrugado\1\119\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_06|8\1\6\|25|\Balizas apartadero 16\1\25\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_07|8\1\7\|19|\Arquetas balizamiento\1\19\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_08|8\1\8\|19|\Arquetas apartadero 16\1\19\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_09|8\1\9\|19|\Arquetas de balizamiento apartadero 16\1\19\\\1\\\\\\|
+~M|SC_08.01\VDE_BAL_10|8\1\10\|25|\Luces de eje apartadero 16\1\25\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_01|8\2\1\|25|\Eje apartadero 34\25\\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_02|8\2\2\|1240|\Cable luces apartadero 34\2\620\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_03|8\2\3\|370|\Roza 2 cables apartadero 34\1\370\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_04|8\2\4\|97|\Roza 4 cables luces apartadero 34\1\97\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_05|8\2\5\|105|\\105\\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_06|8\2\6\|25|\Balizas eje apartadero 34\25\\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_07|8\2\7\|20|\Nuevas arquetas eje apartadero 34\20\\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_08|8\2\8\|20|\Nuevas arquetas eje apartadero 34\20\\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_09|8\2\9\|20|\Nuevas arquetas eje apartadero 34\20\\\\1\\\\\\|
+~M|SC_08.02\VDE_BAL_10|8\2\10\|25|\Nuevas balizas de eje apartadero 34\25\\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_11A|8\3\1\|2735|\Banco de 6 tubos en tierra\1\1447\\\\Lado oeste de pista\1\1229\\\\PAPIs\1\36\\\\Plataforma\1\23\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_12A|8\3\2\|163|\Bajo calles\1\163\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_15|8\3\3\|160|\Arquetas de paso\160\\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_16|8\3\4\|9400|\Circuito borde 1\1\3500\\\\Circuito borde 2\1\3500\\\\Circuito rodadura 1\1\1200\\\\Circuito rodadura 2\1\1200\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_17|8\3\5\|2500|\Circuito borde 1\1\250\\\\Circuito borde 2\1\250\\\\Circuito rodadura 1\1\1000\\\\Circuito rodadura 2\1\1000\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_18|8\3\6\|1200|\De arqueta a arqueta balizamiento\1\1200\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_19|8\3\7\|97|\RESA 16\1\49\\\\RESA 34\1\48\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_20|8\3\8\|158|\Nuevas arquetas balizamiento\158\\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_70|8\3\9\|356|\Bandeja\1\356\\\1\\\\\\|
+~M|SC_08.03\VDE_BAL_80|8\3\10\|3|\Canalización eléctrica\1\3\\\1\\\\\\|
+~M|SC_08.04\VDE_BAL_21|8\4\1\|392|\Reposición\\\\\\Fase 2\1\196\\\\Fase 3\1\196\\\1\\\\\\|
+~M|SC_08.04\VDE_BAL_22|8\4\2\|50|\Reposición\\\\\\Fase 2\1\25\\\\Fase 3\1\25\\\1\\\\\\|
+~M|SC_08.04\VDE_BAL_03|8\4\3\|1348|\Coexistencia halógeno-led en pista y plataforma\1\1458\\\\Cabecera 16\-1\110\\\1\\\\\\|
+~M|SC_08.04\VDE_BAL_04|8\4\4\|117|\Coexistencia halógeno-led pista y plataforma\1\136\\\\Cabecera 16\-1\19\\\1\\\\\\|
+~M|SC_08.04\VDE_BAL_02|8\4\5\|3950|\Coexistencia halógeno-led en pista y plataforma\2\1975\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_10|8\5\1\|222|\Luces de umbral/extremo 16\14\\\\\Luces de barra de ala 16\10\\\\\Luces de umbral/extremo 34\14\\\\\Luces de barra de ala 16\10\\\\\Luces de borde de pista\48\\\\\Luces de plataforma\108\\\\\Luces de borde plataforma de viraje 16\9\\\\\Luces de borde plataforma de viraje 34\9\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_23|8\5\2\|28|\Umbral/extremo 16\14\\\\\Umbral/extremo 34\14\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_24|8\5\3\|20|\Barra de ala 16\10\\\\\Barra de ala 34\10\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_25|8\5\4\|13|\Balizas borde de pista blanco/blanco\13\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_26|8\5\5\|30|\Balizas elevadas de borde de pista amarillo/blanco\30\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_27|8\5\6\|3|\Luces empotradas de borde de pista bl/bl\3\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_28|8\5\7\|2|\Luces borde de pista bl/am\2\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_29|8\5\8\|13|\Borde norte de plataforma\9\\\\\Borde sur de plataforma\4\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_30|8\5\9\|113|\Plataforma\95\\\\\Borde plataforma de viraje THR 16\9\\\\\Borde plataforma de viraje THR34\9\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_31|8\5\10\|1|\Repuestos\1\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_06|8\5\11\|13|\Borde norte de plataforma\9\\\\\Borde sur de plataforma\4\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_32|8\5\12\|5|\Luces empotradas de borde de pista bl/bl\3\\\\\Luces borde de pista bl/am\2\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_33|8\5\13\|424|\Sustitución cable protección pista fuera de galería\1\424\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_34|8\5\14\|2|\Circuito Rodadura 1\1\\\\\Circuito Rodadura 2\1\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_35|8\5\15\|2|\Circuito Borde 1\1\\\\\Circuito Borde 2\1\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_07|8\5\16\|168|\Nuevas arquetas\168\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_08|8\5\17\|168|\Nuevas arquetas de balizamiento\168\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_09|8\5\18\|12|\Puesta a tierra\1\12\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_02|8\5\19\|4320|\Cable secundario\2\2160\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_03|8\5\20\|1458|\Rozas 2 cables\1\1458\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_04|8\5\21\|136|\Rozas 4 cables\1\136\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_36|8\5\22\|8|\Puerta A\2\\\\\Puerta B\2\\\\\Puerta C\2\\\\\Puerta D\2\\\\1\\\\\\|
+~M|SC_08.05\VDE_BAL_37|8\5\23\|41|\Luces empotradas pista i/fuera de servicio\11\\\\\Luces empotradas plataforma\30\\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_16|8\6\1\|8000|\Circuito PAPI 16-1\1\2300\\\\Circuito PAPI 16-2\1\2300\\\\Circuito PAPI 34-1\1\1700\\\\Circuito PAPI 34-2\1\1700\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_17|8\6\2\|2500|\Circuito PAPI 16-1\1\250\\\\Circuito PAPI 16-2\1\250\\\\Circuito PAPI 34-1\1\1000\\\\Circuito PAPI 34-2\1\1000\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_07|8\6\3\|32|\PAPI 16 izquierda\8\\\\\PAPI 16 derecha\8\\\\\PAPI 34 izquierda\8\\\\\PAPI 34 derecha\8\\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_38|8\6\4\|4|\Circuito PAPI 16-1\1\\\\\Circuito PAPI 16-2\1\\\\\Circuito PAPI 34-1\1\\\\\Circuito PAPI 34-2\1\\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_08|8\6\5\|32|\Arquetas PAPIs\32\\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_09|8\6\6\|32|\Por arqueta de balizamiento\32\\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_39|8\6\7\|32|\2 por unidad PAPI\32\\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_02|8\6\8\|320|\PAPIs\16\20\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_18|8\6\9\|80|\PAPIs\32\2.5\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_40|8\6\10\|4|\PAPI 16 derecha\1\\\\\PAPI 16 izquierda\1\\\\\PAPI 34 derecha\1\\\\\PAPI 34 izquierda\1\\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_41|8\6\11\|16|\PAPI\4\4\\\1\\\\\\|
+~M|SC_08.06\VDE_BAL_42|8\6\12\|2|\CALIBRACIÓN PAPI\2\\\\1\\\\\\|
+~M|SC_08.06\VDE_MT_02|8\6\13\|60|\Sobreexc. encofrado\2\20\6\0.25\1\\\\\\|
+~M|SC_08.06\VDE_MT_04|8\6\14\|48|\PAPI Cabecera 16\1\20\6\0.2\\PAPI Cabecera 34\1\20\6\0.2\1\\\\\\|
+~M|SC_08.06\VDE_ES_03|8\6\15\|48.8|\PAPIs\\\\\\Basamento PAPI\8\2.5\2\0.1\\Losas de limpieza\16\4\2\0.2\\Cuña de transición\16\15\0.08\\1\\\\\\|
+~M|SC_08.06\VDE_ES_04|8\6\16\|20|\PAPIs\\\\\\Basamento unidad PAPI\8\2.5\2\0.5\1\\\\\\|
+~M|SC_08.06\VDE_ES_10|8\6\17\|245.15|\Cimentaciones PAPI\16\5.04\3.04\\1\\\\\\|
+~M|SC_08.06\VDE_ES_05|8\6\18\|3060|\CIMENTACIONES PAPI\\\\\\Losas de protección\1\85\24\\\Basamento Papi\1\85\12\\1\\\\\\|
+~M|SC_08.07\VDE_BAL_43|8\7\1\|4|\SLIU Cabecera 16\2\\\\\SLIU Cabecera 34\2\\\\1\\\\\\|
+~M|SC_08.07\VDE_BAL_44|8\7\2\|2|\Sistema cabecera 16\1\\\\\Sistema cabecera 24\1\\\\1\\\\\\|
+~M|SC_08.07\VDE_BAL_07|8\7\3\|4|\SLIU Cabecera 16\2\\\\\SLIU Cabecera 34\2\\\\1\\\\\\|
+~M|SC_08.07\VDE_BAL_45|8\7\4\|2200|\Cable SLIU cabecera 16\1\1100\\\\Cable SLIU cabecera 34\1\1100\\\1\\\\\\|
+~M|SC_08.07\VDE_BAL_46|8\7\5\|2|\SLIU Cabecera 16\1\\\\\SLIU Cabecera 34\1\\\\1\\\\\\|
+~M|SC_08.07\VDE_BAL_32|8\7\6\|4|\SLIU Cabecera 16\2\\\\\SLIU Cabecera 34\2\\\\1\\\\\\|
+~M|C09\VDE_SA_13|9\1\|26.44|\Mediciones en m2\\\\\\HIT004 a HIT006, HIT011 a HIT016, HIT21 a HIT22\11\0.4\0.4\\\BAS001 a BAS003\3\2.3\1\\\BAS005 a BAS006\2\1.5\1\\\BAS009\1\1.5\0.6\\\BAS010\1\1.4\0.5\\\BAS011\1\2.7\1.4\\\BAS012\1\1.4\1\\\MET002\1\4\2\\1\\\\\\|
+~M|C09\VDE_AO_02|9\2\|2|\\2\\\\1\\\\\\|
+~M|C09\VDE_SA_04|9\3\|8.48|\Medición en m3\\\\\\HIT001 a HIT003, HIT007 a HIT010, HIT017 a HIT021, HIT023\12\4\0.08\\\BAS001 a BAS003\3\9\0.08\\\BAS004\1\5\0.08\\\BAS007\1\2.5\0.08\\\BAS008\1\4\0.08\\\BAS011\1\10\0.08\\\BAS012\1\5.5\0.08\\\BAS013\1\4\0.08\\1\\\\\\|
+~M|C11\VDE_GR_01|11\1\|23.69|\Metales\7.86\2.8\\\\Madera\0.5\2.3\\\\Plásticos\0.35\1.5\\\1\\\\\\|
+~M|C11\VDE_GR_02|11\2\|629|\Procedente excavación\1.85\50\\\\Excesos materiales usados s/anejo\1.85\290\\\1\\\\\\|
+~M|C11\VDE_GR_03|11\3\|23.69|\Metales\7.86\2.8\\\\Madera\0.5\2.3\\\\Plásticos\0.35\1.5\\\1\\\\\\|
+~M|C11\VDE_GR_04|11\4\|3706|\Hormigón, mezclas bituminosas y restos demolic nat pétrea\1\3706\\\1\\\\\\|
+~M|C11\VDE_GR_05|11\5\|6.12|\Residuos de aciete,...\1\4.32\\\\Pinturas y disolventes\1\1.8\\\1\\\\\\|
+~M|C11\VDE_GR_06|11\6\|1|\Zona instalaciones auxiliares\1\\\\1\\\\\\|
+~M|SC_12.01\VDE_IA_01|12\1\1\|132|\Durante duración de movimiento de tierras\1\132\\\1\\\\\\|
+~M|SC_12.02\VDE_IA_02|12\2\1\|250|\Zona Instalaciones Auxiliares\1\250\\\1\\\\\\|
+~M|SC_12.02\VDE_IA_03|12\2\2\|1|\Ubicaciones señaladas por la Dirección Ambiental de Obra\1\\\\1\\\\\\|
+~M|SC_12.02\VDE_IA_04|12\2\3\|1|\\1\\\\1\\\\\\|
+~M|SC_12.02\VDE_IA_05|12\2\4\|1|\\1\\\\1\\\\\\|
+~M|SC_12.03\VDE_IA_06|12\3\1\|136.5|\Zona Instalaciones Auxiliares\1\2100\0.5\0.13\1\\\\\\|
+~M|SC_12.04\VDE_IA_07|12\4\1\|450|\Zona de instalaciones auxiliares\1\450\\\1\\\\\\|
+~M|SC_12.04\VDE_IA_08|12\4\2\|1|\\1\\\\1\\\\\\|
+~M|SC_12.04\VDE_IA_09|12\4\3\|250|\Jalonamiento zonas varias protección ambiental\1\250\\\1\\\\\\|
+~M|SC_12.04\VDE_IA_10|12\4\4\|3|\Control arqueopalentologico\3\\\\1\\\\\\|
+~M|SC_12.04\VDE_IA_11|12\4\5\|1|\Adecuación de zonas de tránsito\1\\\\1\\\\\\|
+~M|C13\VDE_SYS_01|13\1\|1|\\1\\\\1\\\\\\|
+~M|SC_14.01\09_VAR_0102|14\1\1\|1|\\1\\\\1\\\\\\|
+~M|SC_14.01\09_VAR_0103|14\1\2\|1|\\1\\\\1\\\\\\|
+~M|SC_14.01\09_VAR_0104|14\1\3\|1|\\1\\\\1\\\\\\|
+~M|SC_14.01\09_VAR_0150|14\1\4\|1|\Informe señalización horizontal\1\\\\1\\\\\\|
+~M|SC_14_02_01\09_VAR_020101|14\2\1\1\|1|\Según longitud de calle de rodaje\1\\\\1\\\\\\|
+~M|SC_14_02_02\09_VAR_020201|14\2\2\1\|1|\\1\\\\1\\\\\\|
+~M|SC_14_02_02\09_VAR_020202|14\2\2\2\|1|\SERVICIO DE OPERACIÓN EN PAVIMENTO FLEXIBLE\1\\\\1\\\\\\|
+~M|SC_14_02_02\09_VAR_020203|14\2\2\3\|400|\\400\\\\1\\\\\\|
+~M|SC_14_02_02\09_VAR_020204|14\2\2\4\|1|\SERVICIO DE OPERACIÓN EN PAVIMENTO RÍGIDO\1\\\\1\\\\\\|
+~M|SC_09_02_03\09_VAR_020301|14\2\3\1\|1|\\1\\\\1\\\\\\|
+~M|SC_09_02_03\09_VAR_020302|14\2\3\2\|1.3|\\1\1.3\\\1\\\\\\|
+~M|SC_14_02_04\VT_VAR_10|14\2\4\1\|2|\En la puesta en servicio\1\\\\\Al finalizar la instalación de balizamiento\1\\\\1\\\\\\|
+~M|SC_14_02_04\VT_VAR_11|14\2\4\2\|2|\Previo a la actuación\1\\\\\Finalización de la actuación\1\\\\1\\\\\\|
+~M|SC_14_02_05\14.02.06|14\2\5\1\|3|\Inicio de la obra\1\\\\\Puesta en servicio extendido intermedia\1\\\\\FInal de la obra\1\\\\1\\\\\\|
+~M|C15\VIT_AC_01|15\1\|1|\Capítulo de Actuaciones Complementarias\1\\\\1\\\\\\|

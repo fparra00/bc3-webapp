@@ -1,11 +1,10 @@
 import {Box} from "@mui/material";
 import Grid from "@mui/material/Unstable_Grid2/Grid2";
-
-import {Routes, Route,Router, BrowserRouter} from 'react-router-dom';
-import AppRoutes from "./AppRoutes";
+import {Routes, Route, BrowserRouter} from 'react-router-dom';
 import TitleBox from "./components/TitleBox";
 import MainLayout from "./layouts/MainLayout";
 import AutenticaAcc from "./components/AutenticaAcc";
+import SendBc3 from "./components/SendBc3";
 import SelectProject from "./components/SelectProject";
 const App = () => {
     return (
@@ -27,6 +26,7 @@ const App = () => {
               <Routes>
                 <Route path="/" element={<AutenticaAcc />} />
                 <Route path="/SelectProjectBc3" element={<SelectProject />} />
+                <Route path="/SendBc3" element={<SendBc3 />} />
               </Routes>
               <TitleBox />
             </Grid>
