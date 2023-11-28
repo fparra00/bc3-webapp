@@ -16,10 +16,10 @@ app.use(express.static(path.resolve(__dirname, 'client/build')));
 1era Red.: Obtener el codigo de la url
 */
 app.get('/SelectProject/', function (req, res) {
-  res.sendFile(path.join(__dirname, '../build', 'index.html'));
   //Obtencion de code, y client and secret id
   const code = req.query.code;
   console.log('codigo' + code)
+  res.redirect('/SelectProjectBc3');
 
   //Llamada a APS para obtener token
   let url = 'https://developer.api.autodesk.com/authentication/v1/gettoken';
