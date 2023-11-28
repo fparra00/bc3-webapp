@@ -101,10 +101,14 @@ app.post('/upload', upload.array('myBc3'), (req, res) => {
       .on('data', (data) => {
           console.log(`stdout: ${data}`);
       });
+      python1.stderr.on('data', (data) => {
+        console.error(`Error del script de Python: ${data}`);
+      });
       python1.on('close', (code) => {
           console.log(`Proceso de Python completado con código ${code}`);
           io.emit('pythonMessage', { message: 'Mensaje cuando el script de Python ha terminado'});
       });
+    
 });
 
 //Llamada a APS para obtener el ID de template
