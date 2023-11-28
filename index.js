@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
-
+//PRUEBA
 // Hacer que node sirva los archivos de nuestro app React
 app.use(express.static(path.resolve(__dirname, 'client/build')));
 
