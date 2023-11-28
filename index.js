@@ -37,7 +37,7 @@ app.get('/SelectProject/', function (req, res) {
       client_secret: secret_id,
       grant_type: 'authorization_code',
       code: code,
-      redirect_uri: 'http://localhost:3001/SelectProject/'
+      redirect_uri: 'https://parserbc3.azurewebsites.net/SelectProject/'
   };
   let confheaders = {
       headers: {
