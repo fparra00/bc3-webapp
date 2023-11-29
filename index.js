@@ -51,7 +51,7 @@ app.get('/SelectProject/', function (req, res) {
     const code = req.query.code;
     console.log('codigo' + code)
     res.redirect('/SelectProjectBc3');
-  
+    console.log('redireccion')
     //Llamada a APS para obtener token
     let url = 'https://developer.api.autodesk.com/authentication/v1/gettoken';
     let data = {
@@ -93,7 +93,6 @@ app.post('/upload', upload.array('myBc3'), (req, res) => {
     console.log(req.files[0]['originalname']);
     var bc3_filename = req.files[0]['originalname']
     const file_path = `uploads/${bc3_filename}`
-    //Llamada a APS para obtener token
     let urlBc3 = 'https://uploadbc3budget.azurewebsites.net/api/sendbc3file';
     let dataBc3 = {
         file: fs.createReadStream(file_path),
