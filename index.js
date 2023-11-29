@@ -51,7 +51,7 @@ app.get('/SelectProject/', function (req, res) {
     const code = req.query.code;
     console.log('codigo' + code)
     res.redirect('/SelectProjectBc3');
-
+  
     //Llamada a APS para obtener token
     let url = 'https://developer.api.autodesk.com/authentication/v1/gettoken';
     let data = {
@@ -60,7 +60,7 @@ app.get('/SelectProject/', function (req, res) {
         grant_type: 'authorization_code',
         code: code,
         redirect_uri: 'https://parserbc3.azurewebsites.net/SelectProject/'
-       // redirect_uri: 'http://localhost:3001/SelectProject/'
+        //redirect_uri: 'http://localhost:3001/SelectProject/'
     };
     let confheaders = {
         headers: {
@@ -77,8 +77,8 @@ app.get('/SelectProject/', function (req, res) {
         .catch((error) => {
             console.error(error);
         });
-});
-
+  });
+  
 //REDIRECCION /NameProject/
 app.post('/UploadNameProject', function (req, res) {
     console.log(req.body)
