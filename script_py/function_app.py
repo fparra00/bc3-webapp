@@ -1,26 +1,29 @@
-import azure.functions as func
 import logging
 import requests
 
-app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
-@app.route(route="upload_bc3")
-def upload_bc3(req: func.HttpRequest) -> func.HttpResponse:
+
+
+def main():
+    print('e')
+    r = requests.get('https://www.python.org')
+    r.status_code
+
+if __name__ == "__main__":
+    main()
+
+
+
+def upload_bc3():
     logging.info('Python HTTP trigger function processed a request.')
 
-    name = req.params.get('name')
     if not name:
         try:
-            req_body = req.get_json()
+            req_body = 'a'
         except ValueError:
             pass
         else:
             name = req_body.get('name')
 
-    if name:
-        return func.HttpResponse(f"Hello, {name}. This HTTP triggered function executed successfully.")
-    else:
-        return func.HttpResponse(
-             "This HTTP triggered function executed successfully. Pass a name in the query string or in the request body for a personalized response.",
-             status_code=200
-        )
+
+  
