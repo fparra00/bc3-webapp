@@ -51,7 +51,7 @@ app.get('/SelectProject/', function (req, res) {
     const code = req.query.code;
     console.log('codigo' + code)
     res.redirect('/SelectProjectBc3');
-    console.log('redireccion')
+    console.log('redirect 1')
     //Llamada a APS para obtener token
     let url = 'https://developer.api.autodesk.com/authentication/v1/gettoken';
     let data = {
