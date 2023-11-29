@@ -95,7 +95,7 @@ app.post('/upload', upload.array('myBc3'), (req, res) => {
   console.log(req.files[0]['originalname']);
   var bc3_filename = req.files[0]['originalname']
   //Ejecutar ParserBc3
-  const python1 = spawn('python3', [`scriptsPy/parserbc3.py`, `uploads/${bc3_filename}`, token, project_id, template_id]);
+  const python1 = spawn('python3', [`scripts_py/function_app.py`, `uploads/${bc3_filename}`, token, project_id, template_id]);
   python1
       .stdout
       .on('data', (data) => {
