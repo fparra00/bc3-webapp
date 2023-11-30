@@ -61,7 +61,7 @@ const AutenticaAcc : React.FC = () => {
                         }}
                             mt={10}
                             mb={1}>
-                            Integración de Presupuestos v2
+                            Integración de Presupuestos 
 
                         </Typography>
                         <Typography
@@ -73,7 +73,7 @@ const AutenticaAcc : React.FC = () => {
                         }}
                             mt={7}
                             mb={3}>
-                            Plataforma de integración de presupuestos BC3 con ACC V2
+                            Plataforma de integración de presupuestos BC3 con ACC 
                         </Typography>
                     </Box>
                     <CssBaseline/>
