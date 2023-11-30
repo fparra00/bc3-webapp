@@ -51,7 +51,6 @@ app.get('/SelectProject/', function (req, res) {
     const code = req.query.code;
     console.log('codigo' + code)
     res.redirect('/SelectProjectBc3');
-    console.log('redirect 123')
     //Llamada a APS para obtener token
     let url = 'https://developer.api.autodesk.com/authentication/v1/gettoken';
     let data = {
@@ -94,6 +93,7 @@ app.post('/upload', upload.array('myBc3'), (req, res) => {
     var bc3_filename = req.files[0]['originalname']
     const file_path = `uploads/${bc3_filename}`
     let urlBc3 = 'https://uploadbc3budget.azurewebsites.net/api/sendbc3file';
+    //let urlBc3 = 'http://127.0.0.1:7071/api/sendbc3file';
     let dataBc3 = {
         file: fs.createReadStream(file_path),
         token: token,
@@ -113,7 +113,7 @@ app.post('/upload', upload.array('myBc3'), (req, res) => {
             findHubId(token)
         })
         .catch((error) => {
-            console.error('Error en Axios:', error.message);
+            console.error('Error en Axios:', error.message, error);
         });
     //Ejecutar ParserBc3
     /*
