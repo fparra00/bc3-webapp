@@ -61,7 +61,7 @@ const AutenticaAcc : React.FC = () => {
                         }}
                             mt={10}
                             mb={1}>
-                            Integración de Presupuestos
+                            Integración de Presupuestos v2
 
                         </Typography>
                         <Typography
