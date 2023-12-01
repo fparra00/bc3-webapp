@@ -8,7 +8,7 @@ import Grid from "@mui/material/Unstable_Grid2/Grid2";
 import CssBaseline from '@mui/material/CssBaseline';
 import React from "react";
 const steps = ['Conceder Acceso', 'Seleccionar Proyecto', 'Subir Presupuesto'];
-
+const logo = require("../assets/logo.png")
 const AutenticaAcc : React.FC = () => {
 
     const client_id = 's2ztlGcammyWFdVA7S4P9HX9cGaPKCk8'
@@ -49,14 +49,14 @@ const AutenticaAcc : React.FC = () => {
                 <Box width="90%">
                     <Box display="flex" flexDirection="column" alignItems="left">
                         {/* LOGO */}
-
+                        <img src={logo} style={{width:100, height: 'auto', marginTop: 15}}></img>
                         {/* LOGO END */}
                         <Typography
                             color="#96ce00"
-                            fontSize="25px"
+                            fontSize="22px"
                             sx={{
                             textAlign: 'left',
-                            marginTop: 6,
+                            marginTop: 2,
                             marginBottom: 0
                         }}
                             mt={10}
@@ -66,7 +66,7 @@ const AutenticaAcc : React.FC = () => {
                         </Typography>
                         <Typography
                             color="black"
-                            fontSize="14px"
+                            fontSize="13px"
                             sx={{
                             textAlign: 'left',
                             marginTop: 1
@@ -115,7 +115,7 @@ const AutenticaAcc : React.FC = () => {
                         }}>
                             <Step>
                                 <StepLabel>
-                                    <Typography color="black" fontSize="17px">
+                                    <Typography color="black" fontSize="15px">
                                         Conceder Acceso con ACC
                                     </Typography>
                                 </ StepLabel >
@@ -124,7 +124,7 @@ const AutenticaAcc : React.FC = () => {
 
                         <Typography
                             color="black"
-                            fontSize="13px"
+                            fontSize="12px"
                             sx={{
                             textAlign: 'left'
                         }}
@@ -136,7 +136,7 @@ const AutenticaAcc : React.FC = () => {
                         </Typography>
                         <Typography
                             color="black"
-                            fontSize="13px"
+                            fontSize="12px"
                             sx={{
                             textAlign: 'left'
                         }}
@@ -162,7 +162,7 @@ const AutenticaAcc : React.FC = () => {
                             borderRadius: '30px',
                             width: "95%"
                         }}>
-                            <Typography color="white" fontSize="14px">
+                            <Typography color="white" fontSize="12px">
                                 Aceptar Permisos en ACC
                             </Typography>
                         </Button>
@@ -193,7 +193,7 @@ const AutenticaAcc : React.FC = () => {
                         }}>
                             <Step active={false}>
                                 <StepLabel icon={'2'}>
-                                    <Typography color="grey" fontSize="17px">
+                                    <Typography color="grey" fontSize="15px">
                                         Selecciona el Proyecto
                                     </Typography>
                                 </StepLabel>
@@ -226,7 +226,7 @@ const AutenticaAcc : React.FC = () => {
                         }}>
                             <Step key={0} active={false}>
                                 <StepLabel icon={'3'}>
-                                    <Typography color="grey" fontSize="17px">
+                                    <Typography color="grey" fontSize="15px">
                                         Sube tu Presupuesto
                                     </Typography>
                                 </StepLabel>

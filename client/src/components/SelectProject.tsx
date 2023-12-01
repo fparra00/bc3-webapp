@@ -9,6 +9,7 @@ import CustomDropdown from "./CustomDropdown";
 import ClipLoader from "react-spinners/ClipLoader";
 import axios from "axios";
 import {Navigate} from 'react-router-dom';
+const logo = require("../assets/logo.png")
 
 const steps = ['Conceder Acceso', 'Seleccionar Proyecto', 'Subir Presupuesto'];
 interface Option {
@@ -114,14 +115,15 @@ const SigninPage : React.FC = () => {
                 <Box width="90%">
                     <Box display="flex" flexDirection="column" alignItems="left">
                         {/* LOGO */}
+                        <img src={logo} style={{width:100, height: 'auto', marginTop: 15}}></img>
 
                         {/* LOGO END */}
                         <Typography
                             color="#96ce00"
-                            fontSize="25px"
+                            fontSize="22px"
                             sx={{
                             textAlign: 'left',
-                            marginTop: 6,
+                            marginTop: 2,
                             marginBottom: 0
                         }}
                             mt={10}
@@ -131,7 +133,7 @@ const SigninPage : React.FC = () => {
                         </Typography>
                         <Typography
                             color="black"
-                            fontSize="14px"
+                            fontSize="13px"
                             sx={{
                             textAlign: 'left',
                             marginTop: 1
@@ -193,7 +195,7 @@ const SigninPage : React.FC = () => {
                             }}>
                                 <Step key={0} active={false}>
                                     <StepLabel icon={'1'}>
-                                        <Typography color="grey" fontSize="17px">
+                                        <Typography color="grey" fontSize="15px">
                                             Conceder Acceso en ACC
                                         </Typography>
                                     </StepLabel>
@@ -223,7 +225,7 @@ const SigninPage : React.FC = () => {
                             }}>
                                 <Step key={'1'}>
                                     <StepLabel icon={'2'}>
-                                        <Typography color="black" fontSize="17px">
+                                        <Typography color="black" fontSize="15px">
                                             Selecciona tu Proyecto
                                         </Typography>
                                     </StepLabel>
@@ -232,7 +234,7 @@ const SigninPage : React.FC = () => {
 
                             <Typography
                                 color="black"
-                                fontSize="13px"
+                                fontSize="12px"
                                 sx={{
                                 textAlign: 'left'
                             }}
@@ -243,7 +245,7 @@ const SigninPage : React.FC = () => {
                             </Typography>
                             <Typography
                                 color="black"
-                                fontSize="13px"
+                                fontSize="12px"
                                 sx={{
                                 textAlign: 'left'
                             }}
@@ -296,7 +298,7 @@ const SigninPage : React.FC = () => {
                                 borderRadius: '30px',
                                 width: "95%"
                             }}>
-                                <Typography color="white" fontSize="14px">
+                                <Typography color="white" fontSize="12px">
                                     Seleccionar Proyecto
                                 </Typography>
                             </Button>
@@ -327,7 +329,7 @@ const SigninPage : React.FC = () => {
                             }}>
                                 <Step key={0} active={false}>
                                     <StepLabel icon={'3'}>
-                                        <Typography color="grey" fontSize="17px">
+                                        <Typography color="grey" fontSize="15px">
                                             Sube tu Presupuesto
                                         </Typography>
                                     </StepLabel>

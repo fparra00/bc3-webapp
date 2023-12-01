@@ -59,5 +59,6 @@ export const theme = createTheme({
   },
   typography: {
     fontFamily: ["poppins"].join(" "),
+    fontSize: 12.5
   },
 });
