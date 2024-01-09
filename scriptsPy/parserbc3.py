@@ -88,7 +88,6 @@ def main():
     except Exception as e:
         print(f"Ha ocurrido un error: {e}") 
 
-
     #Proceso para obtener todas las mediciones con sus correspondientes codigos
     all_meditions = {}
     dicc_claves = presBAS.mediciones

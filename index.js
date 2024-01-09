@@ -8,6 +8,7 @@ const cors = require('cors');
 var attributesArray
 var template_id
 var token
+var deleteProject
 const axios = require('axios');
 const PORT = process.env.PORT || 3001;
 
@@ -58,8 +59,8 @@ app.get('/SelectProject/', function (req, res) {
         client_secret: secret_id,
         grant_type: 'authorization_code',
         code: code,
-        redirect_uri: 'https://parserbc3.azurewebsites.net/SelectProject/'
-        //redirect_uri: 'http://localhost:3001/SelectProject/'
+       // redirect_uri: 'https://parserbc3.azurewebsites.net/SelectProject/'
+        redirect_uri: 'http://localhost:3001/SelectProject/'
     };
     let confheaders = {
         headers: {
@@ -93,12 +94,14 @@ app.post('/upload', upload.array('myBc3'), (req, res) => {
     var bc3_filename = req.files[0]['originalname']
     const file_path = `uploads/${bc3_filename}`
     let urlBc3 = 'https://uploadbc3budget.azurewebsites.net/api/sendbc3file';
-    //let urlBc3 = 'http://127.0.0.1:7071/api/sendbc3file';
+
+   // let urlBc3 = 'http://127.0.0.1:7071/api/sendbc3file';
     let dataBc3 = {
         file: fs.createReadStream(file_path),
         token: token,
         id_project: project_id,
-        id_template: template_id
+        id_template: template_id,
+        deleteProject : 'true'
     };
     let confheadersBc3 = {
         headers: {
@@ -194,7 +197,6 @@ function findHubId(tok) {
 
 //Llamada a APS para obtener todos los proyectos
 function getProjects(id_hub, tok) {
-
     const urlProject = `https://developer.api.autodesk.com/project/v1/hubs/${id_hub}/projects`;
     let confheadersProj = {
         headers: {
@@ -215,5 +217,6 @@ function getProjects(id_hub, tok) {
         .catch((error) => {
             console.error(error);
         });
+
 
 }

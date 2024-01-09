@@ -1,6 +1,6 @@
-import {Box, Button,  Typography} from "@mui/material";
+import {Box, Button, Checkbox, FormControlLabel, Typography} from "@mui/material";
 import Grid from "@mui/material/Unstable_Grid2/Grid2";
-import React, {useState, useEffect,} from 'react';
+import React, {useState, useEffect} from 'react';
 import CssBaseline from '@mui/material/CssBaseline';
 import Stepper from '@mui/material/Stepper';
 import Step from '@mui/material/Step';
@@ -11,12 +11,14 @@ import io from 'socket.io-client';
 import 'react-responsive-modal/styles.css';
 import {Modal} from 'react-responsive-modal';
 import ClipLoader from "react-spinners/ClipLoader";
+
 const logo = require("../assets/logo.png")
 
 const fileTypes = ['BC3'];
 const steps = ['Conceder Acceso', 'Seleccionar Proyecto', 'Subir Presupuesto'];
 
 const SendBc3 : React.FC = () => {
+
     const [open,
         setOpen] = useState(false);
     const onOpenModal = () => setOpen(true);
@@ -35,7 +37,7 @@ const SendBc3 : React.FC = () => {
             setLoading(true)
         }
     }
-   
+
     const [pythonMessage,
         setPythonMessage] = useState('');
     const uploadFile = async(fileOrFiles : File | File[]) => {
@@ -49,7 +51,8 @@ const SendBc3 : React.FC = () => {
         }
 
         try {
-           /* const response =*/ await axios.post("/upload/", formData);
+            /* const response =*/
+            await axios.post("/upload/", formData);
         } catch (error) {
             console.error(error);
         }
@@ -115,7 +118,13 @@ const SendBc3 : React.FC = () => {
                 <Box width="90%">
                     <Box display="flex" flexDirection="column" alignItems="left">
                         {/* LOGO */}
-                        <img src={logo} style={{width:100, height: 'auto', marginTop: 15}}></img>
+                        <img
+                            src={logo}
+                            style={{
+                            width: 100,
+                            height: 'auto',
+                            marginTop: 15
+                        }}></img>
 
                         {/* LOGO END */}
                         <Typography
@@ -143,6 +152,7 @@ const SendBc3 : React.FC = () => {
                             Plataforma de integración de presupuestos BC3 con ACC
                         </Typography>
                     </Box>
+
                     <React.Fragment>
                         <CssBaseline/>
 
@@ -290,18 +300,18 @@ const SendBc3 : React.FC = () => {
 
                             {loading
                                 ? (
-                                  
+
                                     <div
-                                    style={{
-                                    display: 'flex',
-                                    justifyContent: 'center',
-                                    alignItems: 'center',
-                                    paddingBottom: '20dp',
-                                    paddingTop: '20dp'
-                                }}><ClipLoader color={'#96ce00'} loading={loading} size={50}/>
-                                <Box marginTop={10} paddingBottom={4}></Box>
-                                </div>
-                                    
+                                        style={{
+                                        display: 'flex',
+                                        justifyContent: 'center',
+                                        alignItems: 'center',
+                                        paddingBottom: '20dp',
+                                        paddingTop: '20dp'
+                                    }}><ClipLoader color={'#96ce00'} loading={loading} size={50}/>
+                                        <Box marginTop={10} paddingBottom={4}></Box>
+                                    </div>
+
                                 )
                                 : (
                                     <div>
@@ -321,11 +331,18 @@ const SendBc3 : React.FC = () => {
                                                 backgroundColor: 'red'
                                             }}/>
                                         </div>
+
+                                        <FormControlLabel
+                                            style={{
+                                            marginTop: '10px'
+                                        }}
+                                            control={< Checkbox defaultChecked />}
+                                            label={< Typography color = "black" fontSize = "12px" > ¿Deseas eliminar los presupuestos existentes en el proyecto? </Typography>}/>
                                         <Button
                                             variant="contained"
                                             onClick={handleClick}
                                             sx={{
-                                            mt: 4,
+                                            mt: 2,
                                             mb: 3,
                                             pt: 1.5,
                                             pb: 1.5,
